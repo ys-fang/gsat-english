@@ -167,27 +167,33 @@ export const useProgressStore = create<ProgressState>()(
           (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
         )
 
-        let streak = 0
         const today = new Date()
         today.setHours(0, 0, 0, 0)
+
+        // Determine starting point: today or yesterday
+        const latestDate = new Date(sorted[0].date)
+        latestDate.setHours(0, 0, 0, 0)
+
+        const diffFromToday = Math.round(
+          (today.getTime() - latestDate.getTime()) / (1000 * 60 * 60 * 24)
+        )
+
+        // If latest activity is not today or yesterday, streak is 0
+        if (diffFromToday > 1) return 0
+
+        let streak = 0
+        // Start checking from the latest activity's date
+        const startDate = new Date(latestDate)
 
         for (let i = 0; i < sorted.length; i++) {
           const activityDate = new Date(sorted[i].date)
           activityDate.setHours(0, 0, 0, 0)
 
-          const expectedDate = new Date(today)
+          const expectedDate = new Date(startDate)
           expectedDate.setDate(expectedDate.getDate() - i)
 
           if (activityDate.getTime() === expectedDate.getTime()) {
             streak++
-          } else if (i === 0) {
-            // If today has no activity, check if yesterday had activity
-            expectedDate.setDate(expectedDate.getDate() - 1)
-            if (activityDate.getTime() === expectedDate.getTime()) {
-              streak++
-            } else {
-              break
-            }
           } else {
             break
           }

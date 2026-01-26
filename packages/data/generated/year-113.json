@@ -25,7 +25,7 @@
       "description": "Watching the sun ______ from a sea of clouds is a must-do activity for all visitors to Ali Mountain. (A) emerging (B) flashing (C) rushing (D) floating",
       "duration": "8:03",
       "createdAt": "2025-09-21T09:08:55Z",
-      "views": 199,
+      "views": 200,
       "youtubeLink": "https://www.youtube.com/watch?v=eG7t23W3xFU",
       "year": 113,
       "question": {
@@ -36,7 +36,7 @@
           "C": "rushing",
           "D": "floating"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 483
     },
@@ -49,7 +49,7 @@
       "description": "Do you know what time the next bus is ______? I’ve been waiting here for more than 30 minutes. (A) apt (B) due (C) bound (D) docked",
       "duration": "5:05",
       "createdAt": "2025-09-21T09:09:38Z",
-      "views": 186,
+      "views": 187,
       "youtubeLink": "https://www.youtube.com/watch?v=8e4asUkELMA",
       "year": 113,
       "question": {
@@ -60,7 +60,7 @@
           "C": "bound",
           "D": "docked"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 305
     },
@@ -73,7 +73,7 @@
       "description": "The roasting heat and high ______ made me feel hot and sticky, no matter what I did to cool off. (A) density (B) humidity (C) circulation  (D) atmosphere",
       "duration": "6:37",
       "createdAt": "2025-09-21T09:10:05Z",
-      "views": 193,
+      "views": 194,
       "youtubeLink": "https://www.youtube.com/watch?v=JGrzyoXIPDA",
       "year": 113,
       "question": {
@@ -84,7 +84,7 @@
           "C": "circulation",
           "D": "atmosphere"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 397
     },
@@ -108,7 +108,7 @@
           "C": "serve",
           "D": "stand"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 382
     },
@@ -132,7 +132,7 @@
           "C": "compulsory",
           "D": "distinctive"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 449
     },
@@ -156,7 +156,7 @@
           "C": "remedy",
           "D": "credit"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 441
     },
@@ -180,7 +180,7 @@
           "C": "promises",
           "D": "confirms"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 744
     },
@@ -204,7 +204,7 @@
           "C": "operation",
           "D": "observation"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 726
     },
@@ -228,7 +228,7 @@
           "C": "apparently",
           "D": "consequently"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 553
     }

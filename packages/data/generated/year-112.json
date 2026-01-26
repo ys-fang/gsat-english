@@ -10,7 +10,7 @@
       "description": "1. The bus driver often complains about chewing gum found under passenger seats because it is  ______  and very hard to remove. (A) sticky  (B) greasy  (C) clumsy  (D) mighty",
       "duration": "8:21",
       "createdAt": "2025-10-01T08:04:56Z",
-      "views": 360,
+      "views": 361,
       "youtubeLink": "https://www.youtube.com/watch?v=dZ9l7BQwEus",
       "year": 112,
       "question": {
@@ -21,7 +21,7 @@
           "C": "clumsy",
           "D": "mighty"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 501
     },
@@ -45,7 +45,7 @@
           "C": "pose",
           "D": "snap"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 722
     },
@@ -69,7 +69,7 @@
           "C": "ancestors",
           "D": "instructors"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 639
     },
@@ -93,7 +93,7 @@
           "C": "hollow",
           "D": "queer"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 557
     },
@@ -117,7 +117,7 @@
           "C": "integrity",
           "D": "sincerity"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 522
     },
@@ -141,7 +141,7 @@
           "C": "privilege",
           "D": "recall"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 668
     },
@@ -165,7 +165,7 @@
           "C": "expose",
           "D": "convert"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 916
     },
@@ -189,7 +189,7 @@
           "C": "rendered",
           "D": "ventured"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 804
     },
@@ -213,7 +213,7 @@
           "C": "enclosed",
           "D": "injected"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 751
     },
@@ -237,7 +237,7 @@
           "C": "understandably",
           "D": "supposedly"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 990
     }

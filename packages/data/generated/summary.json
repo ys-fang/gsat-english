@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-01-25T23:17:50.832Z",
-    "totalVideos": 241,
-    "totalYears": 17,
+    "generatedAt": "2026-01-26T16:15:54.120Z",
+    "totalVideos": 315,
+    "totalYears": 22,
     "years": [
       115,
       113,
@@ -20,7 +20,12 @@
       101,
       100,
       99,
-      98
+      98,
+      97,
+      96,
+      95,
+      94,
+      93
     ]
   },
   "playlists": [
@@ -149,6 +154,41 @@
       "year": 98,
       "videoCount": 15,
       "totalDuration": 11922
+    },
+    {
+      "id": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+      "title": "97年大學學測英文字彙解析",
+      "year": 97,
+      "videoCount": 15,
+      "totalDuration": 6095
+    },
+    {
+      "id": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+      "title": "96年大學學測英文字彙解析",
+      "year": 96,
+      "videoCount": 15,
+      "totalDuration": 6409
+    },
+    {
+      "id": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+      "title": "95年大學學測字彙測驗講解",
+      "year": 95,
+      "videoCount": 15,
+      "totalDuration": 7053
+    },
+    {
+      "id": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+      "title": "94年大學學測英文字彙解析",
+      "year": 94,
+      "videoCount": 14,
+      "totalDuration": 5680
+    },
+    {
+      "id": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+      "title": "93年大學學測英文字彙解析",
+      "year": 93,
+      "videoCount": 15,
+      "totalDuration": 6863
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-01-25T23:17:50.832Z",
-    "totalVideos": 241,
-    "totalYears": 17,
+    "generatedAt": "2026-01-26T16:15:54.120Z",
+    "totalVideos": 315,
+    "totalYears": 22,
     "years": [
       115,
       113,
@@ -20,7 +20,12 @@
       101,
       100,
       99,
-      98
+      98,
+      97,
+      96,
+      95,
+      94,
+      93
     ]
   },
   "playlists": [
@@ -149,9 +154,1164 @@
       "year": 98,
       "videoCount": 15,
       "totalDuration": 11922
+    },
+    {
+      "id": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+      "title": "97年大學學測英文字彙解析",
+      "year": 97,
+      "videoCount": 15,
+      "totalDuration": 6095
+    },
+    {
+      "id": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+      "title": "96年大學學測英文字彙解析",
+      "year": 96,
+      "videoCount": 15,
+      "totalDuration": 6409
+    },
+    {
+      "id": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+      "title": "95年大學學測字彙測驗講解",
+      "year": 95,
+      "videoCount": 15,
+      "totalDuration": 7053
+    },
+    {
+      "id": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+      "title": "94年大學學測英文字彙解析",
+      "year": 94,
+      "videoCount": 14,
+      "totalDuration": 5680
+    },
+    {
+      "id": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+      "title": "93年大學學測英文字彙解析",
+      "year": 93,
+      "videoCount": 15,
+      "totalDuration": 6863
     }
   ],
   "videosByYear": {
+    "93": [
+      {
+        "playlistId": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+        "playlistTitle": "93年大學學測英文字彙解析",
+        "videoIndex": 1,
+        "youtubeId": "Hh8ZhNWs1xE",
+        "videoTitle": "93年大學學測英文字彙解析： 第1題",
+        "description": "expand, attach, confirm, strength, attachment, reconfirm, firm, company, strength, strong, leave for, reservation, airline",
+        "duration": "7:09",
+        "createdAt": "2013-10-05T16:49:48Z",
+        "views": 6124,
+        "youtubeLink": "https://www.youtube.com/watch?v=Hh8ZhNWs1xE",
+        "year": 93,
+        "question": null,
+        "durationSeconds": 429
+      },
+      {
+        "playlistId": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+        "playlistTitle": "93年大學學測英文字彙解析",
+        "videoIndex": 2,
+        "youtubeId": "9XOQ6nzRbS8",
+        "videoTitle": "93年大學學測英文字彙解析： 第2題",
+        "description": "design, 設計, seize, 抓住, quote, 引言, 引文, quotation, observe, 觀察, 遵守, observation, 觀察",
+        "duration": "6:14",
+        "createdAt": "2013-10-05T16:49:48Z",
+        "views": 2280,
+        "youtubeLink": "https://www.youtube.com/watch?v=9XOQ6nzRbS8",
+        "year": 93,
+        "question": null,
+        "durationSeconds": 374
+      },
+      {
+        "playlistId": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+        "playlistTitle": "93年大學學測英文字彙解析",
+        "videoIndex": 3,
+        "youtubeId": "4EMZYl8kngw",
+        "videoTitle": "93年大學學測英文字彙解析： 第3題",
+        "description": "memorable, memory, remember, memo, memorandum, portable, predictable, predict, dictionary, readable",
+        "duration": "8:23",
+        "createdAt": "2013-10-05T16:49:48Z",
+        "views": 1946,
+        "youtubeLink": "https://www.youtube.com/watch?v=4EMZYl8kngw",
+        "year": 93,
+        "question": null,
+        "durationSeconds": 503
+      },
+      {
+        "playlistId": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+        "playlistTitle": "93年大學學測英文字彙解析",
+        "videoIndex": 4,
+        "youtubeId": "3CKXPZQ75z8",
+        "videoTitle": "93年大學學測英文字彙解析： 第4題",
+        "description": "beforehand, inform, anyhow, originally, origin, originate, consequently, consequent, consequence, result, outcome",
+        "duration": "7:50",
+        "createdAt": "2013-10-05T16:49:48Z",
+        "views": 1794,
+        "youtubeLink": "https://www.youtube.com/watch?v=3CKXPZQ75z8",
+        "year": 93,
+        "question": null,
+        "durationSeconds": 470
+      },
+      {
+        "playlistId": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+        "playlistTitle": "93年大學學測英文字彙解析",
+        "videoIndex": 5,
+        "youtubeId": "Gc6guNL6XNs",
+        "videoTitle": "93年大學學測英文字彙解析： 第5題",
+        "description": "incident, event, occurrence, accident, geography, geographic, geographical, photograph, photo, skylight, landmark, milestone",
+        "duration": "8:22",
+        "createdAt": "2013-10-05T16:49:48Z",
+        "views": 1434,
+        "youtubeLink": "https://www.youtube.com/watch?v=Gc6guNL6XNs",
+        "year": 93,
+        "question": null,
+        "durationSeconds": 502
+      },
+      {
+        "playlistId": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+        "playlistTitle": "93年大學學測英文字彙解析",
+        "videoIndex": 6,
+        "youtubeId": "5-wGnvWNhtk",
+        "videoTitle": "93年大學學測英文字彙解析： 第6題",
+        "description": "reference, refer, infer, defer, prefer, intention, intend, conference, meeting, seminar, interaction, interact, interactive",
+        "duration": "11:13",
+        "createdAt": "2013-10-05T16:49:48Z",
+        "views": 1651,
+        "youtubeLink": "https://www.youtube.com/watch?v=5-wGnvWNhtk",
+        "year": 93,
+        "question": null,
+        "durationSeconds": 673
+      },
+      {
+        "playlistId": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+        "playlistTitle": "93年大學學測英文字彙解析",
+        "videoIndex": 7,
+        "youtubeId": "mtYo3MJ6QiM",
+        "videoTitle": "93年大學學測英文字彙解析： 第7題",
+        "description": "interrupt, erupt, corrupt, disconnect, connect, connection, exclude, include, inclusive, discriminate, distinguish, iscrimination",
+        "duration": "12:20",
+        "createdAt": "2013-10-05T16:49:48Z",
+        "views": 1335,
+        "youtubeLink": "https://www.youtube.com/watch?v=mtYo3MJ6QiM",
+        "year": 93,
+        "question": null,
+        "durationSeconds": 740
+      },
+      {
+        "playlistId": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+        "playlistTitle": "93年大學學測英文字彙解析",
+        "videoIndex": 8,
+        "youtubeId": "639SX0rIfqM",
+        "videoTitle": "93年大學學測英文字彙解析： 第8題",
+        "description": "organic, organ, organization, accurate, precise, proper, right, correct, regular, irregular, superficial, artificial",
+        "duration": "7:03",
+        "createdAt": "2013-10-06T16:40:45Z",
+        "views": 1146,
+        "youtubeLink": "https://www.youtube.com/watch?v=639SX0rIfqM",
+        "year": 93,
+        "question": null,
+        "durationSeconds": 423
+      },
+      {
+        "playlistId": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+        "playlistTitle": "93年大學學測英文字彙解析",
+        "videoIndex": 9,
+        "youtubeId": "Ixb6PDe5eKg",
+        "videoTitle": "93年大學學測英文字彙解析： 第9題",
+        "description": "religious, religion, spiritually, spiritual, spirit, typically, type, typical, history, historical, historically, officially, office, officer, take office",
+        "duration": "9:58",
+        "createdAt": "2013-10-06T16:40:45Z",
+        "views": 1042,
+        "youtubeLink": "https://www.youtube.com/watch?v=Ixb6PDe5eKg",
+        "year": 93,
+        "question": null,
+        "durationSeconds": 598
+      },
+      {
+        "playlistId": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+        "playlistTitle": "93年大學學測英文字彙解析",
+        "videoIndex": 10,
+        "youtubeId": "x5ch-rUsfHM",
+        "videoTitle": "93年大學學測英文字彙解析： 第10題",
+        "description": "",
+        "duration": "9:53",
+        "createdAt": "2013-10-06T16:40:45Z",
+        "views": 929,
+        "youtubeLink": "https://www.youtube.com/watch?v=x5ch-rUsfHM",
+        "year": 93,
+        "question": null,
+        "durationSeconds": 593
+      },
+      {
+        "playlistId": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+        "playlistTitle": "93年大學學測英文字彙解析",
+        "videoIndex": 11,
+        "youtubeId": "HKWDXdpli0g",
+        "videoTitle": "93年大學學測英文字彙解析： 第11題",
+        "description": "rainfall, landslide, mudslide, set about, bring about, give rise to, lead to, result in , bring on, come about, take place, put about",
+        "duration": "7:39",
+        "createdAt": "2013-10-07T15:37:09Z",
+        "views": 916,
+        "youtubeLink": "https://www.youtube.com/watch?v=HKWDXdpli0g",
+        "year": 93,
+        "question": null,
+        "durationSeconds": 459
+      },
+      {
+        "playlistId": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+        "playlistTitle": "93年大學學測英文字彙解析",
+        "videoIndex": 12,
+        "youtubeId": "ec_3WC7dogM",
+        "videoTitle": "93年大學學測英文字彙解析： 第12題",
+        "description": "in case of, emergency, stand by, turn on, switch on, get on, run down",
+        "duration": "4:10",
+        "createdAt": "2013-10-07T15:37:09Z",
+        "views": 761,
+        "youtubeLink": "https://www.youtube.com/watch?v=ec_3WC7dogM",
+        "year": 93,
+        "question": null,
+        "durationSeconds": 250
+      },
+      {
+        "playlistId": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+        "playlistTitle": "93年大學學測英文字彙解析",
+        "videoIndex": 13,
+        "youtubeId": "ohGiP8vQBMI",
+        "videoTitle": "93年大學學測英文字彙解析： 第13題",
+        "description": "slippery, slipper, hold onto, put off, set back, postpone, delay, defer, turn up, show up, let go, take apart, take part in",
+        "duration": "4:49",
+        "createdAt": "2013-10-07T15:37:09Z",
+        "views": 782,
+        "youtubeLink": "https://www.youtube.com/watch?v=ohGiP8vQBMI",
+        "year": 93,
+        "question": null,
+        "durationSeconds": 289
+      },
+      {
+        "playlistId": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+        "playlistTitle": "93年大學學測英文字彙解析",
+        "videoIndex": 14,
+        "youtubeId": "6ywN2SG6ijs",
+        "videoTitle": "93年大學學測英文字彙解析： 第14題",
+        "description": "athletic, on time, in time, at times, instead of, in relation to, on behalf of, regardless of",
+        "duration": "4:03",
+        "createdAt": "2013-10-07T15:37:09Z",
+        "views": 814,
+        "youtubeLink": "https://www.youtube.com/watch?v=6ywN2SG6ijs",
+        "year": 93,
+        "question": null,
+        "durationSeconds": 243
+      },
+      {
+        "playlistId": "PL9EijNLnb2m6OjAFQxJKntQD801M_c-i5",
+        "playlistTitle": "93年大學學測英文字彙解析",
+        "videoIndex": 15,
+        "youtubeId": "J0_O8diRF50",
+        "videoTitle": "93年大學學測英文字彙解析： 第15題",
+        "description": "at all cost, for a long while, in the long run, in the long term, eventually, finally, at last, in the end, sooner or later, by no means, by all means",
+        "duration": "5:17",
+        "createdAt": "2013-10-07T15:37:09Z",
+        "views": 894,
+        "youtubeLink": "https://www.youtube.com/watch?v=J0_O8diRF50",
+        "year": 93,
+        "question": null,
+        "durationSeconds": 317
+      }
+    ],
+    "94": [
+      {
+        "playlistId": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+        "playlistTitle": "94年大學學測英文字彙解析",
+        "videoIndex": 1,
+        "youtubeId": "x5eKZiXl4ZU",
+        "videoTitle": "94年學測英文試題字彙測驗解析 Part 1 Q1 and Q2",
+        "description": "94年學測英文試題字彙測驗解析，除了題目本身的講解之外，更強調其所衍生出來的補充字彙！ 希望對各位有幫助囉。",
+        "duration": "15:11",
+        "createdAt": "2013-07-14T16:27:41Z",
+        "views": 3911,
+        "youtubeLink": "https://www.youtube.com/watch?v=x5eKZiXl4ZU",
+        "year": 94,
+        "question": null,
+        "durationSeconds": 911
+      },
+      {
+        "playlistId": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+        "playlistTitle": "94年大學學測英文字彙解析",
+        "videoIndex": 2,
+        "youtubeId": "J4Ti_iMCEEA",
+        "videoTitle": "94年學測英文試題字彙測驗解析 Q3",
+        "description": "94年學測英文試題字彙測驗解析 Q2: design, recycle, manufacture, disguise",
+        "duration": "6:23",
+        "createdAt": "2013-07-14T16:27:41Z",
+        "views": 1523,
+        "youtubeLink": "https://www.youtube.com/watch?v=J4Ti_iMCEEA",
+        "year": 94,
+        "question": null,
+        "durationSeconds": 383
+      },
+      {
+        "playlistId": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+        "playlistTitle": "94年大學學測英文字彙解析",
+        "videoIndex": 3,
+        "youtubeId": "dNeralQsR50",
+        "videoTitle": "94年學測英文試題字彙測驗解析 Q4",
+        "description": "94年學測英文試題字彙測驗解析 Q4 produce, product, production, productivity",
+        "duration": "3:34",
+        "createdAt": "2013-07-14T16:27:41Z",
+        "views": 693,
+        "youtubeLink": "https://www.youtube.com/watch?v=dNeralQsR50",
+        "year": 94,
+        "question": null,
+        "durationSeconds": 214
+      },
+      {
+        "playlistId": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+        "playlistTitle": "94年大學學測英文字彙解析",
+        "videoIndex": 4,
+        "youtubeId": "1LLXBsicewQ",
+        "videoTitle": "94年學測英文試題字彙測驗解析 Q5",
+        "description": "台南市立大灣高中雲端學習平台，高中英文，94年學測字彙解析 Q5",
+        "duration": "4:20",
+        "createdAt": "2013-07-14T16:27:41Z",
+        "views": 1320,
+        "youtubeLink": "https://www.youtube.com/watch?v=1LLXBsicewQ",
+        "year": 94,
+        "question": null,
+        "durationSeconds": 260
+      },
+      {
+        "playlistId": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+        "playlistTitle": "94年大學學測英文字彙解析",
+        "videoIndex": 5,
+        "youtubeId": "jGAN8PMSbu8",
+        "videoTitle": "94年學測英文試題字彙測驗解析 Q6",
+        "description": "台南市立大灣高中雲端學習平台，高中英文，94年學測字彙解析 Q6",
+        "duration": "6:56",
+        "createdAt": "2013-07-14T16:27:41Z",
+        "views": 1145,
+        "youtubeLink": "https://www.youtube.com/watch?v=jGAN8PMSbu8",
+        "year": 94,
+        "question": null,
+        "durationSeconds": 416
+      },
+      {
+        "playlistId": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+        "playlistTitle": "94年大學學測英文字彙解析",
+        "videoIndex": 6,
+        "youtubeId": "VYURiIxITi0",
+        "videoTitle": "94年學測字彙解析 Q7",
+        "description": "台南市立大灣高中雲端學習平台，高中英文，94年學測字彙解析 Q7: sufficient, marvelous, impressive, available",
+        "duration": "5:43",
+        "createdAt": "2013-07-14T16:27:41Z",
+        "views": 1021,
+        "youtubeLink": "https://www.youtube.com/watch?v=VYURiIxITi0",
+        "year": 94,
+        "question": null,
+        "durationSeconds": 343
+      },
+      {
+        "playlistId": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+        "playlistTitle": "94年大學學測英文字彙解析",
+        "videoIndex": 7,
+        "youtubeId": "ofdz1QTprnk",
+        "videoTitle": "94年學測字彙解析 Q8",
+        "description": "台南市立大灣高中雲端學習平台，高中英文，94年學測字彙解析 Q8: explosion, extension, inspection, impression",
+        "duration": "5:55",
+        "createdAt": "2013-07-14T16:27:41Z",
+        "views": 1018,
+        "youtubeLink": "https://www.youtube.com/watch?v=ofdz1QTprnk",
+        "year": 94,
+        "question": null,
+        "durationSeconds": 355
+      },
+      {
+        "playlistId": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+        "playlistTitle": "94年大學學測英文字彙解析",
+        "videoIndex": 8,
+        "youtubeId": "LHbjUlm0UpI",
+        "videoTitle": "94年學測字彙解析 Q9",
+        "description": "台南市立大灣高中雲端學習平台，高中英文，94年學測字彙解析 Q9: consist, insist, resist, persist",
+        "duration": "6:14",
+        "createdAt": "2013-07-14T16:28:17Z",
+        "views": 1146,
+        "youtubeLink": "https://www.youtube.com/watch?v=LHbjUlm0UpI",
+        "year": 94,
+        "question": null,
+        "durationSeconds": 374
+      },
+      {
+        "playlistId": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+        "playlistTitle": "94年大學學測英文字彙解析",
+        "videoIndex": 9,
+        "youtubeId": "CGWCUn1SJZY",
+        "videoTitle": "94年學測字彙解析 Q 10",
+        "description": "台南市立大灣高中雲端學習平台，高中英文，94年學測字彙解析 Q 10: threaten, endanger, demonstrate, arrest",
+        "duration": "8:04",
+        "createdAt": "2013-07-14T16:28:17Z",
+        "views": 847,
+        "youtubeLink": "https://www.youtube.com/watch?v=CGWCUn1SJZY",
+        "year": 94,
+        "question": null,
+        "durationSeconds": 484
+      },
+      {
+        "playlistId": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+        "playlistTitle": "94年大學學測英文字彙解析",
+        "videoIndex": 10,
+        "youtubeId": "7OCTfRlVWyc",
+        "videoTitle": "94年學測字彙解析 Q 11",
+        "description": "台南市立大灣高中雲端學習平台，高中英文，94年學測字彙解析 Q11: apply, replace, inform, persuade",
+        "duration": "8:14",
+        "createdAt": "2013-07-14T16:28:17Z",
+        "views": 911,
+        "youtubeLink": "https://www.youtube.com/watch?v=7OCTfRlVWyc",
+        "year": 94,
+        "question": null,
+        "durationSeconds": 494
+      },
+      {
+        "playlistId": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+        "playlistTitle": "94年大學學測英文字彙解析",
+        "videoIndex": 11,
+        "youtubeId": "RhxedB05H8Y",
+        "videoTitle": "94年學測字彙解析 Q 12",
+        "description": "台南市立大灣高中雲端學習平台，高中英文，94年學測字彙解析 Q12: natural, common, foreign, objective",
+        "duration": "5:24",
+        "createdAt": "2013-07-14T16:28:17Z",
+        "views": 811,
+        "youtubeLink": "https://www.youtube.com/watch?v=RhxedB05H8Y",
+        "year": 94,
+        "question": null,
+        "durationSeconds": 324
+      },
+      {
+        "playlistId": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+        "playlistTitle": "94年大學學測英文字彙解析",
+        "videoIndex": 12,
+        "youtubeId": "mHD7Cmh2MQY",
+        "videoTitle": "94年學測字彙解析 Q 13",
+        "description": "台南市立大灣高中雲端學習平台，高中英文，94年學測字彙解析 Q13: incident, violence, bacteria, drowsiness",
+        "duration": "5:26",
+        "createdAt": "2013-07-14T16:28:17Z",
+        "views": 749,
+        "youtubeLink": "https://www.youtube.com/watch?v=mHD7Cmh2MQY",
+        "year": 94,
+        "question": null,
+        "durationSeconds": 326
+      },
+      {
+        "playlistId": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+        "playlistTitle": "94年大學學測英文字彙解析",
+        "videoIndex": 13,
+        "youtubeId": "gdp7_BlHr7I",
+        "videoTitle": "94年學測字彙解析 Q 14",
+        "description": "台南市立大灣高中雲端學習平台，高中英文，94年學測字彙解析 Q14: publicity, reputation, significance, significant, communication, legal, legislator",
+        "duration": "6:31",
+        "createdAt": "2013-07-14T16:28:17Z",
+        "views": 956,
+        "youtubeLink": "https://www.youtube.com/watch?v=gdp7_BlHr7I",
+        "year": 94,
+        "question": null,
+        "durationSeconds": 391
+      },
+      {
+        "playlistId": "PL9EijNLnb2m7IQ48adh_deVKBXE07_HHt",
+        "playlistTitle": "94年大學學測英文字彙解析",
+        "videoIndex": 14,
+        "youtubeId": "294CKsA_dM4",
+        "videoTitle": "94年學測字彙解析 Q 15",
+        "description": "台南市立大灣高中雲端學習平台，高中英文，94年學測字彙解析 Q15: authority, author, priority, prior, regularity, regular, security",
+        "duration": "6:45",
+        "createdAt": "2013-07-14T16:28:17Z",
+        "views": 834,
+        "youtubeLink": "https://www.youtube.com/watch?v=294CKsA_dM4",
+        "year": 94,
+        "question": null,
+        "durationSeconds": 405
+      }
+    ],
+    "95": [
+      {
+        "playlistId": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+        "playlistTitle": "95年大學學測字彙測驗講解",
+        "videoIndex": 1,
+        "youtubeId": "QXkeik4mTuQ",
+        "videoTitle": "英文科95學測字彙測驗第 1 題",
+        "description": "95學測, pay, move, expose, afford, take a vacation, go on a vacation",
+        "duration": "6:46",
+        "createdAt": "2013-07-14T14:44:41Z",
+        "views": 2449,
+        "youtubeLink": "https://www.youtube.com/watch?v=QXkeik4mTuQ",
+        "year": 95,
+        "question": null,
+        "durationSeconds": 406
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+        "playlistTitle": "95年大學學測字彙測驗講解",
+        "videoIndex": 2,
+        "youtubeId": "u9annS9_PR8",
+        "videoTitle": "英文科95學測字彙測驗第2題",
+        "description": "95學測, 字彙測驗, parenthood, brotherhood, childhood, neighborhood, terrific, marvelous, great,   common, common sense, straight, favor, favorite, favorable",
+        "duration": "7:37",
+        "createdAt": "2013-07-14T14:44:41Z",
+        "views": 1592,
+        "youtubeLink": "https://www.youtube.com/watch?v=u9annS9_PR8",
+        "year": 95,
+        "question": null,
+        "durationSeconds": 457
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+        "playlistTitle": "95年大學學測字彙測驗講解",
+        "videoIndex": 3,
+        "youtubeId": "JU2JfCAm2f4",
+        "videoTitle": "英文科95學測字彙測驗第3題",
+        "description": "origin, original, originally, originate, originate from, ideally, ideal, idea, relatively, relative, relation, relate, relationship, sincerely, sincere, sincerity",
+        "duration": "7:39",
+        "createdAt": "2013-07-14T14:44:41Z",
+        "views": 1191,
+        "youtubeLink": "https://www.youtube.com/watch?v=JU2JfCAm2f4",
+        "year": 95,
+        "question": null,
+        "durationSeconds": 459
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+        "playlistTitle": "95年大學學測字彙測驗講解",
+        "videoIndex": 4,
+        "youtubeId": "aVa0nL__MRw",
+        "videoTitle": "英文科95學測字彙測驗第4題",
+        "description": "ancient, Egyptian, Egypt, feat, marvelous, pyramid, conclude, include, exclude, including, wonder, wander, admit, persuade",
+        "duration": "11:50",
+        "createdAt": "2013-07-14T14:44:41Z",
+        "views": 1175,
+        "youtubeLink": "https://www.youtube.com/watch?v=aVa0nL__MRw",
+        "year": 95,
+        "question": null,
+        "durationSeconds": 710
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+        "playlistTitle": "95年大學學測字彙測驗講解",
+        "videoIndex": 5,
+        "youtubeId": "yk9ANg2d1B8",
+        "videoTitle": "英文科95學測字彙測驗第5題",
+        "description": "disappoint, passive, active, result, progress, attitude, altitude, longitude, latitude, energy, energetic",
+        "duration": "8:36",
+        "createdAt": "2013-07-14T14:44:41Z",
+        "views": 1004,
+        "youtubeLink": "https://www.youtube.com/watch?v=yk9ANg2d1B8",
+        "year": 95,
+        "question": null,
+        "durationSeconds": 516
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+        "playlistTitle": "95年大學學測字彙測驗講解",
+        "videoIndex": 6,
+        "youtubeId": "TVbafR70ReA",
+        "videoTitle": "英文科95學測字彙測驗第6題",
+        "description": "dread, give a speech, passionate, passion, anxious, anxiety, ambitious, ambition, optimistic, optimism, pessimistic, pessimism  註：影片中 pessimism 的拼法拼錯了，請各位多多包涵！",
+        "duration": "5:54",
+        "createdAt": "2013-07-14T14:44:41Z",
+        "views": 1038,
+        "youtubeLink": "https://www.youtube.com/watch?v=TVbafR70ReA",
+        "year": 95,
+        "question": null,
+        "durationSeconds": 354
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+        "playlistTitle": "95年大學學測字彙測驗講解",
+        "videoIndex": 7,
+        "youtubeId": "MxKhMxx7JqQ",
+        "videoTitle": "英文科95學測字彙測驗第7題",
+        "description": "invitation, decline, conflict, turn down, depart, devote, deserve",
+        "duration": "9:37",
+        "createdAt": "2013-07-14T14:43:21Z",
+        "views": 1045,
+        "youtubeLink": "https://www.youtube.com/watch?v=MxKhMxx7JqQ",
+        "year": 95,
+        "question": null,
+        "durationSeconds": 577
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+        "playlistTitle": "95年大學學測字彙測驗講解",
+        "videoIndex": 8,
+        "youtubeId": "aa4yxSbyoS0",
+        "videoTitle": "英文科95學測字彙測驗第8題",
+        "description": "seem, decent, actually, in fact, plentiful, plenty, precious, valuable, beloved, priceless, profitable, profit, productive, produce, production",
+        "duration": "8:02",
+        "createdAt": "2013-07-14T14:43:21Z",
+        "views": 952,
+        "youtubeLink": "https://www.youtube.com/watch?v=aa4yxSbyoS0",
+        "year": 95,
+        "question": null,
+        "durationSeconds": 482
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+        "playlistTitle": "95年大學學測字彙測驗講解",
+        "videoIndex": 9,
+        "youtubeId": "8BZfJXCq_0U",
+        "videoTitle": "英文科95學測字彙測驗第9題",
+        "description": "passenger, passerby, escape, death, bomb, explode, traditionally, valuably, valuable, valueless, priceless, evaluate, evaluation, loosely, loose, loosen, tight, narrowly, narrow, wide, marrow,",
+        "duration": "11:45",
+        "createdAt": "2013-07-14T14:43:21Z",
+        "views": 1013,
+        "youtubeLink": "https://www.youtube.com/watch?v=8BZfJXCq_0U",
+        "year": 95,
+        "question": null,
+        "durationSeconds": 705
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+        "playlistTitle": "95年大學學測字彙測驗講解",
+        "videoIndex": 10,
+        "youtubeId": "90HYZUHk9FQ",
+        "videoTitle": "英文科95學測字彙測驗第10題",
+        "description": "not until, primary school, self-introduction, acquaint, acquaintance, acquire, require, recognize, recognition, realize",
+        "duration": "5:38",
+        "createdAt": "2013-07-14T14:43:21Z",
+        "views": 864,
+        "youtubeLink": "https://www.youtube.com/watch?v=90HYZUHk9FQ",
+        "year": 95,
+        "question": null,
+        "durationSeconds": 338
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+        "playlistTitle": "95年大學學測字彙測驗講解",
+        "videoIndex": 11,
+        "youtubeId": "kqN2s4qNTso",
+        "videoTitle": "英文科95學測字彙測驗第11題",
+        "description": "completion, complete, project, projector, commute, communicate, communication, suburb, transportation, transport, port, airport, traffic, travel, transfer",
+        "duration": "8:58",
+        "createdAt": "2013-11-01T11:24:11Z",
+        "views": 1036,
+        "youtubeLink": "https://www.youtube.com/watch?v=kqN2s4qNTso",
+        "year": 95,
+        "question": null,
+        "durationSeconds": 538
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+        "playlistTitle": "95年大學學測字彙測驗講解",
+        "videoIndex": 12,
+        "youtubeId": "wbLIaaeBpaI",
+        "videoTitle": "95年大學學測英文字彙解析： 第12題",
+        "description": "assign, sign, signature, assignment, resign, design, oral, interpretation, translate, translation, delegation, delegate, program, command, have a good command of, impression",
+        "duration": "8:25",
+        "createdAt": "2013-11-02T16:51:28Z",
+        "views": 915,
+        "youtubeLink": "https://www.youtube.com/watch?v=wbLIaaeBpaI",
+        "year": 95,
+        "question": null,
+        "durationSeconds": 505
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+        "playlistTitle": "95年大學學測字彙測驗講解",
+        "videoIndex": 13,
+        "youtubeId": "FVVvablcHl4",
+        "videoTitle": "95年大學學測英文字彙解析： 第13題",
+        "description": "forthcoming, rest, luxury, in luxury, luxurious, license, limitation limit, strength, power, will power, super power",
+        "duration": "8:51",
+        "createdAt": "2013-11-02T16:51:28Z",
+        "views": 767,
+        "youtubeLink": "https://www.youtube.com/watch?v=FVVvablcHl4",
+        "year": 95,
+        "question": null,
+        "durationSeconds": 531
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+        "playlistTitle": "95年大學學測字彙測驗講解",
+        "videoIndex": 14,
+        "youtubeId": "q69iI5CclxE",
+        "videoTitle": "95年大學學測英文字彙解析： 第14題",
+        "description": "kick out, hand out, handout, wear out, put out",
+        "duration": "4:39",
+        "createdAt": "2013-11-02T16:51:28Z",
+        "views": 681,
+        "youtubeLink": "https://www.youtube.com/watch?v=q69iI5CclxE",
+        "year": 95,
+        "question": null,
+        "durationSeconds": 279
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5hO3HlYrzT6BEr4aOMGTAq",
+        "playlistTitle": "95年大學學測字彙測驗講解",
+        "videoIndex": 15,
+        "youtubeId": "5aykEdCPDtQ",
+        "videoTitle": "95年大學學測英文字彙解析： 第15題",
+        "description": "cut off, cut back, cut short, cut down",
+        "duration": "3:16",
+        "createdAt": "2013-11-02T16:51:28Z",
+        "views": 845,
+        "youtubeLink": "https://www.youtube.com/watch?v=5aykEdCPDtQ",
+        "year": 95,
+        "question": null,
+        "durationSeconds": 196
+      }
+    ],
+    "96": [
+      {
+        "playlistId": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+        "playlistTitle": "96年大學學測英文字彙解析",
+        "videoIndex": 1,
+        "youtubeId": "Y5jCAecMcQg",
+        "videoTitle": "96年大學學測英文字彙解析： 第1題",
+        "description": "adapt, adopt, fortune, fortunate, fortunately, unfortunately, fortune teller, request, companion, company, accompany, decision, decide, make a decision, determine, make a determination, resolve",
+        "duration": "10:38",
+        "createdAt": "2013-10-08T16:42:18Z",
+        "views": 3065,
+        "youtubeLink": "https://www.youtube.com/watch?v=Y5jCAecMcQg",
+        "year": 96,
+        "question": null,
+        "durationSeconds": 638
+      },
+      {
+        "playlistId": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+        "playlistTitle": "96年大學學測英文字彙解析",
+        "videoIndex": 2,
+        "youtubeId": "PpJct9to-yY",
+        "videoTitle": "96年大學學測英文字彙解析： 第2題",
+        "description": "response, respond, reluctance, reluctant, unwilling, permission, permit, allow, potential",
+        "duration": "6:28",
+        "createdAt": "2013-10-08T16:42:18Z",
+        "views": 1331,
+        "youtubeLink": "https://www.youtube.com/watch?v=PpJct9to-yY",
+        "year": 96,
+        "question": null,
+        "durationSeconds": 388
+      },
+      {
+        "playlistId": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+        "playlistTitle": "96年大學學測英文字彙解析",
+        "videoIndex": 3,
+        "youtubeId": "16UNAiqQ8BI",
+        "videoTitle": "96年大學學測英文字彙解析： 第3題",
+        "description": "part-time, full-time, with honors, neglect, overlook, ignore, segment, finance, diminish, reduce, decrease, lessen",
+        "duration": "6:19",
+        "createdAt": "2013-10-08T16:42:18Z",
+        "views": 1092,
+        "youtubeLink": "https://www.youtube.com/watch?v=16UNAiqQ8BI",
+        "year": 96,
+        "question": null,
+        "durationSeconds": 379
+      },
+      {
+        "playlistId": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+        "playlistTitle": "96年大學學測英文字彙解析",
+        "videoIndex": 4,
+        "youtubeId": "z-Ifb19tcoE",
+        "videoTitle": "96年大學學測英文字彙解析： 第4題",
+        "description": "fasten, adjust, adjustment, defeat, overcome, win, triumph, upload, download",
+        "duration": "3:47",
+        "createdAt": "2013-10-08T16:42:18Z",
+        "views": 982,
+        "youtubeLink": "https://www.youtube.com/watch?v=z-Ifb19tcoE",
+        "year": 96,
+        "question": null,
+        "durationSeconds": 227
+      },
+      {
+        "playlistId": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+        "playlistTitle": "96年大學學測英文字彙解析",
+        "videoIndex": 5,
+        "youtubeId": "sJTUJdg-Deg",
+        "videoTitle": "96年大學學測英文字彙解析： 第5題",
+        "description": "provide, solid, liquid, admission, admit, circulation, circle, circulate, foundation, found, fund, extension, extend",
+        "duration": "10:02",
+        "createdAt": "2013-10-08T16:51:12Z",
+        "views": 1120,
+        "youtubeLink": "https://www.youtube.com/watch?v=sJTUJdg-Deg",
+        "year": 96,
+        "question": null,
+        "durationSeconds": 602
+      },
+      {
+        "playlistId": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+        "playlistTitle": "96年大學學測英文字彙解析",
+        "videoIndex": 6,
+        "youtubeId": "qBv4H0TM9go",
+        "videoTitle": "96年大學學測英文字彙解析： 第6題",
+        "description": "per, afford, recreational, recreation, entertainment, division, guidance, guide, tour guide, measure, budget, badge",
+        "duration": "4:54",
+        "createdAt": "2013-10-10T15:58:41Z",
+        "views": 916,
+        "youtubeLink": "https://www.youtube.com/watch?v=qBv4H0TM9go",
+        "year": 96,
+        "question": null,
+        "durationSeconds": 294
+      },
+      {
+        "playlistId": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+        "playlistTitle": "96年大學學測英文字彙解析",
+        "videoIndex": 7,
+        "youtubeId": "HMj8RydVu-E",
+        "videoTitle": "96年大學學測英文字彙解析： 第7題",
+        "description": "succeed, raise, increase, decrease, compensate, negotiate, substitute, advertise, advertisement, commercial",
+        "duration": "6:40",
+        "createdAt": "2013-10-10T15:58:41Z",
+        "views": 943,
+        "youtubeLink": "https://www.youtube.com/watch?v=HMj8RydVu-E",
+        "year": 96,
+        "question": null,
+        "durationSeconds": 400
+      },
+      {
+        "playlistId": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+        "playlistTitle": "96年大學學測英文字彙解析",
+        "videoIndex": 8,
+        "youtubeId": "t8e0vhULCw8",
+        "videoTitle": "96年大學學測英文字彙解析： 第8題",
+        "description": "discourage, courage, encourage, transfer, stretch, stretcher, expand, expend, expenditure, expensive",
+        "duration": "5:09",
+        "createdAt": "2013-10-10T15:58:41Z",
+        "views": 868,
+        "youtubeLink": "https://www.youtube.com/watch?v=t8e0vhULCw8",
+        "year": 96,
+        "question": null,
+        "durationSeconds": 309
+      },
+      {
+        "playlistId": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+        "playlistTitle": "96年大學學測英文字彙解析",
+        "videoIndex": 9,
+        "youtubeId": "7227bMYe0hY",
+        "videoTitle": "96年大學學測英文字彙解析： 第9題",
+        "description": "criticism, excuse, justify, shameful, innocent, defensive, defend, outgoing, introverted",
+        "duration": "4:37",
+        "createdAt": "2013-10-10T15:58:41Z",
+        "views": 866,
+        "youtubeLink": "https://www.youtube.com/watch?v=7227bMYe0hY",
+        "year": 96,
+        "question": null,
+        "durationSeconds": 277
+      },
+      {
+        "playlistId": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+        "playlistTitle": "96年大學學測英文字彙解析",
+        "videoIndex": 10,
+        "youtubeId": "wOTFQwlG8T0",
+        "videoTitle": "96年大學學測英文字彙解析： 第10題",
+        "description": "",
+        "duration": "5:06",
+        "createdAt": "2013-10-10T15:58:41Z",
+        "views": 794,
+        "youtubeLink": "https://www.youtube.com/watch?v=wOTFQwlG8T0",
+        "year": 96,
+        "question": null,
+        "durationSeconds": 306
+      },
+      {
+        "playlistId": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+        "playlistTitle": "96年大學學測英文字彙解析",
+        "videoIndex": 11,
+        "youtubeId": "DhbiNMQGa0s",
+        "videoTitle": "96年大學學測英文字彙解析： 第11題",
+        "description": "human beings, humankind, humans, man, mankind, cloth, magnificent, magnify, magnifier, essential, essence, influential, influence, effect, affect, profitable, profit, make a profit, profit from",
+        "duration": "8:56",
+        "createdAt": "2013-10-13T17:09:22Z",
+        "views": 931,
+        "youtubeLink": "https://www.youtube.com/watch?v=DhbiNMQGa0s",
+        "year": 96,
+        "question": null,
+        "durationSeconds": 536
+      },
+      {
+        "playlistId": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+        "playlistTitle": "96年大學學測英文字彙解析",
+        "videoIndex": 12,
+        "youtubeId": "B5RfahR6AlM",
+        "videoTitle": "96年大學學測英文字彙解析： 第12題",
+        "description": "manage, manage to, without hesitation, hesitate, retreat, treat, treaty, revive, remove, resign, sign, design, assign, consign",
+        "duration": "9:06",
+        "createdAt": "2013-10-13T17:09:22Z",
+        "views": 800,
+        "youtubeLink": "https://www.youtube.com/watch?v=B5RfahR6AlM",
+        "year": 96,
+        "question": null,
+        "durationSeconds": 546
+      },
+      {
+        "playlistId": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+        "playlistTitle": "96年大學學測英文字彙解析",
+        "videoIndex": 13,
+        "youtubeId": "0FpfGgfSG54",
+        "videoTitle": "96年大學學測英文字彙解析： 第13題",
+        "description": "legal, illegal, concerning, concern, be concerned about, incident, accident, preserve, distribution, distribute, attribute, attribute, contribute, formation, information, form, fill in, fill out, document, construction, construct, structure, instruct",
+        "duration": "8:55",
+        "createdAt": "2013-10-14T11:27:41Z",
+        "views": 751,
+        "youtubeLink": "https://www.youtube.com/watch?v=0FpfGgfSG54",
+        "year": 96,
+        "question": null,
+        "durationSeconds": 535
+      },
+      {
+        "playlistId": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+        "playlistTitle": "96年大學學測英文字彙解析",
+        "videoIndex": 14,
+        "youtubeId": "L5HiCIorUnY",
+        "videoTitle": "96年大學學測英文字彙解析： 第14題",
+        "description": "scholarship, scholar, cover, expense, expensive, expenditure, payment, cost, major, minor, recently, roughly, rough, tough, frankly, frankly speaking, honestly, variously, vary, various, variety",
+        "duration": "8:39",
+        "createdAt": "2013-10-14T14:56:14Z",
+        "views": 719,
+        "youtubeLink": "https://www.youtube.com/watch?v=L5HiCIorUnY",
+        "year": 96,
+        "question": null,
+        "durationSeconds": 519
+      },
+      {
+        "playlistId": "PL9EijNLnb2m552MpK5cfTSVLOc1rrCfNZ",
+        "playlistTitle": "96年大學學測英文字彙解析",
+        "videoIndex": 15,
+        "youtubeId": "EW1X036pqHk",
+        "videoTitle": "96年大學學測英文字彙解析： 第15題",
+        "description": "healthy, health, wealth, recover, recovery, amaze, convince, advise, advice, confirm, firm",
+        "duration": "7:33",
+        "createdAt": "2013-10-14T15:43:06Z",
+        "views": 780,
+        "youtubeLink": "https://www.youtube.com/watch?v=EW1X036pqHk",
+        "year": 96,
+        "question": null,
+        "durationSeconds": 453
+      }
+    ],
+    "97": [
+      {
+        "playlistId": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+        "playlistTitle": "97年大學學測英文字彙解析",
+        "videoIndex": 1,
+        "youtubeId": "OLJahTt7aJo",
+        "videoTitle": "97年大學學測英文字彙解析： 第1題",
+        "description": "arrest, 逮捕,  alarm, 使~驚慌, notice, 注意, delay,  延遲, be under arrest, take a rest",
+        "duration": "5:32",
+        "createdAt": "2013-10-23T15:10:52Z",
+        "views": 6273,
+        "youtubeLink": "https://www.youtube.com/watch?v=OLJahTt7aJo",
+        "year": 97,
+        "question": null,
+        "durationSeconds": 332
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+        "playlistTitle": "97年大學學測英文字彙解析",
+        "videoIndex": 2,
+        "youtubeId": "sFXAwtCbKMY",
+        "videoTitle": "97年大學學測英文字彙解析： 第2題",
+        "description": "label, 標籤, sticker, 貼紙, scratch, 抓, 搔, lighten, squeeze, 擠, 壓",
+        "duration": "5:00",
+        "createdAt": "2013-10-23T15:10:52Z",
+        "views": 3914,
+        "youtubeLink": "https://www.youtube.com/watch?v=sFXAwtCbKMY",
+        "year": 97,
+        "question": null,
+        "durationSeconds": 300
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+        "playlistTitle": "97年大學學測英文字彙解析",
+        "videoIndex": 3,
+        "youtubeId": "h3U1uFpO2fA",
+        "videoTitle": "97年大學學測英文字彙解析： 第3題",
+        "description": "launch, 發射, lunch, invade, 侵略, invasion, adopt, 採用, adapt, 使適應, adopted child, stepchild, adapt, adapt to, digest, 消化, 文摘",
+        "duration": "6:38",
+        "createdAt": "2013-10-23T15:10:52Z",
+        "views": 2273,
+        "youtubeLink": "https://www.youtube.com/watch?v=h3U1uFpO2fA",
+        "year": 97,
+        "question": null,
+        "durationSeconds": 398
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+        "playlistTitle": "97年大學學測英文字彙解析",
+        "videoIndex": 4,
+        "youtubeId": "AnaB1aSBlAU",
+        "videoTitle": "97年大學學測英文字彙解析： 第4題",
+        "description": "air-conditioned, 有空調的, consume, 消費, consumer, consumption, tolerate, 忍受, endure, stand, put up with, recover, 恢復, promote, 提昇, 晉升",
+        "duration": "6:29",
+        "createdAt": "2013-10-25T12:26:42Z",
+        "views": 1927,
+        "youtubeLink": "https://www.youtube.com/watch?v=AnaB1aSBlAU",
+        "year": 97,
+        "question": null,
+        "durationSeconds": 389
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+        "playlistTitle": "97年大學學測英文字彙解析",
+        "videoIndex": 5,
+        "youtubeId": "XxzMPsPOUGs",
+        "videoTitle": "97年大學學測英文字彙解析： 第5題",
+        "description": "religious, 宗教的, 虔誠的, religion, 宗教, visual, 視覺的, vision, audio, clumsy, 笨手笨腳的, awkward, cumbersome, intimate, 親密的",
+        "duration": "5:51",
+        "createdAt": "2013-10-25T12:26:42Z",
+        "views": 1786,
+        "youtubeLink": "https://www.youtube.com/watch?v=XxzMPsPOUGs",
+        "year": 97,
+        "question": null,
+        "durationSeconds": 351
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+        "playlistTitle": "97年大學學測英文字彙解析",
+        "videoIndex": 6,
+        "youtubeId": "NlPUXxnByEo",
+        "videoTitle": "97年大學學測英文字彙解析： 第6題",
+        "description": "instance, example, instant, instantly, right away, dominance, dominant, dominate, rule, control, govern, appliance, apply, apply for, fragrance, aroma, scent, perfume, odor, smell",
+        "duration": "7:33",
+        "createdAt": "2013-10-25T17:15:15Z",
+        "views": 3063,
+        "youtubeLink": "https://www.youtube.com/watch?v=NlPUXxnByEo",
+        "year": 97,
+        "question": null,
+        "durationSeconds": 453
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+        "playlistTitle": "97年大學學測英文字彙解析",
+        "videoIndex": 7,
+        "youtubeId": "_bDDfiVkdeM",
+        "videoTitle": "97年大學學測英文字彙解析： 第7題",
+        "description": "profit, 利潤, organic, 有機的, 有機體的, organ, 器官, organize, 組織, organization, charity, 慈善機構, bulletin, 公佈, bulletin board, bullet, 子彈, harvest, 豐收, rebel, 反抗, rebel against",
+        "duration": "7:50",
+        "createdAt": "2013-10-25T17:15:15Z",
+        "views": 1493,
+        "youtubeLink": "https://www.youtube.com/watch?v=_bDDfiVkdeM",
+        "year": 97,
+        "question": null,
+        "durationSeconds": 470
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+        "playlistTitle": "97年大學學測英文字彙解析",
+        "videoIndex": 8,
+        "youtubeId": "7aDjDrLl_uA",
+        "videoTitle": "97年大學學測英文字彙解析： 第8題",
+        "description": "rare, 稀有的, 罕見的, scarce, sparse, uncommon, unusual, mischief, 頑皮, miss, misunderstand, 誤解, mislead, 誤導, mistake, 錯誤, misspell, 拼錯, privilege, 特權, involvement, 牽連, involve, 包含, revolve, 玄, occupation, 職業, occupy, 佔據, work, job, profession, career",
+        "duration": "8:00",
+        "createdAt": "2013-10-25T17:15:15Z",
+        "views": 1482,
+        "youtubeLink": "https://www.youtube.com/watch?v=7aDjDrLl_uA",
+        "year": 97,
+        "question": null,
+        "durationSeconds": 480
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+        "playlistTitle": "97年大學學測英文字彙解析",
+        "videoIndex": 9,
+        "youtubeId": "G-wrVu_W5_c",
+        "videoTitle": "97年大學學測英文字彙解析： 第9題",
+        "description": "obviously, 明顯地, obvious, functions, 功能, technical, 技術的, technician, technic, technology, technological, suitable, 合適的, suit, superior, 優於, inferior, 劣於, junior, senior, typical, 典型的, type, blood type, kind",
+        "duration": "8:11",
+        "createdAt": "2013-10-27T16:11:00Z",
+        "views": 1369,
+        "youtubeLink": "https://www.youtube.com/watch?v=G-wrVu_W5_c",
+        "year": 97,
+        "question": null,
+        "durationSeconds": 491
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+        "playlistTitle": "97年大學學測英文字彙解析",
+        "videoIndex": 10,
+        "youtubeId": "R3xN9CgO8Z4",
+        "videoTitle": "97年大學學測英文字彙解析： 第10題",
+        "description": "secondary, 第二的, temporary, 暫時的, tempo, 節奏, temple, 寺廟, 聖殿, 太陽穴, temper, 脾氣, bad-tempered, 易怒的, ill-tempered, sociable, 好社交的, society, 社會, social, 社會的, socialize, capable, 能夠, capability, 能力, able, ability, be able to, be capable of",
+        "duration": "7:07",
+        "createdAt": "2013-10-28T16:32:45Z",
+        "views": 1291,
+        "youtubeLink": "https://www.youtube.com/watch?v=R3xN9CgO8Z4",
+        "year": 97,
+        "question": null,
+        "durationSeconds": 427
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+        "playlistTitle": "97年大學學測英文字彙解析",
+        "videoIndex": 11,
+        "youtubeId": "k-b1uXPZdEw",
+        "videoTitle": "97年大學學測英文字彙解析： 第11題",
+        "description": "consider, 考慮, dramatic, 戲劇性的, drama, 戲劇, realistic, 實際的, practical, pragmatic, 務實的, real, reality, truth, stressful, stress, stressed-out, pressure, manageable, manage to, manager, management, general manager",
+        "duration": "7:41",
+        "createdAt": "2013-10-28T16:32:45Z",
+        "views": 1245,
+        "youtubeLink": "https://www.youtube.com/watch?v=k-b1uXPZdEw",
+        "year": 97,
+        "question": null,
+        "durationSeconds": 461
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+        "playlistTitle": "97年大學學測英文字彙解析",
+        "videoIndex": 12,
+        "youtubeId": "tRXHZjP2CVQ",
+        "videoTitle": "97年大學學測英文字彙解析： 第12題",
+        "description": "waterfall, 瀑布, temple, 廟宇, tunnel, 隧道, channel, 水道",
+        "duration": "5:37",
+        "createdAt": "2013-10-28T16:32:45Z",
+        "views": 952,
+        "youtubeLink": "https://www.youtube.com/watch?v=tRXHZjP2CVQ",
+        "year": 97,
+        "question": null,
+        "durationSeconds": 337
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+        "playlistTitle": "97年大學學測英文字彙解析",
+        "videoIndex": 13,
+        "youtubeId": "VUhtFdmXa5g",
+        "videoTitle": "97年大學學測英文字彙解析： 第13題",
+        "description": "appealing, appeal to, appear, equally, equal, equality, annually, annual, yearly, anniversary, merely, gratefully, grateful",
+        "duration": "5:58",
+        "createdAt": "2013-10-28T16:32:45Z",
+        "views": 1066,
+        "youtubeLink": "https://www.youtube.com/watch?v=VUhtFdmXa5g",
+        "year": 97,
+        "question": null,
+        "durationSeconds": 358
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+        "playlistTitle": "97年大學學測英文字彙解析",
+        "videoIndex": 14,
+        "youtubeId": "lVBwu7x4FMQ",
+        "videoTitle": "97年大學學測英文字彙解析： 第14題",
+        "description": "recently, 最近地, praise, 稱讚, perform, 表演, performer, character, 角色, performance, 演出, pretend, 假裝, make believe, postpone, delay, defer, suspend, procrastinate, put off, persuade, 說服, convince, talk into",
+        "duration": "7:43",
+        "createdAt": "2013-10-29T08:19:49Z",
+        "views": 1246,
+        "youtubeLink": "https://www.youtube.com/watch?v=lVBwu7x4FMQ",
+        "year": 97,
+        "question": null,
+        "durationSeconds": 463
+      },
+      {
+        "playlistId": "PL9EijNLnb2m5n0Ow9_AUWsHmj-DQ0ruk3",
+        "playlistTitle": "97年大學學測英文字彙解析",
+        "videoIndex": 15,
+        "youtubeId": "HD9xtJoWaD8",
+        "videoTitle": "97年大學學測英文字彙解析： 第15題",
+        "description": "search, suspect, 嫌犯, turn upside down, relatively, 有關地, relative, relate, relation, relationship, 關係, thoroughly, 完全地, fully, wholly, comprehensively, completely, casually, 隨便地, casual, permanently, 永久地, for good, for ever",
+        "duration": "6:25",
+        "createdAt": "2013-10-29T08:19:49Z",
+        "views": 2938,
+        "youtubeLink": "https://www.youtube.com/watch?v=HD9xtJoWaD8",
+        "year": 97,
+        "question": null,
+        "durationSeconds": 385
+      }
+    ],
     "98": [
       {
         "playlistId": "PL9EijNLnb2m46JxSNVQLXcJs6VpKp0zM7",
@@ -162,7 +1322,7 @@
         "description": "1. Steve’s description of the place was so _____ that I could almost picture it in my mind. (A) bitter (B) vivid (C) sensitive (D) courageous",
         "duration": "9:44",
         "createdAt": "2026-01-12T13:48:40Z",
-        "views": 78,
+        "views": 82,
         "youtubeLink": "https://www.youtube.com/watch?v=cHUxxGZ0RYw",
         "year": 98,
         "question": {
@@ -186,7 +1346,7 @@
         "description": "2. When people feel uncomfortable or nervous, they may _____ their arms across their chests as if to protect themselves. (A) toss (B) fold (C) veil (D) yield",
         "duration": "12:38",
         "createdAt": "2026-01-12T13:49:04Z",
-        "views": 118,
+        "views": 120,
         "youtubeLink": "https://www.youtube.com/watch?v=JMVUhjoLJ60",
         "year": 98,
         "question": {
@@ -426,7 +1586,7 @@
         "description": "12. Rapid advancement in motor engineering makes it _____ possible to build a flying car in the near future. (A) individually (B) narrowly (C) punctually (D) technically",
         "duration": "15:21",
         "createdAt": "2026-01-16T09:43:00Z",
-        "views": 60,
+        "views": 61,
         "youtubeLink": "https://www.youtube.com/watch?v=BHl6O8KPAsw",
         "year": 98,
         "question": {
@@ -827,7 +1987,7 @@
         "description": "2. Using a heating pad or taking warm baths can sometimes help to _____ pain in the lower back. (A) polish (B) relieve (C) switch (D) maintain",
         "duration": "15:35",
         "createdAt": "2026-01-07T09:18:42Z",
-        "views": 58,
+        "views": 59,
         "youtubeLink": "https://www.youtube.com/watch?v=aQZjrvvJinc",
         "year": 99,
         "question": {
@@ -997,7 +2157,7 @@
         "description": "6. Three people are running for mayor. All three _____ seem confident that they will be elected, but we won’t know until the outcome of the election is announced.  (A) particles (B) receivers (C) candidates (D) containers",
         "duration": "16:42",
         "createdAt": "2026-01-03T07:35:49Z",
-        "views": 67,
+        "views": 69,
         "youtubeLink": "https://www.youtube.com/watch?v=GPX2nWghhhY",
         "year": 100,
         "question": {
@@ -1093,7 +2253,7 @@
         "description": "10. Everyone in the office must attend the meeting tomorrow. There are no _____ allowed. (A) exceptions (B) additions (C) divisions (D) measures",
         "duration": "11:32",
         "createdAt": "2026-01-04T09:02:20Z",
-        "views": 95,
+        "views": 96,
         "youtubeLink": "https://www.youtube.com/watch?v=SXfxiqAjPBQ",
         "year": 100,
         "question": {
@@ -1165,7 +2325,7 @@
         "description": "13. When I open a book, I look first at the table of       to get a general idea of the book and to see which chapters I might be interested in reading. (A) contracts (B) contents (C) contests (D) contacts",
         "duration": "10:52",
         "createdAt": "2026-01-05T09:49:34Z",
-        "views": 109,
+        "views": 112,
         "youtubeLink": "https://www.youtube.com/watch?v=fc-chtIX8W8",
         "year": 100,
         "question": null,
@@ -1180,7 +2340,7 @@
         "description": "14. The children were so _____ to see the clown appear on stage that they laughed, screamed, and clapped their hands happily.  (A) admirable (B) fearful (C) delighted (D) intense",
         "duration": "11:21",
         "createdAt": "2026-01-05T09:38:18Z",
-        "views": 82,
+        "views": 83,
         "youtubeLink": "https://www.youtube.com/watch?v=Lh6jjA7RkGQ",
         "year": 100,
         "question": {
@@ -1204,7 +2364,7 @@
         "description": "15. Typhoon Maggie brought to I-lan County a huge amount of rainfall, much greater than the _____ rainfall of the season in the area.  (A) average (B) considerate (C) promising (D) enjoyable",
         "duration": "13:33",
         "createdAt": "2026-01-06T04:06:19Z",
-        "views": 70,
+        "views": 71,
         "youtubeLink": "https://www.youtube.com/watch?v=IsPGWUDgi4c",
         "year": 100,
         "question": {
@@ -1592,7 +2752,7 @@
         "description": "15. Emma and Joe are looking for a live-in babysitter for their three-year-old twins, ______ one who knows how to cook. (A) initially (B) apparently (C) preferably (D) considerably",
         "duration": "11:45",
         "createdAt": "2025-12-23T06:05:41Z",
-        "views": 90,
+        "views": 91,
         "youtubeLink": "https://www.youtube.com/watch?v=-WDGG-Ja5gQ",
         "year": 102,
         "question": {
@@ -1616,7 +2776,7 @@
         "description": "14. Though Kevin failed in last year’s singing contest, he did not feel  ______ . This year he practiced day and night and finally won first place in the competition. (A) relieved (B) suspected (C) discounted (D) frustrated",
         "duration": "14:15",
         "createdAt": "2025-12-23T06:05:14Z",
-        "views": 48,
+        "views": 49,
         "youtubeLink": "https://www.youtube.com/watch?v=VsHbvdF78iM",
         "year": 102,
         "question": {
@@ -1640,7 +2800,7 @@
         "description": "13. The kingdom began to        after the death of its ruler, and was soon taken over by a neighboring country. (A) collapse (B) dismiss (C) rebel (D) withdraw",
         "duration": "14:21",
         "createdAt": "2025-12-23T06:04:44Z",
-        "views": 59,
+        "views": 60,
         "youtubeLink": "https://www.youtube.com/watch?v=nbPdVZY6Y4I",
         "year": 102,
         "question": null,
@@ -1655,7 +2815,7 @@
         "description": "12. Getting a flu shot before the start of flu season gives our body a chance to build up protection against the        that could make us sick. (A) poison (B) misery (C) leak (D) virus",
         "duration": "10:21",
         "createdAt": "2025-12-23T06:04:20Z",
-        "views": 34,
+        "views": 35,
         "youtubeLink": "https://www.youtube.com/watch?v=wrLqB5Wvnmw",
         "year": 102,
         "question": null,
@@ -1670,7 +2830,7 @@
         "description": "11. After working in front of my computer for the entire day, my neck and shoulders got so           that I couldn’t even turn my head. (A) dense (B) harsh (C) stiff (D) concrete",
         "duration": "7:46",
         "createdAt": "2025-12-22T09:52:43Z",
-        "views": 44,
+        "views": 45,
         "youtubeLink": "https://www.youtube.com/watch?v=gxYYv3QXCOk",
         "year": 102,
         "question": null,
@@ -1685,7 +2845,7 @@
         "description": "10. The book is not only informative but also       , making me laugh and feel relaxed while reading it. (A) understanding (B) infecting (C) entertaining (D) annoying",
         "duration": "12:24",
         "createdAt": "2025-12-22T08:18:53Z",
-        "views": 37,
+        "views": 38,
         "youtubeLink": "https://www.youtube.com/watch?v=72xqsPU5igc",
         "year": 102,
         "question": null,
@@ -1700,7 +2860,7 @@
         "description": "8. Women’s fashions are        changing: One season they may favor pantsuits, but the next season they may prefer miniskirts. (A) lately (B) shortly (C) relatively (D) constantly",
         "duration": "14:29",
         "createdAt": "2025-12-22T08:17:19Z",
-        "views": 74,
+        "views": 75,
         "youtubeLink": "https://www.youtube.com/watch?v=HGBqMIWIPYk",
         "year": 102,
         "question": null,
@@ -1745,7 +2905,7 @@
         "description": "6. The bank tries its best to attract more customers. Its staff members are always available to provide        service. (A) singular (B) prompt (C) expensive (D) probable",
         "duration": "17:00",
         "createdAt": "2025-12-22T08:16:30Z",
-        "views": 36,
+        "views": 37,
         "youtubeLink": "https://www.youtube.com/watch?v=pkDzBoA0XdQ",
         "year": 102,
         "question": null,
@@ -1760,7 +2920,7 @@
         "description": "5. Betty was ______ to accept her friend’s suggestion because she thought she could come up with a better idea herself. (A) tolerable (B) sensitive (C) reluctant (D) modest",
         "duration": "14:24",
         "createdAt": "2025-12-21T09:39:02Z",
-        "views": 60,
+        "views": 62,
         "youtubeLink": "https://www.youtube.com/watch?v=XgcGH1q1Zjg",
         "year": 102,
         "question": {
@@ -1784,7 +2944,7 @@
         "description": "4. Since I do not fully understand your proposal, I am not in the position to make any        on it. (A) difference (B) solution (C) demand (D) comment",
         "duration": "14:11",
         "createdAt": "2025-12-21T09:38:48Z",
-        "views": 51,
+        "views": 52,
         "youtubeLink": "https://www.youtube.com/watch?v=E2yH4nub-x8",
         "year": 102,
         "question": null,
@@ -1948,7 +3108,7 @@
         "description": "10. Residents are told not to dump all household waste _____ into the trash can; reusable materials should first be sorted out and recycled. (A) shortly (B) straight (C) forward (D) namely",
         "duration": "17:32",
         "createdAt": "2025-12-17T14:27:02Z",
-        "views": 87,
+        "views": 88,
         "youtubeLink": "https://www.youtube.com/watch?v=GZU2eYMW0Pw",
         "year": 103,
         "question": {
@@ -2190,7 +3350,7 @@
         "description": "1. Nowadays many companies adopt a ______ work schedule which allows their employees to decide when to arrive at work—from as early as 6 a.m. to as late as 11 a.m. (A) relative (B) severe (C) primitive (D) flexible",
         "duration": "14:04",
         "createdAt": "2025-11-28T09:48:27Z",
-        "views": 133,
+        "views": 134,
         "youtubeLink": "https://www.youtube.com/watch?v=_JdN7-GcIGU",
         "year": 104,
         "question": {
@@ -2552,7 +3712,7 @@
         "description": "Posters of the local rock band were displayed in store windows to promote the sale of their _____ tickets. (A) journey (B) traffic (C) concert (D) record",
         "duration": "10:53",
         "createdAt": "2025-10-23T08:04:15Z",
-        "views": 138,
+        "views": 139,
         "youtubeLink": "https://www.youtube.com/watch?v=yzPbQiGH2wQ",
         "year": 105,
         "question": {
@@ -2563,7 +3723,7 @@
             "C": "concert",
             "D": "record"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 653
       },
@@ -2576,7 +3736,7 @@
         "description": "Maria didn’t want to deliver the bad news to David about his failing the job interview. She herself was quite _____ about it.  (A) awful (B) drowsy (C) tragic (D) upset",
         "duration": "13:00",
         "createdAt": "2025-10-23T08:03:26Z",
-        "views": 94,
+        "views": 95,
         "youtubeLink": "https://www.youtube.com/watch?v=vIkPE9dJilY",
         "year": 105,
         "question": {
@@ -2587,7 +3747,7 @@
             "C": "tragic",
             "D": "upset"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 780
       },
@@ -2600,7 +3760,7 @@
         "description": "The newcomer speaks with a strong Irish _____; he must be from Ireland. (A) accent (B) identity (C) gratitude (D) signature",
         "duration": "7:42",
         "createdAt": "2025-10-23T08:04:41Z",
-        "views": 83,
+        "views": 84,
         "youtubeLink": "https://www.youtube.com/watch?v=tQUKGLadnKI",
         "year": 105,
         "question": {
@@ -2611,7 +3771,7 @@
             "C": "gratitude",
             "D": "signature"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 462
       },
@@ -2624,7 +3784,7 @@
         "description": "Although Maggie has been physically _____ to her wheelchair since the car accident, she does not limit herself to indoor activities.  (A) ceased (B) committed (C) confined (D) conveyed",
         "duration": "14:53",
         "createdAt": "2025-10-23T08:05:13Z",
-        "views": 124,
+        "views": 125,
         "youtubeLink": "https://www.youtube.com/watch?v=RsfOuSoBzDA",
         "year": 105,
         "question": {
@@ -2635,7 +3795,7 @@
             "C": "confined",
             "D": "conveyed"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 893
       },
@@ -2648,7 +3808,7 @@
         "description": "5. All passengers riding in cars are required to fasten their seatbelts in order to reduce the risk of _____ in case of an accident.  (A) injury (B) offense (C) sacrifice (D) victim",
         "duration": "16:56",
         "createdAt": "2025-10-24T03:43:34Z",
-        "views": 92,
+        "views": 93,
         "youtubeLink": "https://www.youtube.com/watch?v=eg2cvW5B7to",
         "year": 105,
         "question": {
@@ -2659,7 +3819,7 @@
             "C": "sacrifice",
             "D": "victim"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 1016
       },
@@ -2672,7 +3832,7 @@
         "description": "The principal of this school is a man of exceptional _____. He sets aside a part of his salary for a scholarship fund for children from needy families. (A) security (B) maturity (C) facility (D) generosity",
         "duration": "15:56",
         "createdAt": "2025-10-24T08:16:41Z",
-        "views": 111,
+        "views": 112,
         "youtubeLink": "https://www.youtube.com/watch?v=c9w0PGHdkNU",
         "year": 105,
         "question": {
@@ -2683,7 +3843,7 @@
             "C": "facility",
             "D": "generosity"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 956
       },
@@ -2707,7 +3867,7 @@
             "C": "demonstrates",
             "D": "exaggerates"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 513
       },
@@ -2731,7 +3891,7 @@
             "C": "realistic",
             "D": "numerous"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 637
       },
@@ -2755,7 +3915,7 @@
             "C": "Enormously",
             "D": "Innocently"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 892
       },
@@ -2779,7 +3939,7 @@
             "C": "retirement",
             "D": "announcement"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 640
       },
@@ -2803,7 +3963,7 @@
             "C": "steady",
             "D": "flexible"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 629
       },
@@ -2816,7 +3976,7 @@
         "description": "Benson married Julie soon after he had _____ her heart and gained her parents’ approval. (A) conquered (B) estimated (C) guaranteed (D) intensified",
         "duration": "11:05",
         "createdAt": "2025-10-25T08:27:27Z",
-        "views": 122,
+        "views": 123,
         "youtubeLink": "https://www.youtube.com/watch?v=TfzhqcrQsEs",
         "year": 105,
         "question": {
@@ -2827,7 +3987,7 @@
             "C": "guaranteed",
             "D": "intensified"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 665
       },
@@ -2851,7 +4011,7 @@
             "C": "hastened",
             "D": "neglected"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 639
       },
@@ -2864,7 +4024,7 @@
         "description": "The results of this survey are not reliable because the people it questioned were not a typical or _____ sample of the entire population that was studied.  (A) primitive (B) spiritual (C) representative (D) informative",
         "duration": "15:48",
         "createdAt": "2025-10-26T04:06:52Z",
-        "views": 193,
+        "views": 194,
         "youtubeLink": "https://www.youtube.com/watch?v=DSIJFPityR4",
         "year": 105,
         "question": {
@@ -2875,7 +4035,7 @@
             "C": "representative",
             "D": "informative"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 948
       },
@@ -2888,7 +4048,7 @@
         "description": "In line with the worldwide green movement, carmakers have been working hard to make their new models more _____ friendly to reduce pollution. (A) liberally (B) individually (C) financially (D) environmentally",
         "duration": "10:51",
         "createdAt": "2025-10-26T06:22:33Z",
-        "views": 209,
+        "views": 210,
         "youtubeLink": "https://www.youtube.com/watch?v=8rj24AkLg38",
         "year": 105,
         "question": {
@@ -2899,7 +4059,7 @@
             "C": "financially",
             "D": "environmentally"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 651
       }
@@ -2914,7 +4074,7 @@
         "description": "影片講義：https://goo.gl/dyueVc (歡迎下載後列印) 線上測驗：https://goo.gl/forms/kwKnukhZ9ZVdt1oi2  106 大學學測英文科第一大題文意字彙試題講解 Question 1: John’s clock is not functioning _____. The alarm rings even when it’s not set to go off.  (A) tenderly    (B) properly   (C) solidly   (D) favorably",
         "duration": "4:47",
         "createdAt": "2018-12-12T16:17:16Z",
-        "views": 2354,
+        "views": 2355,
         "youtubeLink": "https://www.youtube.com/watch?v=YtLmhaueJbo",
         "year": 106,
         "question": {
@@ -2925,7 +4085,7 @@
             "C": "solidly",
             "D": "favorably"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 287
       },
@@ -2938,7 +4098,7 @@
         "description": "影片講義：https://goo.gl/dyueVc (歡迎下載後列印) 線上測驗：https://goo.gl/forms/kwKnukhZ9ZVdt1oi2  106 大學學測英文科第一大題文意字彙試題講解 Question 2: Michael has decided to _____ a career in physics and has set his mind on becoming a professor.  (A) pursue  (B) swear  (C) reserve  (D) draft",
         "duration": "5:29",
         "createdAt": "2018-12-12T16:15:19Z",
-        "views": 1291,
+        "views": 1292,
         "youtubeLink": "https://www.youtube.com/watch?v=AmETswiihbQ",
         "year": 106,
         "question": {
@@ -2949,7 +4109,7 @@
             "C": "reserve",
             "D": "draft"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 329
       },
@@ -2962,7 +4122,7 @@
         "description": "影片講義：https://goo.gl/dyueVc (歡迎下載後列印) 線上測驗：https://goo.gl/forms/kwKnukhZ9ZVdt1oi2  106 大學學測英文科第一大題文意字彙試題講解 Question 3: Peter plans to hike in a _____ part of Africa, where he might not meet another human being for days.  (A) native  (B) tricky  (C) remote  (D) vacant",
         "duration": "3:54",
         "createdAt": "2018-12-12T16:15:20Z",
-        "views": 888,
+        "views": 889,
         "youtubeLink": "https://www.youtube.com/watch?v=awZpZbcKYAc",
         "year": 106,
         "question": {
@@ -2973,7 +4133,7 @@
             "C": "remote",
             "D": "vacant"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 234
       },
@@ -2986,7 +4146,7 @@
         "description": "影片講義：https://goo.gl/dyueVc (歡迎下載後列印) 線上測驗：https://goo.gl/forms/kwKnukhZ9ZVdt1oi2  106 大學學測英文科第一大題文意字彙試題講解 Question 4: People in this community tend to _____ with the group they belong to, and often put group interests before personal ones.  (A) appoint  (B) eliminate  (C) occupy  (D) identify",
         "duration": "6:23",
         "createdAt": "2018-12-12T16:17:16Z",
-        "views": 934,
+        "views": 936,
         "youtubeLink": "https://www.youtube.com/watch?v=pGJ3xXZVsmc",
         "year": 106,
         "question": {
@@ -2997,7 +4157,7 @@
             "C": "occupy",
             "D": "identify"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 383
       },
@@ -3010,10 +4170,19 @@
         "description": "影片講義：https://goo.gl/dyueVc (歡迎下載後列印) 線上測驗：https://goo.gl/forms/kwKnukhZ9ZVdt1oi2   106 大學學測英文科第一大題文意字彙試題講解 Question 5:",
         "duration": "3:12",
         "createdAt": "2018-12-13T04:11:29Z",
-        "views": 701,
+        "views": 703,
         "youtubeLink": "https://www.youtube.com/watch?v=CgrxyHMz28k",
         "year": 106,
-        "question": null,
+        "question": {
+          "questionText": "I mistook the man for a well-known actor and asked for his autograph; it was really _____.",
+          "options": {
+            "A": "relaxing",
+            "B": "embarrassing",
+            "C": "appealing",
+            "D": "defending"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 192
       },
       {
@@ -3025,10 +4194,19 @@
         "description": "影片講義：https://goo.gl/dyueVc (歡迎下載後列印) 線上測驗：https://goo.gl/forms/kwKnukhZ9ZVdt1oi2   106 大學學測英文科第一大題文意字彙試題講解 Question 6:",
         "duration": "4:00",
         "createdAt": "2018-12-13T04:11:30Z",
-        "views": 840,
+        "views": 842,
         "youtubeLink": "https://www.youtube.com/watch?v=ADxPLFGyyiA",
         "year": 106,
-        "question": null,
+        "question": {
+          "questionText": "After spending most of her salary on rent and food, Amelia _____ had any money left for entertainment and other expenses.",
+          "options": {
+            "A": "barely",
+            "B": "fairly",
+            "C": "merely",
+            "D": "readily"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 240
       },
       {
@@ -3040,10 +4218,19 @@
         "description": "影片講義：https://goo.gl/dyueVc (歡迎下載後列印) 線上測驗：https://goo.gl/forms/kwKnukhZ9ZVdt1oi2   106 大學學測英文科第一大題文意字彙試題講解 Question 7:",
         "duration": "4:29",
         "createdAt": "2018-12-13T04:11:29Z",
-        "views": 630,
+        "views": 631,
         "youtubeLink": "https://www.youtube.com/watch?v=Io5zcd1KkoQ",
         "year": 106,
-        "question": null,
+        "question": {
+          "questionText": "In the Bermuda Triangle, a region in the western part of the North Atlantic Ocean, some airplanes and ships were reported to have mysteriously disappeared without a _____.",
+          "options": {
+            "A": "guide",
+            "B": "trace",
+            "C": "code",
+            "D": "print"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 269
       },
       {
@@ -3055,10 +4242,19 @@
         "description": "影片講義：https://goo.gl/dyueVc (歡迎下載後列印) 線上測驗：https://goo.gl/forms/kwKnukhZ9ZVdt1oi2   106 大學學測英文科第一大題文意字彙試題講解 Question 8:",
         "duration": "4:50",
         "createdAt": "2018-12-13T04:12:23Z",
-        "views": 693,
+        "views": 694,
         "youtubeLink": "https://www.youtube.com/watch?v=BTUYr4KU6Zc",
         "year": 106,
-        "question": null,
+        "question": {
+          "questionText": "Shouting greetings and waving a big sign, Tony _____ the passing shoppers to visit his shop and buy the freshly baked bread.",
+          "options": {
+            "A": "accessed",
+            "B": "edited",
+            "C": "imposed",
+            "D": "urged"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 290
       },
       {
@@ -3070,10 +4266,19 @@
         "description": "影片講義：https://goo.gl/dyueVc (歡迎下載後列印) 線上測驗：https://goo.gl/forms/kwKnukhZ9ZVdt1oi2   106 大學學測英文科第一大題文意字彙試題講解 Question 9:",
         "duration": "5:11",
         "createdAt": "2018-12-18T06:45:00Z",
-        "views": 610,
+        "views": 611,
         "youtubeLink": "https://www.youtube.com/watch?v=1gthMH0uXXI",
         "year": 106,
-        "question": null,
+        "question": {
+          "questionText": "With a continuous 3 km stretch of golden sand, the beach attracts artists around the world each summer to create amazing _____ with its fine soft sand.",
+          "options": {
+            "A": "constitutions",
+            "B": "objections",
+            "C": "sculptures",
+            "D": "adventures"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 311
       },
       {
@@ -3085,10 +4290,19 @@
         "description": "線上測驗：https://goo.gl/forms/kwKnukhZ9ZVdt1oi2   106 大學學測英文科第一大題文意字彙試題講解 Question 10:",
         "duration": "4:44",
         "createdAt": "2018-12-18T06:43:19Z",
-        "views": 609,
+        "views": 610,
         "youtubeLink": "https://www.youtube.com/watch?v=o_ktSjWSrzo",
         "year": 106,
-        "question": null,
+        "question": {
+          "questionText": "The clouds parted and a _____ of light fell on the church, through the windows, and onto the floor.",
+          "options": {
+            "A": "dip",
+            "B": "beam",
+            "C": "spark",
+            "D": "path"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 284
       },
       {
@@ -3100,10 +4314,19 @@
         "description": "線上測驗：https://goo.gl/forms/kwKnukhZ9ZVdt1oi2   106 大學學測英文科第一大題文意字彙試題講解 Question 11:",
         "duration": "4:12",
         "createdAt": "2018-12-18T06:43:20Z",
-        "views": 574,
+        "views": 575,
         "youtubeLink": "https://www.youtube.com/watch?v=-Y5X-z_6WwM",
         "year": 106,
-        "question": null,
+        "question": {
+          "questionText": "Instead of a gift, Tim's grandmother always _____ some money in the birthday card she gave him.",
+          "options": {
+            "A": "enclosed",
+            "B": "installed",
+            "C": "preserved",
+            "D": "rewarded"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 252
       },
       {
@@ -3115,10 +4338,19 @@
         "description": "線上測驗：https://goo.gl/forms/kwKnukhZ9ZVdt1oi2   106 大學學測英文科第一大題文意字彙試題講解 Question 12:",
         "duration": "4:47",
         "createdAt": "2018-12-18T06:45:00Z",
-        "views": 602,
+        "views": 603,
         "youtubeLink": "https://www.youtube.com/watch?v=805h7BeglnI",
         "year": 106,
-        "question": null,
+        "question": {
+          "questionText": "While winning a gold _____ is what every Olympic athlete dreams of, it becomes meaningless if it is achieved by cheating.",
+          "options": {
+            "A": "signal",
+            "B": "glory",
+            "C": "medal",
+            "D": "profit"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 287
       },
       {
@@ -3130,10 +4362,19 @@
         "description": "線上測驗：https://goo.gl/forms/kwKnukhZ9ZVdt1oi2   106 大學學測英文科第一大題文意字彙試題講解 Question 13:",
         "duration": "3:48",
         "createdAt": "2018-12-18T06:45:00Z",
-        "views": 553,
+        "views": 554,
         "youtubeLink": "https://www.youtube.com/watch?v=IfHWpUzootk",
         "year": 106,
-        "question": null,
+        "question": {
+          "questionText": "The thief went into the apartment building and stole some jewelry. He then _____ himself as a security guard and walked out the front gate.",
+          "options": {
+            "A": "balanced",
+            "B": "calculated",
+            "C": "disguised",
+            "D": "registered"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 228
       },
       {
@@ -3145,10 +4386,19 @@
         "description": "線上測驗：https://goo.gl/forms/kwKnukhZ9ZVdt1oi2   106 大學學測英文科第一大題文意字彙試題講解 Question 14:",
         "duration": "4:33",
         "createdAt": "2018-12-18T06:43:20Z",
-        "views": 623,
+        "views": 624,
         "youtubeLink": "https://www.youtube.com/watch?v=mc8KilDmP64",
         "year": 106,
-        "question": null,
+        "question": {
+          "questionText": "Due to numerous accidents that occurred while people were playing Pokémon GO, players were advised to be _____ of possible dangers in the environment.",
+          "options": {
+            "A": "aware",
+            "B": "ashamed",
+            "C": "doubtful",
+            "D": "guilty"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 273
       },
       {
@@ -3160,10 +4410,19 @@
         "description": "線上測驗：https://goo.gl/forms/kwKnukhZ9ZVdt1oi2   106 大學學測英文科第一大題文意字彙試題講解 Question 15:",
         "duration": "5:17",
         "createdAt": "2018-12-18T06:43:54Z",
-        "views": 775,
+        "views": 776,
         "youtubeLink": "https://www.youtube.com/watch?v=9gDHSgo31GY",
         "year": 106,
-        "question": null,
+        "question": {
+          "questionText": "Sherlock Holmes, a detective in a popular fiction series, has impressed readers with his amazing powers of _____ and his knowledge of trivial facts.",
+          "options": {
+            "A": "innocence",
+            "B": "estimation",
+            "C": "assurance",
+            "D": "observation"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 317
       }
     ],
@@ -3255,7 +4514,16 @@
         "views": 1583,
         "youtubeLink": "https://www.youtube.com/watch?v=UtVsl_Z84N0",
         "year": 107,
-        "question": null,
+        "question": {
+          "questionText": "Mangoes are a _____ fruit here in Taiwan; most of them reach their peak of sweetness in July.",
+          "options": {
+            "A": "mature",
+            "B": "usual",
+            "C": "seasonal",
+            "D": "particular"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 641
       },
       {
@@ -3270,7 +4538,16 @@
         "views": 692,
         "youtubeLink": "https://www.youtube.com/watch?v=2VlEugcZmlQ",
         "year": 107,
-        "question": null,
+        "question": {
+          "questionText": "Writing term papers and giving oral reports are typical course _____ for college students.",
+          "options": {
+            "A": "requirements",
+            "B": "techniques",
+            "C": "situations",
+            "D": "principles"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 478
       },
       {
@@ -3285,7 +4562,16 @@
         "views": 854,
         "youtubeLink": "https://www.youtube.com/watch?v=H3IWfjaka8Y",
         "year": 107,
-        "question": null,
+        "question": {
+          "questionText": "If we work hard to _____ our dreams when we are young, we will not feel that we missed out on something when we get old.",
+          "options": {
+            "A": "distribute",
+            "B": "fulfill",
+            "C": "convince",
+            "D": "monitor"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 530
       },
       {
@@ -3300,7 +4586,16 @@
         "views": 593,
         "youtubeLink": "https://www.youtube.com/watch?v=eeVyH2BQuPc",
         "year": 107,
-        "question": null,
+        "question": {
+          "questionText": "Few people will trust you if you continue making _____ promises and never make efforts to keep them.",
+          "options": {
+            "A": "chilly",
+            "B": "liberal",
+            "C": "hollow",
+            "D": "definite"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 649
       },
       {
@@ -3315,7 +4610,16 @@
         "views": 1007,
         "youtubeLink": "https://www.youtube.com/watch?v=QhvkD3DKfTM",
         "year": 107,
-        "question": null,
+        "question": {
+          "questionText": "Becky _____ her ankle while she was playing tennis last week. Now it still hurts badly.",
+          "options": {
+            "A": "slipped",
+            "B": "dumped",
+            "C": "twisted",
+            "D": "recovered"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 810
       },
       {
@@ -3330,7 +4634,16 @@
         "views": 858,
         "youtubeLink": "https://www.youtube.com/watch?v=uqT8W3qGj-c",
         "year": 107,
-        "question": null,
+        "question": {
+          "questionText": "Research shows that men and women usually think differently. For example, they have quite different _____ about what marriage means in their life.",
+          "options": {
+            "A": "decisions",
+            "B": "beliefs",
+            "C": "styles",
+            "D": "degrees"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 714
       },
       {
@@ -3345,7 +4658,16 @@
         "views": 565,
         "youtubeLink": "https://www.youtube.com/watch?v=SvWtGInI7FA",
         "year": 107,
-        "question": null,
+        "question": {
+          "questionText": "The new manager is very _____. For instance, the employees are given much shorter deadlines for the same tasks than before.",
+          "options": {
+            "A": "persuasive",
+            "B": "tolerable",
+            "C": "suspicious",
+            "D": "demanding"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 760
       },
       {
@@ -3360,7 +4682,16 @@
         "views": 451,
         "youtubeLink": "https://www.youtube.com/watch?v=kJLUdU8zzA8",
         "year": 107,
-        "question": null,
+        "question": {
+          "questionText": "While the couple were looking _____ for their missing children, the kids were actually having fun in the woods nearby.",
+          "options": {
+            "A": "anxiously",
+            "B": "precisely",
+            "C": "evidently",
+            "D": "distinctly"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 664
       },
       {
@@ -3375,7 +4706,16 @@
         "views": 584,
         "youtubeLink": "https://www.youtube.com/watch?v=GR7CYN9kCMo",
         "year": 107,
-        "question": null,
+        "question": {
+          "questionText": "After delivering a very powerful speech, the award winner was _____ by a group of fans asking for her signature.",
+          "options": {
+            "A": "deposited",
+            "B": "reserved",
+            "C": "vanished",
+            "D": "surrounded"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 654
       },
       {
@@ -3390,7 +4730,16 @@
         "views": 443,
         "youtubeLink": "https://www.youtube.com/watch?v=2Fo29aKsjjs",
         "year": 107,
-        "question": null,
+        "question": {
+          "questionText": "The interviewees were trying very hard to _____ the interviewers that they were very capable and should be given the job.",
+          "options": {
+            "A": "credit",
+            "B": "impress",
+            "C": "relieve",
+            "D": "acquire"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 639
       },
       {
@@ -3405,7 +4754,16 @@
         "views": 528,
         "youtubeLink": "https://www.youtube.com/watch?v=oL4so2WbBXw",
         "year": 107,
-        "question": null,
+        "question": {
+          "questionText": "After the first snow of the year, the entire grassland disappeared under a _____ of snow.",
+          "options": {
+            "A": "flake",
+            "B": "blossom",
+            "C": "blanket",
+            "D": "flash"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 423
       },
       {
@@ -3420,7 +4778,16 @@
         "views": 385,
         "youtubeLink": "https://www.youtube.com/watch?v=PhPk0uMSk-8",
         "year": 107,
-        "question": null,
+        "question": {
+          "questionText": "Peter likes books with wide _____, which provide him with enough space to write notes.",
+          "options": {
+            "A": "angles",
+            "B": "margins",
+            "C": "exceptions",
+            "D": "limitations"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 438
       },
       {
@@ -3435,7 +4802,16 @@
         "views": 386,
         "youtubeLink": "https://www.youtube.com/watch?v=9ypL9KUqCuI",
         "year": 107,
-        "question": null,
+        "question": {
+          "questionText": "At the beginning of the semester, the teacher told the students that late assignments would receive a low grade as a _____.",
+          "options": {
+            "A": "hardship",
+            "B": "comment",
+            "C": "bargain",
+            "D": "penalty"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 573
       },
       {
@@ -3450,7 +4826,16 @@
         "views": 430,
         "youtubeLink": "https://www.youtube.com/watch?v=JJM8mywsTGg",
         "year": 107,
-        "question": null,
+        "question": {
+          "questionText": "Various studies have been _____ in this hospital to explore the link between a high-fat diet and cancer.",
+          "options": {
+            "A": "conducted",
+            "B": "confirmed",
+            "C": "implied",
+            "D": "improved"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 543
       },
       {
@@ -3465,7 +4850,16 @@
         "views": 402,
         "youtubeLink": "https://www.youtube.com/watch?v=TBgk9AR8NZw",
         "year": 107,
-        "question": null,
+        "question": {
+          "questionText": "Intense, fast-moving fires raged across much of California last week. The _____ firestorm has claimed the lives of thirty people.",
+          "options": {
+            "A": "efficient",
+            "B": "reliable",
+            "C": "massive",
+            "D": "adequate"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 615
       }
     ],
@@ -3482,7 +4876,16 @@
         "views": 5069,
         "youtubeLink": "https://www.youtube.com/watch?v=ZVHqpn51CTI",
         "year": 108,
-        "question": null,
+        "question": {
+          "questionText": "Bobby cared a lot about his _____ at home and asked his parents not to go through his things without his permission.",
+          "options": {
+            "A": "discipline",
+            "B": "facility",
+            "C": "privacy",
+            "D": "representation"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 244
       },
       {
@@ -3497,7 +4900,16 @@
         "views": 2985,
         "youtubeLink": "https://www.youtube.com/watch?v=eFBXJwOnfFc",
         "year": 108,
-        "question": null,
+        "question": {
+          "questionText": "The new manager is a real gentleman. He is kind and humble, totally different from the former manager, who was _____ and bossy.",
+          "options": {
+            "A": "eager",
+            "B": "liberal",
+            "C": "mean",
+            "D": "inferior"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 411
       },
       {
@@ -3512,7 +4924,16 @@
         "views": 2236,
         "youtubeLink": "https://www.youtube.com/watch?v=PzzNQLHkmGA",
         "year": 108,
-        "question": null,
+        "question": {
+          "questionText": "The weather bureau _____ that the typhoon would bring strong winds and heavy rains, and warned everyone of the possible danger.",
+          "options": {
+            "A": "conveyed",
+            "B": "associated",
+            "C": "interpreted",
+            "D": "predicted"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 327
       },
       {
@@ -3527,7 +4948,16 @@
         "views": 2427,
         "youtubeLink": "https://www.youtube.com/watch?v=YtSUCRiSews",
         "year": 108,
-        "question": null,
+        "question": {
+          "questionText": "Different airlines have different _____ for carry-on luggage, but many international airlines limit a carry-on piece to 7 kilograms.",
+          "options": {
+            "A": "landmarks",
+            "B": "restrictions",
+            "C": "percentages",
+            "D": "circumstances"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 379
       },
       {
@@ -3542,7 +4972,16 @@
         "views": 1534,
         "youtubeLink": "https://www.youtube.com/watch?v=3JvYZ3_HUrs",
         "year": 108,
-        "question": null,
+        "question": {
+          "questionText": "Many people were happy that the government had finally _____ Children's Day as a national holiday.",
+          "options": {
+            "A": "appointed",
+            "B": "declared",
+            "C": "performed",
+            "D": "involved"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 204
       },
       {
@@ -3557,7 +4996,16 @@
         "views": 1770,
         "youtubeLink": "https://www.youtube.com/watch?v=ITvG62-Li-g",
         "year": 108,
-        "question": null,
+        "question": {
+          "questionText": "To reach the goal of making her company a market leader, Michelle _____ a plan to open ten new stores around the country this year.",
+          "options": {
+            "A": "advised",
+            "B": "occupied",
+            "C": "proposed",
+            "D": "recognized"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 275
       },
       {
@@ -3572,7 +5020,16 @@
         "views": 1881,
         "youtubeLink": "https://www.youtube.com/watch?v=SlVzpJbiHfw",
         "year": 108,
-        "question": null,
+        "question": {
+          "questionText": "Silence in some way is as _____ as speech. It can be used to show, for example, disagreement or lack of interest.",
+          "options": {
+            "A": "sociable",
+            "B": "expressive",
+            "C": "reasonable",
+            "D": "objective"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 406
       },
       {
@@ -3587,7 +5044,16 @@
         "views": 1952,
         "youtubeLink": "https://www.youtube.com/watch?v=6gdByGTxy-4",
         "year": 108,
-        "question": null,
+        "question": {
+          "questionText": "This TV program is designed for children, _____ for those under five. It contains no violence or strong language.",
+          "options": {
+            "A": "particularly",
+            "B": "sensibly",
+            "C": "moderately",
+            "D": "considerably"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 338
       },
       {
@@ -3602,7 +5068,16 @@
         "views": 1422,
         "youtubeLink": "https://www.youtube.com/watch?v=mffelXhhLyw",
         "year": 108,
-        "question": null,
+        "question": {
+          "questionText": "Tommy, please put away the toys in the box, or you might _____ on them and hurt yourself.",
+          "options": {
+            "A": "stumble",
+            "B": "graze",
+            "C": "navigate",
+            "D": "dwell"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 231
       },
       {
@@ -3617,7 +5092,16 @@
         "views": 1169,
         "youtubeLink": "https://www.youtube.com/watch?v=TIBtIGrfX4Q",
         "year": 108,
-        "question": null,
+        "question": {
+          "questionText": "The _____ costume party, held every September, is one of the biggest events of the school year.",
+          "options": {
+            "A": "initial",
+            "B": "annual",
+            "C": "evident",
+            "D": "occasional"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 323
       },
       {
@@ -3632,7 +5116,16 @@
         "views": 1537,
         "youtubeLink": "https://www.youtube.com/watch?v=jexKSw44_lo",
         "year": 108,
-        "question": null,
+        "question": {
+          "questionText": "In a job interview, attitude and personality are usually important _____ that influence the decision of the interviewers.",
+          "options": {
+            "A": "factors",
+            "B": "outcomes",
+            "C": "missions",
+            "D": "identities"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 305
       },
       {
@@ -3647,7 +5140,16 @@
         "views": 1224,
         "youtubeLink": "https://www.youtube.com/watch?v=isEwDymAae0",
         "year": 108,
-        "question": null,
+        "question": {
+          "questionText": "The snow-capped mountain is described so _____ in the book that the scene seems to come alive in front of the reader's eyes.",
+          "options": {
+            "A": "distantly",
+            "B": "meaningfully",
+            "C": "cheerfully",
+            "D": "vividly"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 283
       },
       {
@@ -3662,7 +5164,16 @@
         "views": 1343,
         "youtubeLink": "https://www.youtube.com/watch?v=OSEYSn5in-4",
         "year": 108,
-        "question": null,
+        "question": {
+          "questionText": "Surrounded by flowers blooming and birds _____ merrily, the Wangs had a good time hiking in the national park.",
+          "options": {
+            "A": "napping",
+            "B": "scooping",
+            "C": "flipping",
+            "D": "chirping"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 391
       },
       {
@@ -3677,7 +5188,16 @@
         "views": 1597,
         "youtubeLink": "https://www.youtube.com/watch?v=yPd7rluQD_M",
         "year": 108,
-        "question": null,
+        "question": {
+          "questionText": "It is essential for us to maintain constant _____ with our friends to ensure that we have someone to talk to in times of need.",
+          "options": {
+            "A": "benefit",
+            "B": "contact",
+            "C": "gesture",
+            "D": "favor"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 349
       },
       {
@@ -3692,7 +5212,16 @@
         "views": 1420,
         "youtubeLink": "https://www.youtube.com/watch?v=nt_zUwxDXlU",
         "year": 108,
-        "question": null,
+        "question": {
+          "questionText": "The young generation in this country has shown less interest in factory work and other _____ labor jobs, such as house construction and fruit picking.",
+          "options": {
+            "A": "causal",
+            "B": "durable",
+            "C": "manual",
+            "D": "violent"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 334
       },
       {
@@ -3704,7 +5233,7 @@
         "description": "On my way to the Philipines so decided to make a stop at 7-Eleven in Taiwan for some brunch.  ➨Get tickets to the best show on earth!!! http://bit.ly/2gu7REI  Strictly Dumpling T-Shirts HERE: http://bit.ly/2IVM2ts  ►Subscribe for MORE videos about food! http://bit.ly/1hsxh41 ▲ Subscribe to our COOKING Channel! http://bit.ly/2vz2UPT  ★↓FOLLOW ME ON SOCIAL MEDIA!↓★ Facebook Show Page: https://www.facebook.com/strictlydumpling Facebook Mike Fan Page: https://www.facebook.com/mikeychenx Strictly Dumpling Instagram: http://instagr.am/haveadumpling Personal Instagram: http://instagr.am/Mikexingchen Twitter: http://twitter.com/Mikexingchen  ◈ Equipment I use for filming◈ : Sony RX100 Mark V: https://go.magik.ly/ml/cgc5/ PANASONIC LUMIX G85: https://go.magik.ly/ml/cgcd/ Wide Angle Lens: https://go.magik.ly/ml/cgck/ Camera Mic: https://go.magik.ly/ml/cgcn/ Camera Lights: https://go.magik.ly/ml/cgcq/ Handheld Audio Recorder: https://go.magik.ly/ml/cgcr/ Tripod: https://go.magik.ly/ml/cgcu/ Drone: https://go.magik.ly/ml/cgcx/  My Favorite Cookware! wok/pan http://amzn.to/2f5G0up Also this pan http://amzn.to/2f5Qnyi Pressure pan http://amzn.to/2wJIS7u Nonstick pot http://amzn.to/2wHRgq1  ✉Send stuff to our PO Box! Mike Chen  PO Box 610  Middletown, NY 10940  ------------------------------    ♫♫♫♫♫♫  ♩  Airport Lounge - Disco Ultralounge by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100806 Artist: http://incompetech.com/ ♩  Kailua by Chill Fluide @chillfluide Music provided by Free Music for Vlogs youtu.be/EO3a_wURwHw ♩  Little Dream by Dj Quads @aka-dj-quads Music provided by Free Music for Vlogs youtu.be/fB_y8exQ1V8 ♩  Good Times by Nicolai Heidlas: http://www.hooksounds.com",
         "duration": "16:46",
         "createdAt": "2019-02-10T16:25:29Z",
-        "views": 25743937,
+        "views": 25744671,
         "youtubeLink": "https://www.youtube.com/watch?v=CP6aYDssDSE",
         "year": 108,
         "question": null,
@@ -3721,10 +5250,19 @@
         "description": "balance (v.) 使平衡 (n.) 平衡；結存，結餘 conclusion (n.) 結論；推論 definition (n.) 定義；釋義 harmony (n.) 和諧；協調",
         "duration": "6:02",
         "createdAt": "2020-05-21T13:12:17Z",
-        "views": 3681,
+        "views": 3682,
         "youtubeLink": "https://www.youtube.com/watch?v=97nU84YZ-J0",
         "year": 109,
-        "question": null,
+        "question": {
+          "questionText": "After hours of discussion, our class finally reached the _____ that we would go to Hualien for our graduation trip.",
+          "options": {
+            "A": "balance",
+            "B": "conclusion",
+            "C": "definition",
+            "D": "harmony"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 362
       },
       {
@@ -3736,10 +5274,19 @@
         "description": "bore (v.) 使厭煩 (n.) 令人討厭的人(或事物) amaze (v.) 使大為驚奇 charm (v.) 使陶醉 (n.) 魅力 inform (v.) 通知，告知",
         "duration": "4:22",
         "createdAt": "2020-05-21T13:12:17Z",
-        "views": 1543,
+        "views": 1544,
         "youtubeLink": "https://www.youtube.com/watch?v=GuxSP_J3SUo",
         "year": 109,
-        "question": null,
+        "question": {
+          "questionText": "Jane _____ her teacher by passing the exam with a nearly perfect score; she almost failed the course last semester.",
+          "options": {
+            "A": "bored",
+            "B": "amazed",
+            "C": "charmed",
+            "D": "informed"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 262
       },
       {
@@ -3754,7 +5301,16 @@
         "views": 1240,
         "youtubeLink": "https://www.youtube.com/watch?v=8TYpFy6X5fA",
         "year": 109,
-        "question": null,
+        "question": {
+          "questionText": "The vacuum cleaner is not working. Let's send it back to the _____ to have it inspected and repaired.",
+          "options": {
+            "A": "lecturer",
+            "B": "publisher",
+            "C": "researcher",
+            "D": "manufacturer"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 375
       },
       {
@@ -3769,7 +5325,16 @@
         "views": 1102,
         "youtubeLink": "https://www.youtube.com/watch?v=_1aojSn_weE",
         "year": 109,
-        "question": null,
+        "question": {
+          "questionText": "Due to the global financial crisis, the country's exports _____ by 40 percent last month, the largest drop since 2000.",
+          "options": {
+            "A": "flattered",
+            "B": "transformed",
+            "C": "relieved",
+            "D": "decreased"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 364
       },
       {
@@ -3784,7 +5349,16 @@
         "views": 1036,
         "youtubeLink": "https://www.youtube.com/watch?v=qhK8H6km38w",
         "year": 109,
-        "question": null,
+        "question": {
+          "questionText": "The potato chips have been left uncovered on the table for such a long time that they no longer taste fresh and _____.",
+          "options": {
+            "A": "solid",
+            "B": "crispy",
+            "C": "original",
+            "D": "smooth"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 301
       },
       {
@@ -3799,7 +5373,16 @@
         "views": 1025,
         "youtubeLink": "https://www.youtube.com/watch?v=-sY7dZOr1GM",
         "year": 109,
-        "question": null,
+        "question": {
+          "questionText": "The townspeople built a _____ in memory of the brave teacher who sacrificed her life to save her students from a burning bus.",
+          "options": {
+            "A": "monument",
+            "B": "refugee",
+            "C": "souvenir",
+            "D": "firecracker"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 440
       },
       {
@@ -3814,7 +5397,16 @@
         "views": 850,
         "youtubeLink": "https://www.youtube.com/watch?v=pLltKmwtCI0",
         "year": 109,
-        "question": null,
+        "question": {
+          "questionText": "The students in Professor Smith's classical Chinese class are required to _____ poems by famous Chinese poets.",
+          "options": {
+            "A": "construct",
+            "B": "expose",
+            "C": "recite",
+            "D": "install"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 263
       },
       {
@@ -3829,7 +5421,16 @@
         "views": 957,
         "youtubeLink": "https://www.youtube.com/watch?v=nGM7cX2NYTM",
         "year": 109,
-        "question": null,
+        "question": {
+          "questionText": "Although Mr. Tang claims that the house belongs to him, he has not offered any proof of _____.",
+          "options": {
+            "A": "convention",
+            "B": "relationship",
+            "C": "insurance",
+            "D": "ownership"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 369
       },
       {
@@ -3844,7 +5445,16 @@
         "views": 1028,
         "youtubeLink": "https://www.youtube.com/watch?v=vxVLkqz59mY",
         "year": 109,
-        "question": null,
+        "question": {
+          "questionText": "Ancient Athens, famous for its early development of the democratic system, is often said to be the _____ of democracy.",
+          "options": {
+            "A": "mission",
+            "B": "target",
+            "C": "cradle",
+            "D": "milestone"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 305
       },
       {
@@ -3859,7 +5469,16 @@
         "views": 751,
         "youtubeLink": "https://www.youtube.com/watch?v=kFVKmXJEot0",
         "year": 109,
-        "question": null,
+        "question": {
+          "questionText": "The candy can no longer be sold because it was found to contain artificial ingredients far beyond the _____ level.",
+          "options": {
+            "A": "abundant",
+            "B": "immense",
+            "C": "permissible",
+            "D": "descriptive"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 343
       },
       {
@@ -3874,7 +5493,16 @@
         "views": 757,
         "youtubeLink": "https://www.youtube.com/watch?v=nGgHDhuIYVU",
         "year": 109,
-        "question": null,
+        "question": {
+          "questionText": "Jack's excellent performance in last week's game has _____ all the doubts about his ability to play on our school basketball team.",
+          "options": {
+            "A": "erased",
+            "B": "canceled",
+            "C": "overlooked",
+            "D": "replaced"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 312
       },
       {
@@ -3889,7 +5517,16 @@
         "views": 815,
         "youtubeLink": "https://www.youtube.com/watch?v=wMktIDrEHl8",
         "year": 109,
-        "question": null,
+        "question": {
+          "questionText": "It is bullying to _____ a foreign speaker's accent. No one deserves to be laughed at for their pronunciation.",
+          "options": {
+            "A": "mock",
+            "B": "sneak",
+            "C": "prompt",
+            "D": "glare"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 392
       },
       {
@@ -3904,7 +5541,16 @@
         "views": 861,
         "youtubeLink": "https://www.youtube.com/watch?v=d212I1jUKYg",
         "year": 109,
-        "question": null,
+        "question": {
+          "questionText": "Mary lost ten kilograms in three months, so her _____ skin-tight jeans are now hanging off her hips.",
+          "options": {
+            "A": "barely",
+            "B": "evenly",
+            "C": "currently",
+            "D": "formerly"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 338
       },
       {
@@ -3919,7 +5565,16 @@
         "views": 785,
         "youtubeLink": "https://www.youtube.com/watch?v=bs4-OhZB044",
         "year": 109,
-        "question": null,
+        "question": {
+          "questionText": "The police officer showed us pictures of drunk driving accidents to highlight the importance of staying _____ on the road.",
+          "options": {
+            "A": "sober",
+            "B": "majestic",
+            "C": "vigorous",
+            "D": "noticeable"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 387
       },
       {
@@ -3934,7 +5589,16 @@
         "views": 825,
         "youtubeLink": "https://www.youtube.com/watch?v=tjb0k1_xMtU",
         "year": 109,
-        "question": null,
+        "question": {
+          "questionText": "The claim that eating chocolate can prevent heart disease is _____ because there is not enough scientific evidence to support it.",
+          "options": {
+            "A": "creative",
+            "B": "disputable",
+            "C": "circular",
+            "D": "magnificent"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 317
       }
     ],
@@ -3948,7 +5612,7 @@
         "description": "15. One week after the typhoon, some bridges were finally opened and bus service _____ in the country’s most severely damaged areas. (A) departed (B) resumed (C) transported (D) corresponded",
         "duration": "10:42",
         "createdAt": "2025-10-19T04:23:28Z",
-        "views": 257,
+        "views": 258,
         "youtubeLink": "https://www.youtube.com/watch?v=ogDKro3toCs",
         "year": 110,
         "question": {
@@ -3959,7 +5623,7 @@
             "C": "transported",
             "D": "corresponded"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 642
       },
@@ -3983,7 +5647,7 @@
             "C": "committed",
             "D": "associated"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 1081
       },
@@ -3996,7 +5660,7 @@
         "description": "13. The problem of illegal drug use is very complex and cannot be traced to merely one _____ reason. (A) singular (B) countable (C) favorable (D) defensive",
         "duration": "10:39",
         "createdAt": "2025-10-18T05:37:26Z",
-        "views": 172,
+        "views": 173,
         "youtubeLink": "https://www.youtube.com/watch?v=vRrLYg12kW8",
         "year": 110,
         "question": {
@@ -4007,7 +5671,7 @@
             "C": "favorable",
             "D": "defensive"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 639
       },
@@ -4020,7 +5684,7 @@
         "description": "12. It is absolutely _____ to waste your money on an expensive car when you cannot even get a driver’s license. (A) absurd (B) cautious (C) vigorous (D) obstinate",
         "duration": "11:48",
         "createdAt": "2025-10-17T08:56:12Z",
-        "views": 127,
+        "views": 130,
         "youtubeLink": "https://www.youtube.com/watch?v=vBAsZE82NEA",
         "year": 110,
         "question": {
@@ -4031,7 +5695,7 @@
             "C": "vigorous",
             "D": "obstinate"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 708
       },
@@ -4044,7 +5708,7 @@
         "description": "11. The company is _____ and making great profits under the wise leadership of the chief executive officer. (A) applauding (B) flourishing (C) circulating (D) exceeding",
         "duration": "17:44",
         "createdAt": "2025-10-17T08:54:44Z",
-        "views": 157,
+        "views": 159,
         "youtubeLink": "https://www.youtube.com/watch?v=0mA8Tc6FBFo",
         "year": 110,
         "question": {
@@ -4055,7 +5719,7 @@
             "C": "circulating",
             "D": "exceeding"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 1064
       },
@@ -4068,7 +5732,7 @@
         "description": "10. The 2011 Nobel Peace Prize was awarded _____ to three women for the efforts they made in fighting for women’s rights. (A) actively (B) earnestly (C) jointly (D) naturally",
         "duration": "9:03",
         "createdAt": "2025-10-16T15:31:41Z",
-        "views": 100,
+        "views": 102,
         "youtubeLink": "https://www.youtube.com/watch?v=rhniCma8mi0",
         "year": 110,
         "question": {
@@ -4079,7 +5743,7 @@
             "C": "jointly",
             "D": "naturally"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 543
       },
@@ -4092,7 +5756,7 @@
         "description": "9. Hundreds of residents received free testing _____ from the city government to find out if their water contained any harmful chemicals. (A) kits (B) trials (C) zones (D) proofs",
         "duration": "16:26",
         "createdAt": "2025-10-16T15:31:03Z",
-        "views": 179,
+        "views": 180,
         "youtubeLink": "https://www.youtube.com/watch?v=BAGU4VCV4fA",
         "year": 110,
         "question": {
@@ -4103,7 +5767,7 @@
             "C": "zones",
             "D": "proofs"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 986
       },
@@ -4116,7 +5780,7 @@
         "description": "8. Lisa _____ onto the ground and injured her ankle while she was playing basketball yesterday. (A) buried (B) punched (C) scattered (D) tumbled",
         "duration": "10:14",
         "createdAt": "2025-10-16T08:19:08Z",
-        "views": 63,
+        "views": 64,
         "youtubeLink": "https://www.youtube.com/watch?v=533GkP1q9Gk",
         "year": 110,
         "question": {
@@ -4127,7 +5791,7 @@
             "C": "scattered",
             "D": "tumbled"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 614
       },
@@ -4140,7 +5804,7 @@
         "description": "7. To encourage classroom _____, the teacher divided the class into groups and asked them to solve a problem together with their partners. (A) operation (B) interaction (C) adjustment (D) explanation",
         "duration": "13:48",
         "createdAt": "2025-10-16T08:18:40Z",
-        "views": 80,
+        "views": 81,
         "youtubeLink": "https://www.youtube.com/watch?v=2qnEWr10B4Q",
         "year": 110,
         "question": {
@@ -4151,7 +5815,7 @@
             "C": "adjustment",
             "D": "explanation"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 828
       },
@@ -4164,7 +5828,7 @@
         "description": "6. The invention of the steam engine, which was used to power heavy machines, brought about a _____ change in society. (A) persuasive (B) harmonious (C) conventional (D) revolutionary",
         "duration": "14:48",
         "createdAt": "2025-10-16T08:18:10Z",
-        "views": 152,
+        "views": 153,
         "youtubeLink": "https://www.youtube.com/watch?v=IbTwf9QPVwI",
         "year": 110,
         "question": {
@@ -4175,7 +5839,7 @@
             "C": "conventional",
             "D": "revolutionary"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 888
       },
@@ -4188,7 +5852,7 @@
         "description": "5. The skydiver managed to land safely after jumping out of the aircraft, even though her _____ failed to open in midair. (A) glimpse (B) latitude (C) segment (D) parachute",
         "duration": "10:36",
         "createdAt": "2025-10-16T08:17:02Z",
-        "views": 83,
+        "views": 86,
         "youtubeLink": "https://www.youtube.com/watch?v=W5PDfMPahaw",
         "year": 110,
         "question": {
@@ -4199,7 +5863,7 @@
             "C": "segment",
             "D": "parachute"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 636
       },
@@ -4212,7 +5876,7 @@
         "description": "1. Tom is really a naughty boy. He likes to _____ and play jokes on his younger sister when their parents are not around. (A) alert (B) spare (C) tease (D) oppose",
         "duration": "9:08",
         "createdAt": "2025-10-15T08:48:03Z",
-        "views": 122,
+        "views": 126,
         "youtubeLink": "https://www.youtube.com/watch?v=OXuGxD1VOxg",
         "year": 110,
         "question": {
@@ -4223,7 +5887,7 @@
             "C": "tease",
             "D": "oppose"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 548
       },
@@ -4236,7 +5900,7 @@
         "description": "4. Since many of our house plants are from humid jungle environments, they need _____ air to keep them green and healthy. (A) moist (B) stale (C) crisp (D) fertile",
         "duration": "9:05",
         "createdAt": "2025-10-15T08:50:23Z",
-        "views": 90,
+        "views": 93,
         "youtubeLink": "https://www.youtube.com/watch?v=KWyr3VpHFBg",
         "year": 110,
         "question": {
@@ -4247,7 +5911,7 @@
             "C": "crisp",
             "D": "fertile"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 545
       },
@@ -4260,7 +5924,7 @@
         "description": "3. Upon hearing its master’s call, the dog wagged its tail, and followed her out of the room _____. (A) obediently (B) apparently (C) logically (D) thoroughly",
         "duration": "8:24",
         "createdAt": "2025-10-15T08:49:52Z",
-        "views": 93,
+        "views": 97,
         "youtubeLink": "https://www.youtube.com/watch?v=c7DWIGuy4XI",
         "year": 110,
         "question": {
@@ -4271,7 +5935,7 @@
             "C": "logically",
             "D": "thoroughly"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 504
       },
@@ -4284,7 +5948,7 @@
         "description": "2. Elderly shoppers in this store are advised to take the elevator rather than the _____, which may move too fast for them to keep their balance. (A) airway (B) operator (C) escalator (D) instrument",
         "duration": "11:49",
         "createdAt": "2025-10-15T08:49:10Z",
-        "views": 175,
+        "views": 178,
         "youtubeLink": "https://www.youtube.com/watch?v=zW80eLpVk3o",
         "year": 110,
         "question": {
@@ -4295,7 +5959,7 @@
             "C": "escalator",
             "D": "instrument"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 709
       }
@@ -4321,7 +5985,7 @@
             "C": "polishes",
             "D": "transfers"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 566
       },
@@ -4345,7 +6009,7 @@
             "C": "strike",
             "D": "quest"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 495
       },
@@ -4369,7 +6033,7 @@
             "C": "promising",
             "D": "eventual"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 379
       },
@@ -4393,7 +6057,7 @@
             "C": "available",
             "D": "remarkable"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 1008
       },
@@ -4417,7 +6081,7 @@
             "C": "agreeable",
             "D": "ultimate"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 539
       },
@@ -4441,7 +6105,7 @@
             "C": "Rolling",
             "D": "Snapping"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 662
       },
@@ -4465,7 +6129,7 @@
             "C": "ambiguously",
             "D": "optionally"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 537
       },
@@ -4489,7 +6153,7 @@
             "C": "puppet",
             "D": "variety"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 625
       },
@@ -4513,7 +6177,7 @@
             "C": "contribution",
             "D": "politician"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 753
       },
@@ -4537,7 +6201,7 @@
             "C": "offered",
             "D": "stretched"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 589
       }
@@ -4552,7 +6216,7 @@
         "description": "1. The bus driver often complains about chewing gum found under passenger seats because it is  ______  and very hard to remove. (A) sticky  (B) greasy  (C) clumsy  (D) mighty",
         "duration": "8:21",
         "createdAt": "2025-10-01T08:04:56Z",
-        "views": 360,
+        "views": 361,
         "youtubeLink": "https://www.youtube.com/watch?v=dZ9l7BQwEus",
         "year": 112,
         "question": {
@@ -4563,7 +6227,7 @@
             "C": "clumsy",
             "D": "mighty"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 501
       },
@@ -4587,7 +6251,7 @@
             "C": "pose",
             "D": "snap"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 722
       },
@@ -4611,7 +6275,7 @@
             "C": "ancestors",
             "D": "instructors"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 639
       },
@@ -4635,7 +6299,7 @@
             "C": "hollow",
             "D": "queer"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 557
       },
@@ -4659,7 +6323,7 @@
             "C": "integrity",
             "D": "sincerity"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 522
       },
@@ -4683,7 +6347,7 @@
             "C": "privilege",
             "D": "recall"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 668
       },
@@ -4707,7 +6371,7 @@
             "C": "expose",
             "D": "convert"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 916
       },
@@ -4731,7 +6395,7 @@
             "C": "rendered",
             "D": "ventured"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 804
       },
@@ -4755,7 +6419,7 @@
             "C": "enclosed",
             "D": "injected"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 751
       },
@@ -4779,7 +6443,7 @@
             "C": "understandably",
             "D": "supposedly"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 990
       }
@@ -4809,7 +6473,7 @@
         "description": "Watching the sun ______ from a sea of clouds is a must-do activity for all visitors to Ali Mountain. (A) emerging (B) flashing (C) rushing (D) floating",
         "duration": "8:03",
         "createdAt": "2025-09-21T09:08:55Z",
-        "views": 199,
+        "views": 200,
         "youtubeLink": "https://www.youtube.com/watch?v=eG7t23W3xFU",
         "year": 113,
         "question": {
@@ -4820,7 +6484,7 @@
             "C": "rushing",
             "D": "floating"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 483
       },
@@ -4833,7 +6497,7 @@
         "description": "Do you know what time the next bus is ______? I’ve been waiting here for more than 30 minutes. (A) apt (B) due (C) bound (D) docked",
         "duration": "5:05",
         "createdAt": "2025-09-21T09:09:38Z",
-        "views": 186,
+        "views": 187,
         "youtubeLink": "https://www.youtube.com/watch?v=8e4asUkELMA",
         "year": 113,
         "question": {
@@ -4844,7 +6508,7 @@
             "C": "bound",
             "D": "docked"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 305
       },
@@ -4857,7 +6521,7 @@
         "description": "The roasting heat and high ______ made me feel hot and sticky, no matter what I did to cool off. (A) density (B) humidity (C) circulation  (D) atmosphere",
         "duration": "6:37",
         "createdAt": "2025-09-21T09:10:05Z",
-        "views": 193,
+        "views": 194,
         "youtubeLink": "https://www.youtube.com/watch?v=JGrzyoXIPDA",
         "year": 113,
         "question": {
@@ -4868,7 +6532,7 @@
             "C": "circulation",
             "D": "atmosphere"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 397
       },
@@ -4892,7 +6556,7 @@
             "C": "serve",
             "D": "stand"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 382
       },
@@ -4916,7 +6580,7 @@
             "C": "compulsory",
             "D": "distinctive"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 449
       },
@@ -4940,7 +6604,7 @@
             "C": "remedy",
             "D": "credit"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 441
       },
@@ -4964,7 +6628,7 @@
             "C": "promises",
             "D": "confirms"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 744
       },
@@ -4988,7 +6652,7 @@
             "C": "operation",
             "D": "observation"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 726
       },
@@ -5012,7 +6676,7 @@
             "C": "apparently",
             "D": "consequently"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 553
       }
@@ -5027,7 +6691,7 @@
         "description": "The mayor has such a ______ schedule that it takes weeks to arrange an interview with her. (A) hasty (B) tight (C) diligent (D) routine",
         "duration": "15:56",
         "createdAt": "2026-01-18T09:23:10Z",
-        "views": 267,
+        "views": 290,
         "youtubeLink": "https://www.youtube.com/watch?v=t346HKco1hY",
         "year": 115,
         "question": {
@@ -5051,7 +6715,7 @@
         "description": "2. Jane started as an ______ art designer, but now she has a professional studio of her own. (A) official (B) instant (C) amateur (D) elementary",
         "duration": "12:55",
         "createdAt": "2026-01-18T09:23:40Z",
-        "views": 221,
+        "views": 227,
         "youtubeLink": "https://www.youtube.com/watch?v=UaqM6_ZsjBI",
         "year": 115,
         "question": {
@@ -5075,7 +6739,7 @@
         "description": "3. The teaching ______ at the famous high school soon attracted more than a dozen well-qualified applicants. (A) career (B) vacancy (C) expectation (D) inspiration",
         "duration": "11:41",
         "createdAt": "2026-01-18T09:24:06Z",
-        "views": 55,
+        "views": 60,
         "youtubeLink": "https://www.youtube.com/watch?v=pI99gzAEQ7k",
         "year": 115,
         "question": {
@@ -5099,7 +6763,7 @@
         "description": "4. Designed by a young engineer, the new product has created far more profit than ______ expected. (A) initially (B) genuinely (C) alternatively (D) fundamentally",
         "duration": "13:19",
         "createdAt": "2026-01-18T09:24:52Z",
-        "views": 78,
+        "views": 83,
         "youtubeLink": "https://www.youtube.com/watch?v=AEA9ucpgNtQ",
         "year": 115,
         "question": {
@@ -5123,7 +6787,7 @@
         "description": "5. It has been confirmed that a balanced ______ of fruit and vegetables is a key element to good health. (A) dimension (B) integration (C) provision (D) consumption",
         "duration": "16:19",
         "createdAt": "2026-01-19T09:52:33Z",
-        "views": 56,
+        "views": 65,
         "youtubeLink": "https://www.youtube.com/watch?v=bSGsdxN2HAI",
         "year": 115,
         "question": {
@@ -5147,7 +6811,7 @@
         "description": "6. As a shy boy afraid of making public appearances, Timmy ______ the thought of speaking before large audiences. (A) dreads (B) stresses (C) wanders (D) escapes",
         "duration": "12:49",
         "createdAt": "2026-01-19T09:53:03Z",
-        "views": 93,
+        "views": 104,
         "youtubeLink": "https://www.youtube.com/watch?v=ZfRjc8gIO8M",
         "year": 115,
         "question": {
@@ -5171,7 +6835,7 @@
         "description": "7. To the newly-crowned winner of the piano competition, music is his life’s ______, which he has devoted himself to whole-heartedly. (A) resource (B) impact (C) passion (D) emphasis",
         "duration": "17:33",
         "createdAt": "2026-01-19T12:25:06Z",
-        "views": 92,
+        "views": 103,
         "youtubeLink": "https://www.youtube.com/watch?v=4fi9ZW4RMU4",
         "year": 115,
         "question": {
@@ -5195,7 +6859,7 @@
         "description": "8. The drunk driver who shouted at passers-by and ______ them with glass bottles was quickly arrested by the police. (A) shattered (B) assaulted (C) overturned (D) condemned",
         "duration": "15:05",
         "createdAt": "2026-01-19T15:40:38Z",
-        "views": 92,
+        "views": 104,
         "youtubeLink": "https://www.youtube.com/watch?v=pU0rCofM9aI",
         "year": 115,
         "question": {
@@ -5219,7 +6883,7 @@
         "description": "9. There were so many people at the bus station that I had to ______ my way through the crowd to board the bus in time. (A) crash (B) tumble (C) elbow (D) struggle",
         "duration": "12:42",
         "createdAt": "2026-01-19T15:41:17Z",
-        "views": 89,
+        "views": 95,
         "youtubeLink": "https://www.youtube.com/watch?v=KaJ4CZzMX4U",
         "year": 115,
         "question": {
@@ -5243,7 +6907,7 @@
         "description": "10. Deadly shootings on US campuses have raised ______ concerns about how to prevent such tragic incidents from happening again. (A) swift (B) brutal (C) harsh (D) grave",
         "duration": "19:55",
         "createdAt": "2026-01-19T15:47:54Z",
-        "views": 142,
+        "views": 150,
         "youtubeLink": "https://www.youtube.com/watch?v=ge8mSh6ush4",
         "year": 115,
         "question": {

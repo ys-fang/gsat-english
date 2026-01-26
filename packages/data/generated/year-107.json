@@ -88,7 +88,16 @@
       "views": 1583,
       "youtubeLink": "https://www.youtube.com/watch?v=UtVsl_Z84N0",
       "year": 107,
-      "question": null,
+      "question": {
+        "questionText": "Mangoes are a _____ fruit here in Taiwan; most of them reach their peak of sweetness in July.",
+        "options": {
+          "A": "mature",
+          "B": "usual",
+          "C": "seasonal",
+          "D": "particular"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 641
     },
     {
@@ -103,7 +112,16 @@
       "views": 692,
       "youtubeLink": "https://www.youtube.com/watch?v=2VlEugcZmlQ",
       "year": 107,
-      "question": null,
+      "question": {
+        "questionText": "Writing term papers and giving oral reports are typical course _____ for college students.",
+        "options": {
+          "A": "requirements",
+          "B": "techniques",
+          "C": "situations",
+          "D": "principles"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 478
     },
     {
@@ -118,7 +136,16 @@
       "views": 854,
       "youtubeLink": "https://www.youtube.com/watch?v=H3IWfjaka8Y",
       "year": 107,
-      "question": null,
+      "question": {
+        "questionText": "If we work hard to _____ our dreams when we are young, we will not feel that we missed out on something when we get old.",
+        "options": {
+          "A": "distribute",
+          "B": "fulfill",
+          "C": "convince",
+          "D": "monitor"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 530
     },
     {
@@ -133,7 +160,16 @@
       "views": 593,
       "youtubeLink": "https://www.youtube.com/watch?v=eeVyH2BQuPc",
       "year": 107,
-      "question": null,
+      "question": {
+        "questionText": "Few people will trust you if you continue making _____ promises and never make efforts to keep them.",
+        "options": {
+          "A": "chilly",
+          "B": "liberal",
+          "C": "hollow",
+          "D": "definite"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 649
     },
     {
@@ -148,7 +184,16 @@
       "views": 1007,
       "youtubeLink": "https://www.youtube.com/watch?v=QhvkD3DKfTM",
       "year": 107,
-      "question": null,
+      "question": {
+        "questionText": "Becky _____ her ankle while she was playing tennis last week. Now it still hurts badly.",
+        "options": {
+          "A": "slipped",
+          "B": "dumped",
+          "C": "twisted",
+          "D": "recovered"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 810
     },
     {
@@ -163,7 +208,16 @@
       "views": 858,
       "youtubeLink": "https://www.youtube.com/watch?v=uqT8W3qGj-c",
       "year": 107,
-      "question": null,
+      "question": {
+        "questionText": "Research shows that men and women usually think differently. For example, they have quite different _____ about what marriage means in their life.",
+        "options": {
+          "A": "decisions",
+          "B": "beliefs",
+          "C": "styles",
+          "D": "degrees"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 714
     },
     {
@@ -178,7 +232,16 @@
       "views": 565,
       "youtubeLink": "https://www.youtube.com/watch?v=SvWtGInI7FA",
       "year": 107,
-      "question": null,
+      "question": {
+        "questionText": "The new manager is very _____. For instance, the employees are given much shorter deadlines for the same tasks than before.",
+        "options": {
+          "A": "persuasive",
+          "B": "tolerable",
+          "C": "suspicious",
+          "D": "demanding"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 760
     },
     {
@@ -193,7 +256,16 @@
       "views": 451,
       "youtubeLink": "https://www.youtube.com/watch?v=kJLUdU8zzA8",
       "year": 107,
-      "question": null,
+      "question": {
+        "questionText": "While the couple were looking _____ for their missing children, the kids were actually having fun in the woods nearby.",
+        "options": {
+          "A": "anxiously",
+          "B": "precisely",
+          "C": "evidently",
+          "D": "distinctly"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 664
     },
     {
@@ -208,7 +280,16 @@
       "views": 584,
       "youtubeLink": "https://www.youtube.com/watch?v=GR7CYN9kCMo",
       "year": 107,
-      "question": null,
+      "question": {
+        "questionText": "After delivering a very powerful speech, the award winner was _____ by a group of fans asking for her signature.",
+        "options": {
+          "A": "deposited",
+          "B": "reserved",
+          "C": "vanished",
+          "D": "surrounded"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 654
     },
     {
@@ -223,7 +304,16 @@
       "views": 443,
       "youtubeLink": "https://www.youtube.com/watch?v=2Fo29aKsjjs",
       "year": 107,
-      "question": null,
+      "question": {
+        "questionText": "The interviewees were trying very hard to _____ the interviewers that they were very capable and should be given the job.",
+        "options": {
+          "A": "credit",
+          "B": "impress",
+          "C": "relieve",
+          "D": "acquire"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 639
     },
     {
@@ -238,7 +328,16 @@
       "views": 528,
       "youtubeLink": "https://www.youtube.com/watch?v=oL4so2WbBXw",
       "year": 107,
-      "question": null,
+      "question": {
+        "questionText": "After the first snow of the year, the entire grassland disappeared under a _____ of snow.",
+        "options": {
+          "A": "flake",
+          "B": "blossom",
+          "C": "blanket",
+          "D": "flash"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 423
     },
     {
@@ -253,7 +352,16 @@
       "views": 385,
       "youtubeLink": "https://www.youtube.com/watch?v=PhPk0uMSk-8",
       "year": 107,
-      "question": null,
+      "question": {
+        "questionText": "Peter likes books with wide _____, which provide him with enough space to write notes.",
+        "options": {
+          "A": "angles",
+          "B": "margins",
+          "C": "exceptions",
+          "D": "limitations"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 438
     },
     {
@@ -268,7 +376,16 @@
       "views": 386,
       "youtubeLink": "https://www.youtube.com/watch?v=9ypL9KUqCuI",
       "year": 107,
-      "question": null,
+      "question": {
+        "questionText": "At the beginning of the semester, the teacher told the students that late assignments would receive a low grade as a _____.",
+        "options": {
+          "A": "hardship",
+          "B": "comment",
+          "C": "bargain",
+          "D": "penalty"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 573
     },
     {
@@ -283,7 +400,16 @@
       "views": 430,
       "youtubeLink": "https://www.youtube.com/watch?v=JJM8mywsTGg",
       "year": 107,
-      "question": null,
+      "question": {
+        "questionText": "Various studies have been _____ in this hospital to explore the link between a high-fat diet and cancer.",
+        "options": {
+          "A": "conducted",
+          "B": "confirmed",
+          "C": "implied",
+          "D": "improved"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 543
     },
     {
@@ -298,7 +424,16 @@
       "views": 402,
       "youtubeLink": "https://www.youtube.com/watch?v=TBgk9AR8NZw",
       "year": 107,
-      "question": null,
+      "question": {
+        "questionText": "Intense, fast-moving fires raged across much of California last week. The _____ firestorm has claimed the lives of thirty people.",
+        "options": {
+          "A": "efficient",
+          "B": "reliable",
+          "C": "massive",
+          "D": "adequate"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 615
     }
   ]

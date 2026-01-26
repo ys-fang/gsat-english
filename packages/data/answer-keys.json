@@ -1,0 +1,671 @@
+{
+  "answerKeys": {
+    "105": {
+      "vocabRange": [
+        1,
+        15
+      ],
+      "answers": {
+        "1": "C",
+        "2": "D",
+        "3": "A",
+        "4": "C",
+        "5": "A",
+        "6": "D",
+        "7": "C",
+        "8": "D",
+        "9": "A",
+        "10": "C",
+        "11": "B",
+        "12": "A",
+        "13": "A",
+        "14": "C",
+        "15": "D"
+      }
+    },
+    "106": {
+      "vocabRange": [
+        1,
+        15
+      ],
+      "answers": {
+        "1": "B",
+        "2": "A",
+        "3": "C",
+        "4": "D",
+        "5": "B",
+        "6": "A",
+        "7": "B",
+        "8": "D",
+        "9": "C",
+        "10": "B",
+        "11": "A",
+        "12": "C",
+        "13": "C",
+        "14": "A",
+        "15": "D"
+      }
+    },
+    "107": {
+      "vocabRange": [
+        1,
+        15
+      ],
+      "answers": {
+        "1": "C",
+        "2": "A",
+        "3": "B",
+        "4": "C",
+        "5": "C",
+        "6": "B",
+        "7": "D",
+        "8": "A",
+        "9": "D",
+        "10": "B",
+        "11": "C",
+        "12": "B",
+        "13": "D",
+        "14": "A",
+        "15": "C"
+      }
+    },
+    "108": {
+      "vocabRange": [
+        1,
+        15
+      ],
+      "answers": {
+        "1": "C",
+        "2": "C",
+        "3": "D",
+        "4": "B",
+        "5": "B",
+        "6": "C",
+        "7": "B",
+        "8": "A",
+        "9": "A",
+        "10": "B",
+        "11": "A",
+        "12": "D",
+        "13": "D",
+        "14": "B",
+        "15": "C"
+      }
+    },
+    "109": {
+      "vocabRange": [
+        1,
+        15
+      ],
+      "answers": {
+        "1": "B",
+        "2": "B",
+        "3": "D",
+        "4": "D",
+        "5": "B",
+        "6": "A",
+        "7": "C",
+        "8": "D",
+        "9": "C",
+        "10": "C",
+        "11": "A",
+        "12": "A",
+        "13": "D",
+        "14": "A",
+        "15": "B"
+      }
+    },
+    "110": {
+      "vocabRange": [
+        1,
+        15
+      ],
+      "answers": {
+        "1": "C",
+        "2": "C",
+        "3": "A",
+        "4": "A",
+        "5": "D",
+        "6": "D",
+        "7": "B",
+        "8": "D",
+        "9": "A",
+        "10": "C",
+        "11": "B",
+        "12": "A",
+        "13": "A",
+        "14": "C",
+        "15": "B"
+      }
+    },
+    "111": {
+      "vocabRange": [
+        1,
+        10
+      ],
+      "answers": {
+        "1": "B",
+        "2": "A",
+        "3": "C",
+        "4": "A",
+        "5": "A",
+        "6": "C",
+        "7": "B",
+        "8": "D",
+        "9": "D",
+        "10": "B"
+      }
+    },
+    "112": {
+      "vocabRange": [
+        1,
+        10
+      ],
+      "answers": {
+        "1": "A",
+        "2": "C",
+        "3": "C",
+        "4": "B",
+        "5": "D",
+        "6": "D",
+        "7": "B",
+        "8": "A",
+        "9": "A",
+        "10": "D"
+      }
+    },
+    "113": {
+      "vocabRange": [
+        1,
+        10
+      ],
+      "answers": {
+        "1": "B",
+        "2": "A",
+        "3": "B",
+        "4": "B",
+        "5": "D",
+        "6": "C",
+        "7": "D",
+        "8": "C",
+        "9": "A",
+        "10": "B"
+      }
+    }
+  },
+  "supplementaryQuestions": {
+    "106": {
+      "1": {
+        "questionText": "John's clock is not functioning _____. The alarm rings even when it's not set to go off.",
+        "options": { "A": "tenderly", "B": "properly", "C": "solidly", "D": "favorably" }
+      },
+      "2": {
+        "questionText": "Michael has decided to _____ a career in physics and has set his mind on becoming a professor.",
+        "options": { "A": "pursue", "B": "swear", "C": "reserve", "D": "draft" }
+      },
+      "3": {
+        "questionText": "Peter plans to hike in a _____ part of Africa, where he might not meet another human being for days.",
+        "options": { "A": "native", "B": "tricky", "C": "remote", "D": "vacant" }
+      },
+      "4": {
+        "questionText": "People in this community tend to _____ with the group they belong to, and often put group interests before personal ones.",
+        "options": { "A": "appoint", "B": "eliminate", "C": "occupy", "D": "identify" }
+      },
+      "5": {
+        "questionText": "I mistook the man for a well-known actor and asked for his autograph; it was really _____.",
+        "options": { "A": "relaxing", "B": "embarrassing", "C": "appealing", "D": "defending" }
+      },
+      "6": {
+        "questionText": "After spending most of her salary on rent and food, Amelia _____ had any money left for entertainment and other expenses.",
+        "options": { "A": "barely", "B": "fairly", "C": "merely", "D": "readily" }
+      },
+      "7": {
+        "questionText": "In the Bermuda Triangle, a region in the western part of the North Atlantic Ocean, some airplanes and ships were reported to have mysteriously disappeared without a _____.",
+        "options": { "A": "guide", "B": "trace", "C": "code", "D": "print" }
+      },
+      "8": {
+        "questionText": "Shouting greetings and waving a big sign, Tony _____ the passing shoppers to visit his shop and buy the freshly baked bread.",
+        "options": { "A": "accessed", "B": "edited", "C": "imposed", "D": "urged" }
+      },
+      "9": {
+        "questionText": "With a continuous 3 km stretch of golden sand, the beach attracts artists around the world each summer to create amazing _____ with its fine soft sand.",
+        "options": { "A": "constitutions", "B": "objections", "C": "sculptures", "D": "adventures" }
+      },
+      "10": {
+        "questionText": "The clouds parted and a _____ of light fell on the church, through the windows, and onto the floor.",
+        "options": { "A": "dip", "B": "beam", "C": "spark", "D": "path" }
+      },
+      "11": {
+        "questionText": "Instead of a gift, Tim's grandmother always _____ some money in the birthday card she gave him.",
+        "options": { "A": "enclosed", "B": "installed", "C": "preserved", "D": "rewarded" }
+      },
+      "12": {
+        "questionText": "While winning a gold _____ is what every Olympic athlete dreams of, it becomes meaningless if it is achieved by cheating.",
+        "options": { "A": "signal", "B": "glory", "C": "medal", "D": "profit" }
+      },
+      "13": {
+        "questionText": "The thief went into the apartment building and stole some jewelry. He then _____ himself as a security guard and walked out the front gate.",
+        "options": { "A": "balanced", "B": "calculated", "C": "disguised", "D": "registered" }
+      },
+      "14": {
+        "questionText": "Due to numerous accidents that occurred while people were playing Pokémon GO, players were advised to be _____ of possible dangers in the environment.",
+        "options": { "A": "aware", "B": "ashamed", "C": "doubtful", "D": "guilty" }
+      },
+      "15": {
+        "questionText": "Sherlock Holmes, a detective in a popular fiction series, has impressed readers with his amazing powers of _____ and his knowledge of trivial facts.",
+        "options": { "A": "innocence", "B": "estimation", "C": "assurance", "D": "observation" }
+      }
+    },
+    "107": {
+      "1": {
+        "questionText": "Mangoes are a _____ fruit here in Taiwan; most of them reach their peak of sweetness in July.",
+        "options": {
+          "A": "mature",
+          "B": "usual",
+          "C": "seasonal",
+          "D": "particular"
+        }
+      },
+      "2": {
+        "questionText": "Writing term papers and giving oral reports are typical course _____ for college students.",
+        "options": {
+          "A": "requirements",
+          "B": "techniques",
+          "C": "situations",
+          "D": "principles"
+        }
+      },
+      "3": {
+        "questionText": "If we work hard to _____ our dreams when we are young, we will not feel that we missed out on something when we get old.",
+        "options": {
+          "A": "distribute",
+          "B": "fulfill",
+          "C": "convince",
+          "D": "monitor"
+        }
+      },
+      "4": {
+        "questionText": "Few people will trust you if you continue making _____ promises and never make efforts to keep them.",
+        "options": {
+          "A": "chilly",
+          "B": "liberal",
+          "C": "hollow",
+          "D": "definite"
+        }
+      },
+      "5": {
+        "questionText": "Becky _____ her ankle while she was playing tennis last week. Now it still hurts badly.",
+        "options": {
+          "A": "slipped",
+          "B": "dumped",
+          "C": "twisted",
+          "D": "recovered"
+        }
+      },
+      "6": {
+        "questionText": "Research shows that men and women usually think differently. For example, they have quite different _____ about what marriage means in their life.",
+        "options": {
+          "A": "decisions",
+          "B": "beliefs",
+          "C": "styles",
+          "D": "degrees"
+        }
+      },
+      "7": {
+        "questionText": "The new manager is very _____. For instance, the employees are given much shorter deadlines for the same tasks than before.",
+        "options": {
+          "A": "persuasive",
+          "B": "tolerable",
+          "C": "suspicious",
+          "D": "demanding"
+        }
+      },
+      "8": {
+        "questionText": "While the couple were looking _____ for their missing children, the kids were actually having fun in the woods nearby.",
+        "options": {
+          "A": "anxiously",
+          "B": "precisely",
+          "C": "evidently",
+          "D": "distinctly"
+        }
+      },
+      "9": {
+        "questionText": "After delivering a very powerful speech, the award winner was _____ by a group of fans asking for her signature.",
+        "options": {
+          "A": "deposited",
+          "B": "reserved",
+          "C": "vanished",
+          "D": "surrounded"
+        }
+      },
+      "10": {
+        "questionText": "The interviewees were trying very hard to _____ the interviewers that they were very capable and should be given the job.",
+        "options": {
+          "A": "credit",
+          "B": "impress",
+          "C": "relieve",
+          "D": "acquire"
+        }
+      },
+      "11": {
+        "questionText": "After the first snow of the year, the entire grassland disappeared under a _____ of snow.",
+        "options": {
+          "A": "flake",
+          "B": "blossom",
+          "C": "blanket",
+          "D": "flash"
+        }
+      },
+      "12": {
+        "questionText": "Peter likes books with wide _____, which provide him with enough space to write notes.",
+        "options": {
+          "A": "angles",
+          "B": "margins",
+          "C": "exceptions",
+          "D": "limitations"
+        }
+      },
+      "13": {
+        "questionText": "At the beginning of the semester, the teacher told the students that late assignments would receive a low grade as a _____.",
+        "options": {
+          "A": "hardship",
+          "B": "comment",
+          "C": "bargain",
+          "D": "penalty"
+        }
+      },
+      "14": {
+        "questionText": "Various studies have been _____ in this hospital to explore the link between a high-fat diet and cancer.",
+        "options": {
+          "A": "conducted",
+          "B": "confirmed",
+          "C": "implied",
+          "D": "improved"
+        }
+      },
+      "15": {
+        "questionText": "Intense, fast-moving fires raged across much of California last week. The _____ firestorm has claimed the lives of thirty people.",
+        "options": {
+          "A": "efficient",
+          "B": "reliable",
+          "C": "massive",
+          "D": "adequate"
+        }
+      }
+    },
+    "108": {
+      "1": {
+        "questionText": "Bobby cared a lot about his _____ at home and asked his parents not to go through his things without his permission.",
+        "options": {
+          "A": "discipline",
+          "B": "facility",
+          "C": "privacy",
+          "D": "representation"
+        }
+      },
+      "2": {
+        "questionText": "The new manager is a real gentleman. He is kind and humble, totally different from the former manager, who was _____ and bossy.",
+        "options": {
+          "A": "eager",
+          "B": "liberal",
+          "C": "mean",
+          "D": "inferior"
+        }
+      },
+      "3": {
+        "questionText": "The weather bureau _____ that the typhoon would bring strong winds and heavy rains, and warned everyone of the possible danger.",
+        "options": {
+          "A": "conveyed",
+          "B": "associated",
+          "C": "interpreted",
+          "D": "predicted"
+        }
+      },
+      "4": {
+        "questionText": "Different airlines have different _____ for carry-on luggage, but many international airlines limit a carry-on piece to 7 kilograms.",
+        "options": {
+          "A": "landmarks",
+          "B": "restrictions",
+          "C": "percentages",
+          "D": "circumstances"
+        }
+      },
+      "5": {
+        "questionText": "Many people were happy that the government had finally _____ Children's Day as a national holiday.",
+        "options": {
+          "A": "appointed",
+          "B": "declared",
+          "C": "performed",
+          "D": "involved"
+        }
+      },
+      "6": {
+        "questionText": "To reach the goal of making her company a market leader, Michelle _____ a plan to open ten new stores around the country this year.",
+        "options": {
+          "A": "advised",
+          "B": "occupied",
+          "C": "proposed",
+          "D": "recognized"
+        }
+      },
+      "7": {
+        "questionText": "Silence in some way is as _____ as speech. It can be used to show, for example, disagreement or lack of interest.",
+        "options": {
+          "A": "sociable",
+          "B": "expressive",
+          "C": "reasonable",
+          "D": "objective"
+        }
+      },
+      "8": {
+        "questionText": "This TV program is designed for children, _____ for those under five. It contains no violence or strong language.",
+        "options": {
+          "A": "particularly",
+          "B": "sensibly",
+          "C": "moderately",
+          "D": "considerably"
+        }
+      },
+      "9": {
+        "questionText": "Tommy, please put away the toys in the box, or you might _____ on them and hurt yourself.",
+        "options": {
+          "A": "stumble",
+          "B": "graze",
+          "C": "navigate",
+          "D": "dwell"
+        }
+      },
+      "10": {
+        "questionText": "The _____ costume party, held every September, is one of the biggest events of the school year.",
+        "options": {
+          "A": "initial",
+          "B": "annual",
+          "C": "evident",
+          "D": "occasional"
+        }
+      },
+      "11": {
+        "questionText": "In a job interview, attitude and personality are usually important _____ that influence the decision of the interviewers.",
+        "options": {
+          "A": "factors",
+          "B": "outcomes",
+          "C": "missions",
+          "D": "identities"
+        }
+      },
+      "12": {
+        "questionText": "The snow-capped mountain is described so _____ in the book that the scene seems to come alive in front of the reader's eyes.",
+        "options": {
+          "A": "distantly",
+          "B": "meaningfully",
+          "C": "cheerfully",
+          "D": "vividly"
+        }
+      },
+      "13": {
+        "questionText": "Surrounded by flowers blooming and birds _____ merrily, the Wangs had a good time hiking in the national park.",
+        "options": {
+          "A": "napping",
+          "B": "scooping",
+          "C": "flipping",
+          "D": "chirping"
+        }
+      },
+      "14": {
+        "questionText": "It is essential for us to maintain constant _____ with our friends to ensure that we have someone to talk to in times of need.",
+        "options": {
+          "A": "benefit",
+          "B": "contact",
+          "C": "gesture",
+          "D": "favor"
+        }
+      },
+      "15": {
+        "questionText": "The young generation in this country has shown less interest in factory work and other _____ labor jobs, such as house construction and fruit picking.",
+        "options": {
+          "A": "causal",
+          "B": "durable",
+          "C": "manual",
+          "D": "violent"
+        }
+      }
+    },
+    "109": {
+      "1": {
+        "questionText": "After hours of discussion, our class finally reached the _____ that we would go to Hualien for our graduation trip.",
+        "options": {
+          "A": "balance",
+          "B": "conclusion",
+          "C": "definition",
+          "D": "harmony"
+        }
+      },
+      "2": {
+        "questionText": "Jane _____ her teacher by passing the exam with a nearly perfect score; she almost failed the course last semester.",
+        "options": {
+          "A": "bored",
+          "B": "amazed",
+          "C": "charmed",
+          "D": "informed"
+        }
+      },
+      "3": {
+        "questionText": "The vacuum cleaner is not working. Let's send it back to the _____ to have it inspected and repaired.",
+        "options": {
+          "A": "lecturer",
+          "B": "publisher",
+          "C": "researcher",
+          "D": "manufacturer"
+        }
+      },
+      "4": {
+        "questionText": "Due to the global financial crisis, the country's exports _____ by 40 percent last month, the largest drop since 2000.",
+        "options": {
+          "A": "flattered",
+          "B": "transformed",
+          "C": "relieved",
+          "D": "decreased"
+        }
+      },
+      "5": {
+        "questionText": "The potato chips have been left uncovered on the table for such a long time that they no longer taste fresh and _____.",
+        "options": {
+          "A": "solid",
+          "B": "crispy",
+          "C": "original",
+          "D": "smooth"
+        }
+      },
+      "6": {
+        "questionText": "The townspeople built a _____ in memory of the brave teacher who sacrificed her life to save her students from a burning bus.",
+        "options": {
+          "A": "monument",
+          "B": "refugee",
+          "C": "souvenir",
+          "D": "firecracker"
+        }
+      },
+      "7": {
+        "questionText": "The students in Professor Smith's classical Chinese class are required to _____ poems by famous Chinese poets.",
+        "options": {
+          "A": "construct",
+          "B": "expose",
+          "C": "recite",
+          "D": "install"
+        }
+      },
+      "8": {
+        "questionText": "Although Mr. Tang claims that the house belongs to him, he has not offered any proof of _____.",
+        "options": {
+          "A": "convention",
+          "B": "relationship",
+          "C": "insurance",
+          "D": "ownership"
+        }
+      },
+      "9": {
+        "questionText": "Ancient Athens, famous for its early development of the democratic system, is often said to be the _____ of democracy.",
+        "options": {
+          "A": "mission",
+          "B": "target",
+          "C": "cradle",
+          "D": "milestone"
+        }
+      },
+      "10": {
+        "questionText": "The candy can no longer be sold because it was found to contain artificial ingredients far beyond the _____ level.",
+        "options": {
+          "A": "abundant",
+          "B": "immense",
+          "C": "permissible",
+          "D": "descriptive"
+        }
+      },
+      "11": {
+        "questionText": "Jack's excellent performance in last week's game has _____ all the doubts about his ability to play on our school basketball team.",
+        "options": {
+          "A": "erased",
+          "B": "canceled",
+          "C": "overlooked",
+          "D": "replaced"
+        }
+      },
+      "12": {
+        "questionText": "It is bullying to _____ a foreign speaker's accent. No one deserves to be laughed at for their pronunciation.",
+        "options": {
+          "A": "mock",
+          "B": "sneak",
+          "C": "prompt",
+          "D": "glare"
+        }
+      },
+      "13": {
+        "questionText": "Mary lost ten kilograms in three months, so her _____ skin-tight jeans are now hanging off her hips.",
+        "options": {
+          "A": "barely",
+          "B": "evenly",
+          "C": "currently",
+          "D": "formerly"
+        }
+      },
+      "14": {
+        "questionText": "The police officer showed us pictures of drunk driving accidents to highlight the importance of staying _____ on the road.",
+        "options": {
+          "A": "sober",
+          "B": "majestic",
+          "C": "vigorous",
+          "D": "noticeable"
+        }
+      },
+      "15": {
+        "questionText": "The claim that eating chocolate can prevent heart disease is _____ because there is not enough scientific evidence to support it.",
+        "options": {
+          "A": "creative",
+          "B": "disputable",
+          "C": "circular",
+          "D": "magnificent"
+        }
+      }
+    }
+  }
+}

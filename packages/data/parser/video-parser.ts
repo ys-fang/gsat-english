@@ -133,9 +133,10 @@ export function parseTsvLine(line: string): RawVideoData | null {
  * 從 playlist 標題提取學年度
  */
 function extractYear(playlistTitle: string): number {
-  const yearMatch = playlistTitle.match(/(\d{2,3})\s*學年度?|(\d{2,3})\s*大學學測/)
+  // 匹配格式: "115 學年度...", "109 大學學測...", "93年大學學測..."
+  const yearMatch = playlistTitle.match(/(\d{2,3})\s*學年度?|(\d{2,3})\s*大學學測|(\d{2,3})年大學學測/)
   if (yearMatch) {
-    return parseInt(yearMatch[1] || yearMatch[2])
+    return parseInt(yearMatch[1] || yearMatch[2] || yearMatch[3])
   }
   return 0
 }

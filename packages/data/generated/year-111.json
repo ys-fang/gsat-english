@@ -21,7 +21,7 @@
           "C": "polishes",
           "D": "transfers"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 566
     },
@@ -45,7 +45,7 @@
           "C": "strike",
           "D": "quest"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 495
     },
@@ -69,7 +69,7 @@
           "C": "promising",
           "D": "eventual"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 379
     },
@@ -93,7 +93,7 @@
           "C": "available",
           "D": "remarkable"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 1008
     },
@@ -117,7 +117,7 @@
           "C": "agreeable",
           "D": "ultimate"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 539
     },
@@ -141,7 +141,7 @@
           "C": "Rolling",
           "D": "Snapping"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 662
     },
@@ -165,7 +165,7 @@
           "C": "ambiguously",
           "D": "optionally"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 537
     },
@@ -189,7 +189,7 @@
           "C": "puppet",
           "D": "variety"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 625
     },
@@ -213,7 +213,7 @@
           "C": "contribution",
           "D": "politician"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 753
     },
@@ -237,7 +237,7 @@
           "C": "offered",
           "D": "stretched"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 589
     }

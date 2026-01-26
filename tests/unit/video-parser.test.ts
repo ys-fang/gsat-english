@@ -163,6 +163,8 @@ describe('VideoParser', () => {
         { title: '98 學年度大學學測 - 英文文意字彙', expected: 98 },
         { title: '109 大學學測英文科試題第一大題文意選擇', expected: 109 },
         { title: '107 大學學測文意字彙講解', expected: 107 },
+        { title: '93年大學學測英文字彙解析', expected: 93 },
+        { title: '95年大學學測字彙測驗講解', expected: 95 },
       ]
 
       testCases.forEach(({ title, expected }) => {
@@ -172,7 +174,7 @@ describe('VideoParser', () => {
           videoIndex: 1,
           youtubeId: 'abc123',
           videoTitle: 'Test',
-          description: 'Test (A) a (B) b (C) c (D) d',
+          description: 'Test _____ (A) a (B) b (C) c (D) d',
           duration: '10:00',
           createdAt: '2026-01-18T09:23:10Z',
           views: 100,

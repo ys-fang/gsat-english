@@ -10,10 +10,19 @@
       "description": "balance (v.) 使平衡 (n.) 平衡；結存，結餘 conclusion (n.) 結論；推論 definition (n.) 定義；釋義 harmony (n.) 和諧；協調",
       "duration": "6:02",
       "createdAt": "2020-05-21T13:12:17Z",
-      "views": 3681,
+      "views": 3682,
       "youtubeLink": "https://www.youtube.com/watch?v=97nU84YZ-J0",
       "year": 109,
-      "question": null,
+      "question": {
+        "questionText": "After hours of discussion, our class finally reached the _____ that we would go to Hualien for our graduation trip.",
+        "options": {
+          "A": "balance",
+          "B": "conclusion",
+          "C": "definition",
+          "D": "harmony"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 362
     },
     {
@@ -25,10 +34,19 @@
       "description": "bore (v.) 使厭煩 (n.) 令人討厭的人(或事物) amaze (v.) 使大為驚奇 charm (v.) 使陶醉 (n.) 魅力 inform (v.) 通知，告知",
       "duration": "4:22",
       "createdAt": "2020-05-21T13:12:17Z",
-      "views": 1543,
+      "views": 1544,
       "youtubeLink": "https://www.youtube.com/watch?v=GuxSP_J3SUo",
       "year": 109,
-      "question": null,
+      "question": {
+        "questionText": "Jane _____ her teacher by passing the exam with a nearly perfect score; she almost failed the course last semester.",
+        "options": {
+          "A": "bored",
+          "B": "amazed",
+          "C": "charmed",
+          "D": "informed"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 262
     },
     {
@@ -43,7 +61,16 @@
       "views": 1240,
       "youtubeLink": "https://www.youtube.com/watch?v=8TYpFy6X5fA",
       "year": 109,
-      "question": null,
+      "question": {
+        "questionText": "The vacuum cleaner is not working. Let's send it back to the _____ to have it inspected and repaired.",
+        "options": {
+          "A": "lecturer",
+          "B": "publisher",
+          "C": "researcher",
+          "D": "manufacturer"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 375
     },
     {
@@ -58,7 +85,16 @@
       "views": 1102,
       "youtubeLink": "https://www.youtube.com/watch?v=_1aojSn_weE",
       "year": 109,
-      "question": null,
+      "question": {
+        "questionText": "Due to the global financial crisis, the country's exports _____ by 40 percent last month, the largest drop since 2000.",
+        "options": {
+          "A": "flattered",
+          "B": "transformed",
+          "C": "relieved",
+          "D": "decreased"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 364
     },
     {
@@ -73,7 +109,16 @@
       "views": 1036,
       "youtubeLink": "https://www.youtube.com/watch?v=qhK8H6km38w",
       "year": 109,
-      "question": null,
+      "question": {
+        "questionText": "The potato chips have been left uncovered on the table for such a long time that they no longer taste fresh and _____.",
+        "options": {
+          "A": "solid",
+          "B": "crispy",
+          "C": "original",
+          "D": "smooth"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 301
     },
     {
@@ -88,7 +133,16 @@
       "views": 1025,
       "youtubeLink": "https://www.youtube.com/watch?v=-sY7dZOr1GM",
       "year": 109,
-      "question": null,
+      "question": {
+        "questionText": "The townspeople built a _____ in memory of the brave teacher who sacrificed her life to save her students from a burning bus.",
+        "options": {
+          "A": "monument",
+          "B": "refugee",
+          "C": "souvenir",
+          "D": "firecracker"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 440
     },
     {
@@ -103,7 +157,16 @@
       "views": 850,
       "youtubeLink": "https://www.youtube.com/watch?v=pLltKmwtCI0",
       "year": 109,
-      "question": null,
+      "question": {
+        "questionText": "The students in Professor Smith's classical Chinese class are required to _____ poems by famous Chinese poets.",
+        "options": {
+          "A": "construct",
+          "B": "expose",
+          "C": "recite",
+          "D": "install"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 263
     },
     {
@@ -118,7 +181,16 @@
       "views": 957,
       "youtubeLink": "https://www.youtube.com/watch?v=nGM7cX2NYTM",
       "year": 109,
-      "question": null,
+      "question": {
+        "questionText": "Although Mr. Tang claims that the house belongs to him, he has not offered any proof of _____.",
+        "options": {
+          "A": "convention",
+          "B": "relationship",
+          "C": "insurance",
+          "D": "ownership"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 369
     },
     {
@@ -133,7 +205,16 @@
       "views": 1028,
       "youtubeLink": "https://www.youtube.com/watch?v=vxVLkqz59mY",
       "year": 109,
-      "question": null,
+      "question": {
+        "questionText": "Ancient Athens, famous for its early development of the democratic system, is often said to be the _____ of democracy.",
+        "options": {
+          "A": "mission",
+          "B": "target",
+          "C": "cradle",
+          "D": "milestone"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 305
     },
     {
@@ -148,7 +229,16 @@
       "views": 751,
       "youtubeLink": "https://www.youtube.com/watch?v=kFVKmXJEot0",
       "year": 109,
-      "question": null,
+      "question": {
+        "questionText": "The candy can no longer be sold because it was found to contain artificial ingredients far beyond the _____ level.",
+        "options": {
+          "A": "abundant",
+          "B": "immense",
+          "C": "permissible",
+          "D": "descriptive"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 343
     },
     {
@@ -163,7 +253,16 @@
       "views": 757,
       "youtubeLink": "https://www.youtube.com/watch?v=nGgHDhuIYVU",
       "year": 109,
-      "question": null,
+      "question": {
+        "questionText": "Jack's excellent performance in last week's game has _____ all the doubts about his ability to play on our school basketball team.",
+        "options": {
+          "A": "erased",
+          "B": "canceled",
+          "C": "overlooked",
+          "D": "replaced"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 312
     },
     {
@@ -178,7 +277,16 @@
       "views": 815,
       "youtubeLink": "https://www.youtube.com/watch?v=wMktIDrEHl8",
       "year": 109,
-      "question": null,
+      "question": {
+        "questionText": "It is bullying to _____ a foreign speaker's accent. No one deserves to be laughed at for their pronunciation.",
+        "options": {
+          "A": "mock",
+          "B": "sneak",
+          "C": "prompt",
+          "D": "glare"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 392
     },
     {
@@ -193,7 +301,16 @@
       "views": 861,
       "youtubeLink": "https://www.youtube.com/watch?v=d212I1jUKYg",
       "year": 109,
-      "question": null,
+      "question": {
+        "questionText": "Mary lost ten kilograms in three months, so her _____ skin-tight jeans are now hanging off her hips.",
+        "options": {
+          "A": "barely",
+          "B": "evenly",
+          "C": "currently",
+          "D": "formerly"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 338
     },
     {
@@ -208,7 +325,16 @@
       "views": 785,
       "youtubeLink": "https://www.youtube.com/watch?v=bs4-OhZB044",
       "year": 109,
-      "question": null,
+      "question": {
+        "questionText": "The police officer showed us pictures of drunk driving accidents to highlight the importance of staying _____ on the road.",
+        "options": {
+          "A": "sober",
+          "B": "majestic",
+          "C": "vigorous",
+          "D": "noticeable"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 387
     },
     {
@@ -223,7 +349,16 @@
       "views": 825,
       "youtubeLink": "https://www.youtube.com/watch?v=tjb0k1_xMtU",
       "year": 109,
-      "question": null,
+      "question": {
+        "questionText": "The claim that eating chocolate can prevent heart disease is _____ because there is not enough scientific evidence to support it.",
+        "options": {
+          "A": "creative",
+          "B": "disputable",
+          "C": "circular",
+          "D": "magnificent"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 317
     }
   ]

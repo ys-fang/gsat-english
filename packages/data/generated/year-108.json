@@ -13,7 +13,16 @@
       "views": 5069,
       "youtubeLink": "https://www.youtube.com/watch?v=ZVHqpn51CTI",
       "year": 108,
-      "question": null,
+      "question": {
+        "questionText": "Bobby cared a lot about his _____ at home and asked his parents not to go through his things without his permission.",
+        "options": {
+          "A": "discipline",
+          "B": "facility",
+          "C": "privacy",
+          "D": "representation"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 244
     },
     {
@@ -28,7 +37,16 @@
       "views": 2985,
       "youtubeLink": "https://www.youtube.com/watch?v=eFBXJwOnfFc",
       "year": 108,
-      "question": null,
+      "question": {
+        "questionText": "The new manager is a real gentleman. He is kind and humble, totally different from the former manager, who was _____ and bossy.",
+        "options": {
+          "A": "eager",
+          "B": "liberal",
+          "C": "mean",
+          "D": "inferior"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 411
     },
     {
@@ -43,7 +61,16 @@
       "views": 2236,
       "youtubeLink": "https://www.youtube.com/watch?v=PzzNQLHkmGA",
       "year": 108,
-      "question": null,
+      "question": {
+        "questionText": "The weather bureau _____ that the typhoon would bring strong winds and heavy rains, and warned everyone of the possible danger.",
+        "options": {
+          "A": "conveyed",
+          "B": "associated",
+          "C": "interpreted",
+          "D": "predicted"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 327
     },
     {
@@ -58,7 +85,16 @@
       "views": 2427,
       "youtubeLink": "https://www.youtube.com/watch?v=YtSUCRiSews",
       "year": 108,
-      "question": null,
+      "question": {
+        "questionText": "Different airlines have different _____ for carry-on luggage, but many international airlines limit a carry-on piece to 7 kilograms.",
+        "options": {
+          "A": "landmarks",
+          "B": "restrictions",
+          "C": "percentages",
+          "D": "circumstances"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 379
     },
     {
@@ -73,7 +109,16 @@
       "views": 1534,
       "youtubeLink": "https://www.youtube.com/watch?v=3JvYZ3_HUrs",
       "year": 108,
-      "question": null,
+      "question": {
+        "questionText": "Many people were happy that the government had finally _____ Children's Day as a national holiday.",
+        "options": {
+          "A": "appointed",
+          "B": "declared",
+          "C": "performed",
+          "D": "involved"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 204
     },
     {
@@ -88,7 +133,16 @@
       "views": 1770,
       "youtubeLink": "https://www.youtube.com/watch?v=ITvG62-Li-g",
       "year": 108,
-      "question": null,
+      "question": {
+        "questionText": "To reach the goal of making her company a market leader, Michelle _____ a plan to open ten new stores around the country this year.",
+        "options": {
+          "A": "advised",
+          "B": "occupied",
+          "C": "proposed",
+          "D": "recognized"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 275
     },
     {
@@ -103,7 +157,16 @@
       "views": 1881,
       "youtubeLink": "https://www.youtube.com/watch?v=SlVzpJbiHfw",
       "year": 108,
-      "question": null,
+      "question": {
+        "questionText": "Silence in some way is as _____ as speech. It can be used to show, for example, disagreement or lack of interest.",
+        "options": {
+          "A": "sociable",
+          "B": "expressive",
+          "C": "reasonable",
+          "D": "objective"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 406
     },
     {
@@ -118,7 +181,16 @@
       "views": 1952,
       "youtubeLink": "https://www.youtube.com/watch?v=6gdByGTxy-4",
       "year": 108,
-      "question": null,
+      "question": {
+        "questionText": "This TV program is designed for children, _____ for those under five. It contains no violence or strong language.",
+        "options": {
+          "A": "particularly",
+          "B": "sensibly",
+          "C": "moderately",
+          "D": "considerably"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 338
     },
     {
@@ -133,7 +205,16 @@
       "views": 1422,
       "youtubeLink": "https://www.youtube.com/watch?v=mffelXhhLyw",
       "year": 108,
-      "question": null,
+      "question": {
+        "questionText": "Tommy, please put away the toys in the box, or you might _____ on them and hurt yourself.",
+        "options": {
+          "A": "stumble",
+          "B": "graze",
+          "C": "navigate",
+          "D": "dwell"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 231
     },
     {
@@ -148,7 +229,16 @@
       "views": 1169,
       "youtubeLink": "https://www.youtube.com/watch?v=TIBtIGrfX4Q",
       "year": 108,
-      "question": null,
+      "question": {
+        "questionText": "The _____ costume party, held every September, is one of the biggest events of the school year.",
+        "options": {
+          "A": "initial",
+          "B": "annual",
+          "C": "evident",
+          "D": "occasional"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 323
     },
     {
@@ -163,7 +253,16 @@
       "views": 1537,
       "youtubeLink": "https://www.youtube.com/watch?v=jexKSw44_lo",
       "year": 108,
-      "question": null,
+      "question": {
+        "questionText": "In a job interview, attitude and personality are usually important _____ that influence the decision of the interviewers.",
+        "options": {
+          "A": "factors",
+          "B": "outcomes",
+          "C": "missions",
+          "D": "identities"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 305
     },
     {
@@ -178,7 +277,16 @@
       "views": 1224,
       "youtubeLink": "https://www.youtube.com/watch?v=isEwDymAae0",
       "year": 108,
-      "question": null,
+      "question": {
+        "questionText": "The snow-capped mountain is described so _____ in the book that the scene seems to come alive in front of the reader's eyes.",
+        "options": {
+          "A": "distantly",
+          "B": "meaningfully",
+          "C": "cheerfully",
+          "D": "vividly"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 283
     },
     {
@@ -193,7 +301,16 @@
       "views": 1343,
       "youtubeLink": "https://www.youtube.com/watch?v=OSEYSn5in-4",
       "year": 108,
-      "question": null,
+      "question": {
+        "questionText": "Surrounded by flowers blooming and birds _____ merrily, the Wangs had a good time hiking in the national park.",
+        "options": {
+          "A": "napping",
+          "B": "scooping",
+          "C": "flipping",
+          "D": "chirping"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 391
     },
     {
@@ -208,7 +325,16 @@
       "views": 1597,
       "youtubeLink": "https://www.youtube.com/watch?v=yPd7rluQD_M",
       "year": 108,
-      "question": null,
+      "question": {
+        "questionText": "It is essential for us to maintain constant _____ with our friends to ensure that we have someone to talk to in times of need.",
+        "options": {
+          "A": "benefit",
+          "B": "contact",
+          "C": "gesture",
+          "D": "favor"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 349
     },
     {
@@ -223,7 +349,16 @@
       "views": 1420,
       "youtubeLink": "https://www.youtube.com/watch?v=nt_zUwxDXlU",
       "year": 108,
-      "question": null,
+      "question": {
+        "questionText": "The young generation in this country has shown less interest in factory work and other _____ labor jobs, such as house construction and fruit picking.",
+        "options": {
+          "A": "causal",
+          "B": "durable",
+          "C": "manual",
+          "D": "violent"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 334
     },
     {
@@ -235,7 +370,7 @@
       "description": "On my way to the Philipines so decided to make a stop at 7-Eleven in Taiwan for some brunch.  ➨Get tickets to the best show on earth!!! http://bit.ly/2gu7REI  Strictly Dumpling T-Shirts HERE: http://bit.ly/2IVM2ts  ►Subscribe for MORE videos about food! http://bit.ly/1hsxh41 ▲ Subscribe to our COOKING Channel! http://bit.ly/2vz2UPT  ★↓FOLLOW ME ON SOCIAL MEDIA!↓★ Facebook Show Page: https://www.facebook.com/strictlydumpling Facebook Mike Fan Page: https://www.facebook.com/mikeychenx Strictly Dumpling Instagram: http://instagr.am/haveadumpling Personal Instagram: http://instagr.am/Mikexingchen Twitter: http://twitter.com/Mikexingchen  ◈ Equipment I use for filming◈ : Sony RX100 Mark V: https://go.magik.ly/ml/cgc5/ PANASONIC LUMIX G85: https://go.magik.ly/ml/cgcd/ Wide Angle Lens: https://go.magik.ly/ml/cgck/ Camera Mic: https://go.magik.ly/ml/cgcn/ Camera Lights: https://go.magik.ly/ml/cgcq/ Handheld Audio Recorder: https://go.magik.ly/ml/cgcr/ Tripod: https://go.magik.ly/ml/cgcu/ Drone: https://go.magik.ly/ml/cgcx/  My Favorite Cookware! wok/pan http://amzn.to/2f5G0up Also this pan http://amzn.to/2f5Qnyi Pressure pan http://amzn.to/2wJIS7u Nonstick pot http://amzn.to/2wHRgq1  ✉Send stuff to our PO Box! Mike Chen  PO Box 610  Middletown, NY 10940  ------------------------------    ♫♫♫♫♫♫  ♩  Airport Lounge - Disco Ultralounge by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/) Source: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100806 Artist: http://incompetech.com/ ♩  Kailua by Chill Fluide @chillfluide Music provided by Free Music for Vlogs youtu.be/EO3a_wURwHw ♩  Little Dream by Dj Quads @aka-dj-quads Music provided by Free Music for Vlogs youtu.be/fB_y8exQ1V8 ♩  Good Times by Nicolai Heidlas: http://www.hooksounds.com",
       "duration": "16:46",
       "createdAt": "2019-02-10T16:25:29Z",
-      "views": 25743937,
+      "views": 25744671,
       "youtubeLink": "https://www.youtube.com/watch?v=CP6aYDssDSE",
       "year": 108,
       "question": null,
