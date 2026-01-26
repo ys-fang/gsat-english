@@ -1,7 +1,52 @@
 import Link from 'next/link'
+import fs from 'fs'
+import path from 'path'
 import { BookOpen, Target, Shuffle, Zap } from 'lucide-react'
 import { Button, Card, CardHeader, CardTitle, CardDescription } from '@/components/ui'
+import { YearGrid } from '@/components/features/YearGrid'
+import type { YearReadiness, ReadinessStatus } from '@/components/features/YearGrid'
 import summaryData from '../../packages/data/generated/summary.json'
+
+function computeReadiness(years: number[]): YearReadiness[] {
+  return years.map((year) => {
+    const filePath = path.join(
+      process.cwd(),
+      'packages/data/generated',
+      `year-${year}.json`
+    )
+
+    if (!fs.existsSync(filePath)) {
+      return { year, status: 'missing' as ReadinessStatus, videoCount: 0, withQuestions: 0, withAnswers: 0 }
+    }
+
+    const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'))
+    const videos: any[] = data.videos || []
+    const videoCount = videos.length
+    const withQuestions = videos.filter((v: any) => v.question !== null).length
+    const withAnswers = videos.filter(
+      (v: any) => v.question !== null && v.question.correctAnswer !== null
+    ).length
+
+    let status: ReadinessStatus
+    if (videoCount === 0) {
+      status = 'missing'
+    } else if (withQuestions === 0) {
+      status = 'no-questions'
+    } else if (withAnswers === videoCount) {
+      status = 'ready'
+    } else if (withAnswers === 0 && withQuestions < videoCount) {
+      // Some videos have no questions, none have answers
+      status = 'partial'
+    } else if (withAnswers === 0) {
+      status = 'no-answers'
+    } else {
+      // Some have answers, some don't
+      status = 'partial'
+    }
+
+    return { year, status, videoCount, withQuestions, withAnswers }
+  })
+}
 
 const learningModes = [
   {
@@ -37,6 +82,7 @@ const learningModes = [
 
 export default function HomePage() {
   const { meta, playlists } = summaryData as typeof summaryData
+  const readiness = computeReadiness(meta.years)
 
   return (
     <div className="min-h-screen bg-gradient-to-b from-zinc-50 to-white dark:from-zinc-950 dark:to-zinc-900">
@@ -103,24 +149,11 @@ export default function HomePage() {
           <h2 className="mb-6 text-lg font-semibold text-zinc-900 dark:text-white">
             按學年度瀏覽
           </h2>
-          <div className="grid grid-cols-3 gap-2 sm:grid-cols-4 md:grid-cols-5">
-            {meta.years.map((year) => {
-              const playlist = playlists.find((p) => p.year === year)
-              return (
-                <Link key={year} href={`/learn/${year}`}>
-                  <Button
-                    variant="outline"
-                    className="w-full flex-col h-auto py-3 gap-0.5"
-                  >
-                    <span className="text-lg font-semibold">{year}</span>
-                    <span className="text-xs text-zinc-500">
-                      {playlist?.videoCount || 0} 題
-                    </span>
-                  </Button>
-                </Link>
-              )
-            })}
-          </div>
+          <YearGrid
+            years={meta.years}
+            playlists={playlists.map((p) => ({ year: p.year, videoCount: p.videoCount }))}
+            readiness={readiness}
+          />
         </div>
       </section>
 
