@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "generatedAt": "2026-01-25T23:17:50.832Z",
+    "totalVideos": 241,
+    "totalYears": 17,
+    "years": [
+      115,
+      113,
+      112,
+      111,
+      110,
+      109,
+      108,
+      107,
+      106,
+      105,
+      104,
+      103,
+      102,
+      101,
+      100,
+      99,
+      98
+    ]
+  },
+  "playlists": [
+    {
+      "id": "PL9EijNLnb2m6HP-FkscXVUzekNfRNVg65",
+      "title": "115 學年度大學學測 - 英文文意字彙",
+      "year": 115,
+      "videoCount": 10,
+      "totalDuration": 8894
+    },
+    {
+      "id": "PL9EijNLnb2m7A9OH0MaAGWrg5EZjLC97Y",
+      "title": "113 學年度大學學測 - 英文文意字彙",
+      "year": 113,
+      "videoCount": 10,
+      "totalDuration": 4967
+    },
+    {
+      "id": "PL9EijNLnb2m7eZ3fSOonGaXBMhX9ruuhx",
+      "title": "112 學年度大學學測 - 英文文意字彙",
+      "year": 112,
+      "videoCount": 10,
+      "totalDuration": 7070
+    },
+    {
+      "id": "PL9EijNLnb2m6lGTPFCuajff-gotqdP_q3",
+      "title": "111 學年度大學學測 - 英文文意字彙",
+      "year": 111,
+      "videoCount": 10,
+      "totalDuration": 6153
+    },
+    {
+      "id": "PL9EijNLnb2m6MJkvLqV186QAqMVTF5Naa",
+      "title": "110 學年度大學學測 - 英文文意字彙",
+      "year": 110,
+      "videoCount": 15,
+      "totalDuration": 10935
+    },
+    {
+      "id": "PL9EijNLnb2m7cz9--GZG3yMUKYRt81lk5",
+      "title": "109 大學學測英文科試題第一大題文意選擇",
+      "year": 109,
+      "videoCount": 15,
+      "totalDuration": 5130
+    },
+    {
+      "id": "PL9EijNLnb2m45zc_g8Hsym97u2am0evny",
+      "title": "108 大學學測文意字彙講解",
+      "year": 108,
+      "videoCount": 16,
+      "totalDuration": 5806
+    },
+    {
+      "id": "PL9EijNLnb2m5Dzo_qUtnOEHC_-db0M4j9",
+      "title": "107 大學學測文意選填",
+      "year": 107,
+      "videoCount": 5,
+      "totalDuration": 3234
+    },
+    {
+      "id": "PL9EijNLnb2m61cqojUSIYAqDoJew-PS5b",
+      "title": "107 大學學測文意字彙試題講解",
+      "year": 107,
+      "videoCount": 15,
+      "totalDuration": 9131
+    },
+    {
+      "id": "PL9EijNLnb2m4IwqR0tnw36oALAiImhfZM",
+      "title": "106 大學學測文意字彙講解",
+      "year": 106,
+      "videoCount": 15,
+      "totalDuration": 4176
+    },
+    {
+      "id": "PL9EijNLnb2m6rypXhBAsv2Kv9RLbNBVWX",
+      "title": "105 學年度大學學測 - 英文文意字彙",
+      "year": 105,
+      "videoCount": 15,
+      "totalDuration": 10974
+    },
+    {
+      "id": "PL9EijNLnb2m7Op6TWQTnPjPEZcA93UCAs",
+      "title": "104 學年度大學學測 - 英文文意字彙",
+      "year": 104,
+      "videoCount": 15,
+      "totalDuration": 8808
+    },
+    {
+      "id": "PL9EijNLnb2m6NfG16DI3Nz1ehVvgv8bdH",
+      "title": "103 學年度大學學測 - 英文文意字彙",
+      "year": 103,
+      "videoCount": 15,
+      "totalDuration": 11622
+    },
+    {
+      "id": "PL9EijNLnb2m4kRjiug8BRkmncRcJuaGrz",
+      "title": "102 學年度大學學測 - 英文文意字彙",
+      "year": 102,
+      "videoCount": 15,
+      "totalDuration": 11854
+    },
+    {
+      "id": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "title": "101 學年度大學學測 - 英文文意字彙",
+      "year": 101,
+      "videoCount": 15,
+      "totalDuration": 11354
+    },
+    {
+      "id": "PL9EijNLnb2m5atX7YfS9b0DBEEu4ee2Ko",
+      "title": "100 學年度大學學測 - 英文文意字彙",
+      "year": 100,
+      "videoCount": 15,
+      "totalDuration": 11119
+    },
+    {
+      "id": "PL9EijNLnb2m6v2-uq12TB6gAke7PNHwbz",
+      "title": "99 學年度大學學測 - 英文文意字彙",
+      "year": 99,
+      "videoCount": 15,
+      "totalDuration": 10884
+    },
+    {
+      "id": "PL9EijNLnb2m46JxSNVQLXcJs6VpKp0zM7",
+      "title": "98 學年度大學學測 - 英文文意字彙",
+      "year": 98,
+      "videoCount": 15,
+      "totalDuration": 11922
+    }
+  ]
+}
