@@ -2,9 +2,32 @@ import { notFound } from 'next/navigation'
 import fs from 'fs'
 import path from 'path'
 import { LearningView } from './LearningView'
+import summaryData from '../../../../../packages/data/generated/summary.json'
 
 interface PageProps {
   params: Promise<{ year: string; index: string }>
+}
+
+export function generateStaticParams() {
+  const params: { year: string; index: string }[] = []
+  const seen = new Set<string>()
+  for (const year of summaryData.meta.years) {
+    const filePath = path.join(
+      process.cwd(),
+      'packages/data/generated',
+      `year-${year}.json`
+    )
+    if (!fs.existsSync(filePath)) continue
+    const data = JSON.parse(fs.readFileSync(filePath, 'utf-8'))
+    for (let i = 1; i <= data.videos.length; i++) {
+      const key = `${year}-${i}`
+      if (!seen.has(key)) {
+        seen.add(key)
+        params.push({ year: String(year), index: String(i) })
+      }
+    }
+  }
+  return params
 }
 
 async function getVideoData(year: number, index: number) {
@@ -22,8 +45,8 @@ async function getVideoData(year: number, index: number) {
   const data = JSON.parse(content)
   const videos = data.videos
 
-  // Find video by index (1-based)
-  const video = videos.find((v: any) => v.videoIndex === index)
+  // Use array position (1-based index)
+  const video = videos[index - 1]
   if (!video) {
     return null
   }

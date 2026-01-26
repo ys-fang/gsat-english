@@ -10,6 +10,12 @@ interface PageProps {
   params: Promise<{ year: string }>
 }
 
+export function generateStaticParams() {
+  return summaryData.meta.years.map((year) => ({
+    year: String(year),
+  }))
+}
+
 async function getYearData(year: number) {
   const filePath = path.join(
     process.cwd(),
