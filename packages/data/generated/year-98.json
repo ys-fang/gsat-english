@@ -21,7 +21,7 @@
           "C": "sensitive",
           "D": "courageous"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 584
     },
@@ -45,7 +45,7 @@
           "C": "veil",
           "D": "yield"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 758
     },
@@ -69,7 +69,7 @@
           "C": "automatically",
           "D": "intentionally"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 920
     },
@@ -93,7 +93,7 @@
           "C": "regular",
           "D": "brilliant"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 684
     },
@@ -117,7 +117,7 @@
           "C": "appearance",
           "D": "tendency"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 722
     },
@@ -141,7 +141,7 @@
           "C": "clumsy",
           "D": "brutal"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 704
     },
@@ -165,7 +165,7 @@
           "C": "mission",
           "D": "texture"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 415
     },
@@ -189,7 +189,7 @@
           "C": "governing",
           "D": "interrupting"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 749
     },
@@ -213,7 +213,7 @@
           "C": "preserve",
           "D": "motivate"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 925
     },
@@ -237,7 +237,7 @@
           "C": "explicit",
           "D": "anxious"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 959
     },
@@ -261,7 +261,7 @@
           "C": "identity",
           "D": "leadership"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 1182
     },
@@ -285,7 +285,7 @@
           "C": "punctually",
           "D": "technically"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 921
     },
@@ -309,7 +309,7 @@
           "C": "angles",
           "D": "inputs"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 689
     },
@@ -333,7 +333,7 @@
           "C": "refresh",
           "D": "remind"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 752
     },

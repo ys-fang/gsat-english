@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-01-26T16:15:54.120Z",
+    "generatedAt": "2026-01-27T16:30:08.719Z",
     "totalVideos": 315,
     "totalYears": 22,
     "years": [
@@ -205,7 +205,16 @@
         "views": 6124,
         "youtubeLink": "https://www.youtube.com/watch?v=Hh8ZhNWs1xE",
         "year": 93,
-        "question": null,
+        "question": {
+          "questionText": "I called the airline to ______ my flight reservation a week before I left for Canada.",
+          "options": {
+            "A": "expand",
+            "B": "attach",
+            "C": "confirm",
+            "D": "strengthen"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 429
       },
       {
@@ -220,7 +229,16 @@
         "views": 2280,
         "youtubeLink": "https://www.youtube.com/watch?v=9XOQ6nzRbS8",
         "year": 93,
-        "question": null,
+        "question": {
+          "questionText": "In order to write a report on stars, we decided to ______ the stars in the sky every night.",
+          "options": {
+            "A": "design",
+            "B": "seize",
+            "C": "quote",
+            "D": "observe"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 374
       },
       {
@@ -235,7 +253,16 @@
         "views": 1946,
         "youtubeLink": "https://www.youtube.com/watch?v=4EMZYl8kngw",
         "year": 93,
-        "question": null,
+        "question": {
+          "questionText": "Julie wants to buy a ______ computer so that she can carry it around when she travels.",
+          "options": {
+            "A": "memorable",
+            "B": "portable",
+            "C": "predictable",
+            "D": "readable"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 503
       },
       {
@@ -250,7 +277,16 @@
         "views": 1794,
         "youtubeLink": "https://www.youtube.com/watch?v=3CKXPZQ75z8",
         "year": 93,
-        "question": null,
+        "question": {
+          "questionText": "My grandmother likes to surprise people. She never calls ______ to inform us of her visits.",
+          "options": {
+            "A": "beforehand",
+            "B": "anyhow",
+            "C": "originally",
+            "D": "consequently"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 470
       },
       {
@@ -265,7 +301,16 @@
         "views": 1434,
         "youtubeLink": "https://www.youtube.com/watch?v=Gc6guNL6XNs",
         "year": 93,
-        "question": null,
+        "question": {
+          "questionText": "As the tallest building in the world, Taipei 101 has become a new ______ of Taipei City.",
+          "options": {
+            "A": "incident",
+            "B": "geography",
+            "C": "skylight",
+            "D": "landmark"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 502
       },
       {
@@ -280,7 +325,16 @@
         "views": 1651,
         "youtubeLink": "https://www.youtube.com/watch?v=5-wGnvWNhtk",
         "year": 93,
-        "question": null,
+        "question": {
+          "questionText": "Many scholars and experts from all over the world will be invited to attend this yearly ______ on drug control.",
+          "options": {
+            "A": "reference",
+            "B": "intention",
+            "C": "conference",
+            "D": "interaction"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 673
       },
       {
@@ -295,7 +349,16 @@
         "views": 1335,
         "youtubeLink": "https://www.youtube.com/watch?v=mtYo3MJ6QiM",
         "year": 93,
-        "question": null,
+        "question": {
+          "questionText": "John had failed to pay his phone bills for months, so his telephone was ______ last week.",
+          "options": {
+            "A": "interrupted",
+            "B": "disconnected",
+            "C": "excluded",
+            "D": "discriminated"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 740
       },
       {
@@ -310,7 +373,16 @@
         "views": 1146,
         "youtubeLink": "https://www.youtube.com/watch?v=639SX0rIfqM",
         "year": 93,
-        "question": null,
+        "question": {
+          "questionText": "The organic food products are made of natural ingredients, with no ______ flavors added.",
+          "options": {
+            "A": "accurate",
+            "B": "regular",
+            "C": "superficial",
+            "D": "artificial"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 423
       },
       {
@@ -325,7 +397,16 @@
         "views": 1042,
         "youtubeLink": "https://www.youtube.com/watch?v=Ixb6PDe5eKg",
         "year": 93,
-        "question": null,
+        "question": {
+          "questionText": "Jessica is a very religious girl; she believes that she is always ______ supported by her god.",
+          "options": {
+            "A": "spiritually",
+            "B": "typically",
+            "C": "historically",
+            "D": "officially"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 598
       },
       {
@@ -340,7 +421,16 @@
         "views": 929,
         "youtubeLink": "https://www.youtube.com/watch?v=x5ch-rUsfHM",
         "year": 93,
-        "question": null,
+        "question": {
+          "questionText": "Jane usually buys things on ______. Her purchases seem to be driven by some sudden force or desire.",
+          "options": {
+            "A": "accident",
+            "B": "compliment",
+            "C": "justification",
+            "D": "impulse"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 593
       },
       {
@@ -355,7 +445,16 @@
         "views": 916,
         "youtubeLink": "https://www.youtube.com/watch?v=HKWDXdpli0g",
         "year": 93,
-        "question": null,
+        "question": {
+          "questionText": "The week-long rainfall has ______ landslides and flooding in the mountain areas.",
+          "options": {
+            "A": "set about",
+            "B": "brought about",
+            "C": "come about",
+            "D": "put about"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 459
       },
       {
@@ -370,7 +469,16 @@
         "views": 761,
         "youtubeLink": "https://www.youtube.com/watch?v=ec_3WC7dogM",
         "year": 93,
-        "question": null,
+        "question": {
+          "questionText": "In the cross-lake swimming race, a boat will be ______ in case of an emergency.",
+          "options": {
+            "A": "standing by",
+            "B": "turning on",
+            "C": "getting on",
+            "D": "running down"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 250
       },
       {
@@ -385,7 +493,16 @@
         "views": 782,
         "youtubeLink": "https://www.youtube.com/watch?v=ohGiP8vQBMI",
         "year": 93,
-        "question": null,
+        "question": {
+          "questionText": "The ground is slippery. Hold onto the rope and don't ______.",
+          "options": {
+            "A": "put off",
+            "B": "turn up",
+            "C": "let go",
+            "D": "take apart"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 289
       },
       {
@@ -400,7 +517,16 @@
         "views": 814,
         "youtubeLink": "https://www.youtube.com/watch?v=6ywN2SG6ijs",
         "year": 93,
-        "question": null,
+        "question": {
+          "questionText": "______ the weather, the athletic meetings will be held on time.",
+          "options": {
+            "A": "Instead of",
+            "B": "In relation to",
+            "C": "On behalf of",
+            "D": "Regardless of"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 243
       },
       {
@@ -415,7 +541,16 @@
         "views": 894,
         "youtubeLink": "https://www.youtube.com/watch?v=J0_O8diRF50",
         "year": 93,
-        "question": null,
+        "question": {
+          "questionText": "If people keep polluting the rivers, no fish there will survive ______.",
+          "options": {
+            "A": "at all cost",
+            "B": "for a long while",
+            "C": "in the long run",
+            "D": "by no means"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 317
       }
     ],
@@ -432,7 +567,16 @@
         "views": 3911,
         "youtubeLink": "https://www.youtube.com/watch?v=x5eKZiXl4ZU",
         "year": 94,
-        "question": null,
+        "question": {
+          "questionText": "As computers are getting less expensive, they are _______ used in schools and offices today.",
+          "options": {
+            "A": "widely",
+            "B": "expectedly",
+            "C": "consciously",
+            "D": "influentially"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 911
       },
       {
@@ -447,7 +591,16 @@
         "views": 1523,
         "youtubeLink": "https://www.youtube.com/watch?v=J4Ti_iMCEEA",
         "year": 94,
-        "question": null,
+        "question": {
+          "questionText": "Mr. Chang always tries to answer all questions from his students. He will not _____ any of them even if they may sound stupid.",
+          "options": {
+            "A": "reform",
+            "B": "depress",
+            "C": "ignore",
+            "D": "confirm"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 383
       },
       {
@@ -462,7 +615,16 @@
         "views": 693,
         "youtubeLink": "https://www.youtube.com/watch?v=dNeralQsR50",
         "year": 94,
-        "question": null,
+        "question": {
+          "questionText": "Irene does not throw away used envelopes. She ______ them by using them for taking telephone messages.",
+          "options": {
+            "A": "designs",
+            "B": "recycles",
+            "C": "disguises",
+            "D": "manufactures"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 214
       },
       {
@@ -477,7 +639,16 @@
         "views": 1320,
         "youtubeLink": "https://www.youtube.com/watch?v=1LLXBsicewQ",
         "year": 94,
-        "question": null,
+        "question": {
+          "questionText": "Cheese, powdered milk, and yogurt are common milk ______.",
+          "options": {
+            "A": "produces",
+            "B": "products",
+            "C": "productions",
+            "D": "productivities"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 260
       },
       {
@@ -492,7 +663,16 @@
         "views": 1145,
         "youtubeLink": "https://www.youtube.com/watch?v=jGAN8PMSbu8",
         "year": 94,
-        "question": null,
+        "question": {
+          "questionText": "Although he is a chef, Roberto _____ cooks his own meals.",
+          "options": {
+            "A": "rarely",
+            "B": "bitterly",
+            "C": "naturally",
+            "D": "skillfully"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 416
       },
       {
@@ -507,7 +687,16 @@
         "views": 1021,
         "youtubeLink": "https://www.youtube.com/watch?v=VYURiIxITi0",
         "year": 94,
-        "question": null,
+        "question": {
+          "questionText": "Due to the yearly bonus system, the 100 ________ positions in this high-tech company have attracted many applicants from around the island.",
+          "options": {
+            "A": "loyal",
+            "B": "evident",
+            "C": "typical",
+            "D": "vacant"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 343
       },
       {
@@ -522,7 +711,16 @@
         "views": 1018,
         "youtubeLink": "https://www.youtube.com/watch?v=ofdz1QTprnk",
         "year": 94,
-        "question": null,
+        "question": {
+          "questionText": "If you want to borrow magazines, tapes, or CDs, you can visit the library. They are all ______ there.",
+          "options": {
+            "A": "sufficient",
+            "B": "marvelous",
+            "C": "impressive",
+            "D": "available"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 355
       },
       {
@@ -537,7 +735,16 @@
         "views": 1146,
         "youtubeLink": "https://www.youtube.com/watch?v=LHbjUlm0UpI",
         "year": 94,
-        "question": null,
+        "question": {
+          "questionText": "The fire in the fireworks factory in Changhua set off a series of powerful _________ and killed four people.",
+          "options": {
+            "A": "explosions",
+            "B": "extensions",
+            "C": "inspections",
+            "D": "impressions"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 374
       },
       {
@@ -552,7 +759,16 @@
         "views": 847,
         "youtubeLink": "https://www.youtube.com/watch?v=CGWCUn1SJZY",
         "year": 94,
-        "question": null,
+        "question": {
+          "questionText": "A good government official has to ________ the temptation of money and make the right decision.",
+          "options": {
+            "A": "consist",
+            "B": "insist",
+            "C": "resist",
+            "D": "persist"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 484
       },
       {
@@ -567,7 +783,16 @@
         "views": 911,
         "youtubeLink": "https://www.youtube.com/watch?v=7OCTfRlVWyc",
         "year": 94,
-        "question": null,
+        "question": {
+          "questionText": "The drug dealer was ________ by the police while he was selling cocaine to a high school student.",
+          "options": {
+            "A": "threatened",
+            "B": "endangered",
+            "C": "demonstrated",
+            "D": "arrested"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 494
       },
       {
@@ -582,7 +807,16 @@
         "views": 811,
         "youtubeLink": "https://www.youtube.com/watch?v=RhxedB05H8Y",
         "year": 94,
-        "question": null,
+        "question": {
+          "questionText": "The rise of oil prices made scientists search for new energy resources to ______ oil.",
+          "options": {
+            "A": "apply",
+            "B": "replace",
+            "C": "inform",
+            "D": "persuade"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 324
       },
       {
@@ -597,7 +831,16 @@
         "views": 749,
         "youtubeLink": "https://www.youtube.com/watch?v=mHD7Cmh2MQY",
         "year": 94,
-        "question": null,
+        "question": {
+          "questionText": "Without much contact with the outside world for many years, John found many technological inventions _____ to him.",
+          "options": {
+            "A": "natural",
+            "B": "common",
+            "C": "foreign",
+            "D": "objective"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 326
       },
       {
@@ -612,7 +855,16 @@
         "views": 956,
         "youtubeLink": "https://www.youtube.com/watch?v=gdp7_BlHr7I",
         "year": 94,
-        "question": null,
+        "question": {
+          "questionText": "The medicine you take for a cold may cause _____; try not to drive after you take it.",
+          "options": {
+            "A": "incident",
+            "B": "violence",
+            "C": "bacteria",
+            "D": "drowsiness"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 391
       },
       {
@@ -627,7 +879,16 @@
         "views": 834,
         "youtubeLink": "https://www.youtube.com/watch?v=294CKsA_dM4",
         "year": 94,
-        "question": null,
+        "question": {
+          "questionText": "To gain more ______, some legislators would get into violent physical fights so that they may appear in TV news reports.",
+          "options": {
+            "A": "publicity",
+            "B": "reputation",
+            "C": "significance",
+            "D": "communication"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 405
       }
     ],
@@ -644,7 +905,16 @@
         "views": 2449,
         "youtubeLink": "https://www.youtube.com/watch?v=QXkeik4mTuQ",
         "year": 95,
-        "question": null,
+        "question": {
+          "questionText": "If we can ______ to, we will take a vacation abroad in the summer.",
+          "options": {
+            "A": "pay",
+            "B": "move",
+            "C": "expose",
+            "D": "afford"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 406
       },
       {
@@ -659,7 +929,16 @@
         "views": 1592,
         "youtubeLink": "https://www.youtube.com/watch?v=u9annS9_PR8",
         "year": 95,
-        "question": null,
+        "question": {
+          "questionText": "A ______ mistake found in parenthood is that parents often set unrealistic goals for their children.",
+          "options": {
+            "A": "terrific",
+            "B": "common",
+            "C": "straight",
+            "D": "favorable"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 457
       },
       {
@@ -674,7 +953,16 @@
         "views": 1191,
         "youtubeLink": "https://www.youtube.com/watch?v=JU2JfCAm2f4",
         "year": 95,
-        "question": null,
+        "question": {
+          "questionText": "Some words, such as \"sandwich\" and \"hamburger,\" were ______ the names of people or even towns.",
+          "options": {
+            "A": "originally",
+            "B": "ideally",
+            "C": "relatively",
+            "D": "sincerely"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 459
       },
       {
@@ -689,7 +977,16 @@
         "views": 1175,
         "youtubeLink": "https://www.youtube.com/watch?v=aVa0nL__MRw",
         "year": 95,
-        "question": null,
+        "question": {
+          "questionText": "Have you ever ______ how the ancient Egyptians created such marvelous feats of engineering as the pyramids?",
+          "options": {
+            "A": "concluded",
+            "B": "wondered",
+            "C": "admitted",
+            "D": "persuaded"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 710
       },
       {
@@ -704,7 +1001,16 @@
         "views": 1004,
         "youtubeLink": "https://www.youtube.com/watch?v=yk9ANg2d1B8",
         "year": 95,
-        "question": null,
+        "question": {
+          "questionText": "Mr. Johnson was disappointed at his students for having a passive learning ______.",
+          "options": {
+            "A": "result",
+            "B": "progress",
+            "C": "attitude",
+            "D": "energy"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 516
       },
       {
@@ -719,7 +1025,16 @@
         "views": 1038,
         "youtubeLink": "https://www.youtube.com/watch?v=TVbafR70ReA",
         "year": 95,
-        "question": null,
+        "question": {
+          "questionText": "Anne dreaded giving a speech before three hundred people; even thinking about it made her ______.",
+          "options": {
+            "A": "passionate",
+            "B": "anxious",
+            "C": "ambitious",
+            "D": "optimistic"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 354
       },
       {
@@ -734,7 +1049,16 @@
         "views": 1045,
         "youtubeLink": "https://www.youtube.com/watch?v=MxKhMxx7JqQ",
         "year": 95,
-        "question": null,
+        "question": {
+          "questionText": "I had to ______ Jack's invitation to the party because it conflicted with an important business meeting.",
+          "options": {
+            "A": "decline",
+            "B": "depart",
+            "C": "devote",
+            "D": "deserve"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 577
       },
       {
@@ -749,7 +1073,16 @@
         "views": 952,
         "youtubeLink": "https://www.youtube.com/watch?v=aa4yxSbyoS0",
         "year": 95,
-        "question": null,
+        "question": {
+          "questionText": "Selling fried chicken at the night market doesn't seem to be a decent business, but it is actually quite ______.",
+          "options": {
+            "A": "plentiful",
+            "B": "precious",
+            "C": "profitable",
+            "D": "productive"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 482
       },
       {
@@ -764,7 +1097,16 @@
         "views": 1013,
         "youtubeLink": "https://www.youtube.com/watch?v=8BZfJXCq_0U",
         "year": 95,
-        "question": null,
+        "question": {
+          "questionText": "The passengers ______ escaped death when a bomb exploded in the subway station, killing sixty people.",
+          "options": {
+            "A": "traditionally",
+            "B": "valuably",
+            "C": "loosely",
+            "D": "narrowly"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 705
       },
       {
@@ -779,7 +1121,16 @@
         "views": 864,
         "youtubeLink": "https://www.youtube.com/watch?v=90HYZUHk9FQ",
         "year": 95,
-        "question": null,
+        "question": {
+          "questionText": "Jerry didn't ______ his primary school classmate Mary until he listened to her self-introduction.",
+          "options": {
+            "A": "acquaint",
+            "B": "acquire",
+            "C": "recognize",
+            "D": "realize"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 338
       },
       {
@@ -794,7 +1145,16 @@
         "views": 1036,
         "youtubeLink": "https://www.youtube.com/watch?v=kqN2s4qNTso",
         "year": 95,
-        "question": null,
+        "question": {
+          "questionText": "With the completion of several public ______ projects, such as the MRT, commuting to work has become easier for people living in the suburbs.",
+          "options": {
+            "A": "transportation",
+            "B": "traffic",
+            "C": "travel",
+            "D": "transfer"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 538
       },
       {
@@ -809,7 +1169,16 @@
         "views": 915,
         "youtubeLink": "https://www.youtube.com/watch?v=wbLIaaeBpaI",
         "year": 95,
-        "question": null,
+        "question": {
+          "questionText": "With a good ______ of both Chinese and English, Miss Lin was assigned the task of oral interpretation for the visiting American delegation.",
+          "options": {
+            "A": "writing",
+            "B": "program",
+            "C": "command",
+            "D": "impression"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 505
       },
       {
@@ -824,7 +1193,16 @@
         "views": 767,
         "youtubeLink": "https://www.youtube.com/watch?v=FVVvablcHl4",
         "year": 95,
-        "question": null,
+        "question": {
+          "questionText": "I am studying so hard for the forthcoming entrance exam that I do not have the ______ of a free weekend to rest.",
+          "options": {
+            "A": "luxury",
+            "B": "license",
+            "C": "limitation",
+            "D": "strength"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 531
       },
       {
@@ -839,7 +1217,16 @@
         "views": 681,
         "youtubeLink": "https://www.youtube.com/watch?v=q69iI5CclxE",
         "year": 95,
-        "question": null,
+        "question": {
+          "questionText": "Kim was completely ______ after jogging in the hot sun all afternoon; she had little energy left.",
+          "options": {
+            "A": "kicked out",
+            "B": "handed out",
+            "C": "worn out",
+            "D": "put out"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 279
       },
       {
@@ -854,7 +1241,16 @@
         "views": 845,
         "youtubeLink": "https://www.youtube.com/watch?v=5aykEdCPDtQ",
         "year": 95,
-        "question": null,
+        "question": {
+          "questionText": "When Jason failed to pay his bill, the network company ______ his Internet connection.",
+          "options": {
+            "A": "cut off",
+            "B": "cut back",
+            "C": "cut short",
+            "D": "cut down"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 196
       }
     ],
@@ -871,7 +1267,16 @@
         "views": 3065,
         "youtubeLink": "https://www.youtube.com/watch?v=Y5jCAecMcQg",
         "year": 96,
-        "question": null,
+        "question": {
+          "questionText": "The movie director adapted this year's bestseller into a hit and made a ______.",
+          "options": {
+            "A": "fortune",
+            "B": "request",
+            "C": "companion",
+            "D": "decision"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 638
       },
       {
@@ -886,7 +1291,16 @@
         "views": 1331,
         "youtubeLink": "https://www.youtube.com/watch?v=PpJct9to-yY",
         "year": 96,
-        "question": null,
+        "question": {
+          "questionText": "Wang Chien-ming, the Yankees' best pitcher last year, already showed his great ______ for baseball when he was still a teenager.",
+          "options": {
+            "A": "response",
+            "B": "reluctance",
+            "C": "permission",
+            "D": "potential"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 388
       },
       {
@@ -901,7 +1315,16 @@
         "views": 1092,
         "youtubeLink": "https://www.youtube.com/watch?v=16UNAiqQ8BI",
         "year": 96,
-        "question": null,
+        "question": {
+          "questionText": "Although Jeffery had to keep two part-time jobs to support his family, he never ______ his studies. In fact, he graduated with honors.",
+          "options": {
+            "A": "neglected",
+            "B": "segmented",
+            "C": "financed",
+            "D": "diminished"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 379
       },
       {
@@ -916,7 +1339,16 @@
         "views": 982,
         "youtubeLink": "https://www.youtube.com/watch?v=z-Ifb19tcoE",
         "year": 96,
-        "question": null,
+        "question": {
+          "questionText": "If it is too cold in this room, you can ______ the air conditioner to make yourself feel comfortable.",
+          "options": {
+            "A": "fasten",
+            "B": "adjust",
+            "C": "defeat",
+            "D": "upload"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 227
       },
       {
@@ -931,7 +1363,16 @@
         "views": 1120,
         "youtubeLink": "https://www.youtube.com/watch?v=sJTUJdg-Deg",
         "year": 96,
-        "question": null,
+        "question": {
+          "questionText": "This course will provide students with a solid ______ for research. It is highly recommended for those who plan to go to graduate school.",
+          "options": {
+            "A": "admission",
+            "B": "circulation",
+            "C": "foundation",
+            "D": "extension"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 602
       },
       {
@@ -946,7 +1387,16 @@
         "views": 916,
         "youtubeLink": "https://www.youtube.com/watch?v=qBv4H0TM9go",
         "year": 96,
-        "question": null,
+        "question": {
+          "questionText": "Peter is now living on a ______ of NT$100 per day. He cannot afford any recreational activities.",
+          "options": {
+            "A": "division",
+            "B": "guidance",
+            "C": "measure",
+            "D": "budget"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 294
       },
       {
@@ -961,7 +1411,16 @@
         "views": 943,
         "youtubeLink": "https://www.youtube.com/watch?v=HMj8RydVu-E",
         "year": 96,
-        "question": null,
+        "question": {
+          "questionText": "Amy succeeded in ______ for a raise though her boss didn't agree to increase her salary at first.",
+          "options": {
+            "A": "compensating",
+            "B": "negotiating",
+            "C": "substituting",
+            "D": "advertising"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 400
       },
       {
@@ -976,7 +1435,16 @@
         "views": 868,
         "youtubeLink": "https://www.youtube.com/watch?v=t8e0vhULCw8",
         "year": 96,
-        "question": null,
+        "question": {
+          "questionText": "Ms. Li's business ______ very quickly. She opened her first store two years ago; now she has fifty stores all over the country.",
+          "options": {
+            "A": "discouraged",
+            "B": "transferred",
+            "C": "stretched",
+            "D": "expanded"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 309
       },
       {
@@ -991,7 +1459,16 @@
         "views": 866,
         "youtubeLink": "https://www.youtube.com/watch?v=7227bMYe0hY",
         "year": 96,
-        "question": null,
+        "question": {
+          "questionText": "Ruth is a very ______ person. She cannot take any criticism and always finds excuses to justify herself.",
+          "options": {
+            "A": "shameful",
+            "B": "innocent",
+            "C": "defensive",
+            "D": "outgoing"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 277
       },
       {
@@ -1006,7 +1483,16 @@
         "views": 794,
         "youtubeLink": "https://www.youtube.com/watch?v=wOTFQwlG8T0",
         "year": 96,
-        "question": null,
+        "question": {
+          "questionText": "It's a pity that you have to leave so soon. I ______ hope that you will come back very soon.",
+          "options": {
+            "A": "sincerely",
+            "B": "scarcely",
+            "C": "reliably",
+            "D": "obviously"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 306
       },
       {
@@ -1021,7 +1507,16 @@
         "views": 931,
         "youtubeLink": "https://www.youtube.com/watch?v=DhbiNMQGa0s",
         "year": 96,
-        "question": null,
+        "question": {
+          "questionText": "We human beings may live without clothes, but food and air are ______ to our life.",
+          "options": {
+            "A": "magnificent",
+            "B": "essential",
+            "C": "influential",
+            "D": "profitable"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 536
       },
       {
@@ -1036,7 +1531,16 @@
         "views": 800,
         "youtubeLink": "https://www.youtube.com/watch?v=B5RfahR6AlM",
         "year": 96,
-        "question": null,
+        "question": {
+          "questionText": "The manager ______ without hesitation after he had been offered a better job in another company.",
+          "options": {
+            "A": "retreated",
+            "B": "revived",
+            "C": "removed",
+            "D": "resigned"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 546
       },
       {
@@ -1051,7 +1555,16 @@
         "views": 751,
         "youtubeLink": "https://www.youtube.com/watch?v=0FpfGgfSG54",
         "year": 96,
-        "question": null,
+        "question": {
+          "questionText": "Many important legal ______ concerning the tragic incident have now been preserved in the museum.",
+          "options": {
+            "A": "distributions",
+            "B": "formations",
+            "C": "documents",
+            "D": "constructions"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 535
       },
       {
@@ -1066,7 +1579,16 @@
         "views": 719,
         "youtubeLink": "https://www.youtube.com/watch?v=L5HiCIorUnY",
         "year": 96,
-        "question": null,
+        "question": {
+          "questionText": "I'm not sure exactly how much scholarship you'll receive, but it will ______ cover your major expenses.",
+          "options": {
+            "A": "recently",
+            "B": "roughly",
+            "C": "frankly",
+            "D": "variously"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 519
       },
       {
@@ -1081,7 +1603,16 @@
         "views": 780,
         "youtubeLink": "https://www.youtube.com/watch?v=EW1X036pqHk",
         "year": 96,
-        "question": null,
+        "question": {
+          "questionText": "Tom was very ill a week ago, but now he looks healthy. We are ______ by his quick recovery.",
+          "options": {
+            "A": "amazed",
+            "B": "convinced",
+            "C": "advised",
+            "D": "confirmed"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 453
       }
     ],
@@ -1098,7 +1629,16 @@
         "views": 6273,
         "youtubeLink": "https://www.youtube.com/watch?v=OLJahTt7aJo",
         "year": 97,
-        "question": null,
+        "question": {
+          "questionText": "Amy did not ______ changes in the course schedule and therefore missed the class.",
+          "options": {
+            "A": "arrest",
+            "B": "alarm",
+            "C": "notice",
+            "D": "delay"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 332
       },
       {
@@ -1113,7 +1653,16 @@
         "views": 3914,
         "youtubeLink": "https://www.youtube.com/watch?v=sFXAwtCbKMY",
         "year": 97,
-        "question": null,
+        "question": {
+          "questionText": "It is not easy for old people to ______ their backs, so they need help when their backs itch.",
+          "options": {
+            "A": "label",
+            "B": "scratch",
+            "C": "lighten",
+            "D": "squeeze"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 300
       },
       {
@@ -1128,7 +1677,16 @@
         "views": 2273,
         "youtubeLink": "https://www.youtube.com/watch?v=h3U1uFpO2fA",
         "year": 97,
-        "question": null,
+        "question": {
+          "questionText": "Mary is suffering from a stomachache and needs to eat food which is easy to ______.",
+          "options": {
+            "A": "launch",
+            "B": "invade",
+            "C": "adopt",
+            "D": "digest"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 398
       },
       {
@@ -1143,7 +1701,16 @@
         "views": 1927,
         "youtubeLink": "https://www.youtube.com/watch?v=AnaB1aSBlAU",
         "year": 97,
-        "question": null,
+        "question": {
+          "questionText": "Since our classroom is not air-conditioned, we have to ______ the heat during the hot summer days.",
+          "options": {
+            "A": "consume",
+            "B": "tolerate",
+            "C": "recover",
+            "D": "promote"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 389
       },
       {
@@ -1158,7 +1725,16 @@
         "views": 1786,
         "youtubeLink": "https://www.youtube.com/watch?v=XxzMPsPOUGs",
         "year": 97,
-        "question": null,
+        "question": {
+          "questionText": "Sue is so ______ that she always breaks something when she is shopping at a store.",
+          "options": {
+            "A": "religious",
+            "B": "visual",
+            "C": "clumsy",
+            "D": "intimate"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 351
       },
       {
@@ -1173,7 +1749,16 @@
         "views": 3063,
         "youtubeLink": "https://www.youtube.com/watch?v=NlPUXxnByEo",
         "year": 97,
-        "question": null,
+        "question": {
+          "questionText": "Ann enjoyed going to the flower market. She believed that the ______ of flowers refreshed her mind.",
+          "options": {
+            "A": "instance",
+            "B": "dominance",
+            "C": "appliance",
+            "D": "fragrance"
+          },
+          "correctAnswer": "D"
+        },
         "durationSeconds": 453
       },
       {
@@ -1188,7 +1773,16 @@
         "views": 1493,
         "youtubeLink": "https://www.youtube.com/watch?v=_bDDfiVkdeM",
         "year": 97,
-        "question": null,
+        "question": {
+          "questionText": "The profits of Prince Charles's organic farm go to ______ to help the poor and the sick.",
+          "options": {
+            "A": "charities",
+            "B": "bulletins",
+            "C": "harvests",
+            "D": "rebels"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 470
       },
       {
@@ -1203,7 +1797,16 @@
         "views": 1482,
         "youtubeLink": "https://www.youtube.com/watch?v=7aDjDrLl_uA",
         "year": 97,
-        "question": null,
+        "question": {
+          "questionText": "Jack was given the rare ______ of using the president's office, which made others quite jealous.",
+          "options": {
+            "A": "mischief",
+            "B": "privilege",
+            "C": "involvement",
+            "D": "occupation"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 480
       },
       {
@@ -1218,7 +1821,16 @@
         "views": 1369,
         "youtubeLink": "https://www.youtube.com/watch?v=G-wrVu_W5_c",
         "year": 97,
-        "question": null,
+        "question": {
+          "questionText": "This new computer is obviously ______ to the old one because it has many new functions.",
+          "options": {
+            "A": "technical",
+            "B": "suitable",
+            "C": "superior",
+            "D": "typical"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 491
       },
       {
@@ -1233,7 +1845,16 @@
         "views": 1291,
         "youtubeLink": "https://www.youtube.com/watch?v=R3xN9CgO8Z4",
         "year": 97,
-        "question": null,
+        "question": {
+          "questionText": "Simon loves his work. To him, work always comes first, and family and friends are ______.",
+          "options": {
+            "A": "secondary",
+            "B": "temporary",
+            "C": "sociable",
+            "D": "capable"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 427
       },
       {
@@ -1248,7 +1869,16 @@
         "views": 1245,
         "youtubeLink": "https://www.youtube.com/watch?v=k-b1uXPZdEw",
         "year": 97,
-        "question": null,
+        "question": {
+          "questionText": "Although your plans look good, you have to be ______ and consider what you can actually do.",
+          "options": {
+            "A": "dramatic",
+            "B": "realistic",
+            "C": "stressful",
+            "D": "manageable"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 461
       },
       {
@@ -1263,7 +1893,16 @@
         "views": 952,
         "youtubeLink": "https://www.youtube.com/watch?v=tRXHZjP2CVQ",
         "year": 97,
-        "question": null,
+        "question": {
+          "questionText": "Built under the sea in 1994, the ______ between England and France connects the UK more closely with mainland Europe.",
+          "options": {
+            "A": "waterfall",
+            "B": "temple",
+            "C": "tunnel",
+            "D": "channel"
+          },
+          "correctAnswer": "C"
+        },
         "durationSeconds": 337
       },
       {
@@ -1278,7 +1917,16 @@
         "views": 1066,
         "youtubeLink": "https://www.youtube.com/watch?v=VUhtFdmXa5g",
         "year": 97,
-        "question": null,
+        "question": {
+          "questionText": "This tour package is very appealing, and that one looks ______ attractive. I don't know which one to choose.",
+          "options": {
+            "A": "equally",
+            "B": "annually",
+            "C": "merely",
+            "D": "gratefully"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 358
       },
       {
@@ -1293,7 +1941,16 @@
         "views": 1246,
         "youtubeLink": "https://www.youtube.com/watch?v=lVBwu7x4FMQ",
         "year": 97,
-        "question": null,
+        "question": {
+          "questionText": "Hseu Fang-yi, a young Taiwanese dancer, recently ______ at Lincoln Center in New York and won a great deal of praise.",
+          "options": {
+            "A": "performed",
+            "B": "pretended",
+            "C": "postponed",
+            "D": "persuaded"
+          },
+          "correctAnswer": "A"
+        },
         "durationSeconds": 463
       },
       {
@@ -1308,7 +1965,16 @@
         "views": 2938,
         "youtubeLink": "https://www.youtube.com/watch?v=HD9xtJoWaD8",
         "year": 97,
-        "question": null,
+        "question": {
+          "questionText": "The police searched the house of the suspect ______. They almost turned the whole house upside down.",
+          "options": {
+            "A": "relatively",
+            "B": "thoroughly",
+            "C": "casually",
+            "D": "permanently"
+          },
+          "correctAnswer": "B"
+        },
         "durationSeconds": 385
       }
     ],
@@ -1333,7 +1999,7 @@
             "C": "sensitive",
             "D": "courageous"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 584
       },
@@ -1357,7 +2023,7 @@
             "C": "veil",
             "D": "yield"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 758
       },
@@ -1381,7 +2047,7 @@
             "C": "automatically",
             "D": "intentionally"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 920
       },
@@ -1405,7 +2071,7 @@
             "C": "regular",
             "D": "brilliant"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 684
       },
@@ -1429,7 +2095,7 @@
             "C": "appearance",
             "D": "tendency"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 722
       },
@@ -1453,7 +2119,7 @@
             "C": "clumsy",
             "D": "brutal"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 704
       },
@@ -1477,7 +2143,7 @@
             "C": "mission",
             "D": "texture"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 415
       },
@@ -1501,7 +2167,7 @@
             "C": "governing",
             "D": "interrupting"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 749
       },
@@ -1525,7 +2191,7 @@
             "C": "preserve",
             "D": "motivate"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 925
       },
@@ -1549,7 +2215,7 @@
             "C": "explicit",
             "D": "anxious"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 959
       },
@@ -1573,7 +2239,7 @@
             "C": "identity",
             "D": "leadership"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 1182
       },
@@ -1597,7 +2263,7 @@
             "C": "punctually",
             "D": "technically"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 921
       },
@@ -1621,7 +2287,7 @@
             "C": "angles",
             "D": "inputs"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 689
       },
@@ -1645,7 +2311,7 @@
             "C": "refresh",
             "D": "remind"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 752
       },
@@ -1686,7 +2352,7 @@
             "C": "handily",
             "D": "scarcely"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 819
       },
@@ -1710,7 +2376,7 @@
             "C": "witness",
             "D": "client"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 587
       },
@@ -1734,7 +2400,7 @@
             "C": "anxiety",
             "D": "collapse"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 758
       },
@@ -1758,7 +2424,7 @@
             "C": "severe",
             "D": "mutual"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 1005
       },
@@ -1782,7 +2448,7 @@
             "C": "Immediately",
             "D": "Originally"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 530
       },
@@ -1806,7 +2472,7 @@
             "C": "approaches",
             "D": "incidents"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 715
       },
@@ -1830,7 +2496,7 @@
             "C": "sorrowful",
             "D": "realistic"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 756
       },
@@ -1854,7 +2520,7 @@
             "C": "routines",
             "D": "contests"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 647
       },
@@ -1878,7 +2544,7 @@
             "C": "tight",
             "D": "current"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 692
       },
@@ -1902,7 +2568,7 @@
             "C": "obtain",
             "D": "contain"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 544
       },
@@ -1926,7 +2592,7 @@
             "C": "hesitate",
             "D": "overthrow"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 876
       },
@@ -1950,7 +2616,7 @@
             "C": "objection",
             "D": "condition"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 951
       },
@@ -1974,7 +2640,7 @@
             "C": "accurate",
             "D": "awake"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 463
       },
@@ -1998,7 +2664,7 @@
             "C": "switch",
             "D": "maintain"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 935
       },
@@ -2022,7 +2688,7 @@
             "C": "productive",
             "D": "reluctant"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 606
       }
@@ -2048,7 +2714,7 @@
             "C": "gradually",
             "D": "obviously"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 553
       },
@@ -2072,7 +2738,7 @@
             "C": "loosened",
             "D": "divided"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 727
       },
@@ -2096,7 +2762,7 @@
             "C": "frequent",
             "D": "hostile"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 885
       },
@@ -2120,7 +2786,7 @@
             "C": "totally",
             "D": "directly"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 601
       },
@@ -2144,7 +2810,7 @@
             "C": "propose",
             "D": "cancel"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 478
       },
@@ -2168,7 +2834,7 @@
             "C": "candidates",
             "D": "containers"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 1002
       },
@@ -2192,7 +2858,7 @@
             "C": "attack",
             "D": "invade"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 417
       },
@@ -2216,7 +2882,7 @@
             "C": "process",
             "D": "display"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 631
       },
@@ -2240,7 +2906,7 @@
             "C": "solution",
             "D": "influence"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 1202
       },
@@ -2264,7 +2930,7 @@
             "C": "divisions",
             "D": "measures"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 692
       },
@@ -2288,7 +2954,7 @@
             "C": "freeze",
             "D": "cease"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 925
       },
@@ -2312,7 +2978,7 @@
             "C": "modest",
             "D": "dominant"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 860
       },
@@ -2351,7 +3017,7 @@
             "C": "delighted",
             "D": "intense"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 681
       },
@@ -2375,7 +3041,7 @@
             "C": "promising",
             "D": "enjoyable"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 813
       }
@@ -2401,7 +3067,7 @@
             "C": "surprise",
             "D": "conclusion"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 866
       },
@@ -2425,7 +3091,7 @@
             "C": "hardly",
             "D": "gradually"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 850
       },
@@ -2449,7 +3115,7 @@
             "C": "occupy",
             "D": "inspire"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 775
       },
@@ -2473,7 +3139,7 @@
             "C": "miracle",
             "D": "legend"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 1003
       },
@@ -2497,7 +3163,7 @@
             "C": "familiar",
             "D": "sincere"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 937
       },
@@ -2521,7 +3187,7 @@
             "C": "sorrow",
             "D": "triumph"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 850
       },
@@ -2545,7 +3211,7 @@
             "C": "changeable",
             "D": "optimistic"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 1001
       },
@@ -2569,7 +3235,7 @@
             "C": "continuously",
             "D": "temporarily"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 698
       },
@@ -2593,7 +3259,7 @@
             "C": "connected",
             "D": "universal"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 762
       },
@@ -2617,7 +3283,7 @@
             "C": "gossiping",
             "D": "confessing"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 627
       },
@@ -2641,7 +3307,7 @@
             "C": "considerably",
             "D": "scarcely"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 513
       },
@@ -2665,7 +3331,7 @@
             "C": "murmuring",
             "D": "whistling"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 694
       },
@@ -2689,7 +3355,7 @@
             "C": "economic",
             "D": "stingy"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 523
       },
@@ -2713,7 +3379,7 @@
             "C": "transfer",
             "D": "revise"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 468
       },
@@ -2737,7 +3403,7 @@
             "C": "attachment",
             "D": "machinery"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 787
       }
@@ -2763,7 +3429,7 @@
             "C": "preferably",
             "D": "considerably"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 705
       },
@@ -2787,7 +3453,7 @@
             "C": "discounted",
             "D": "frustrated"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 855
       },
@@ -2931,7 +3597,7 @@
             "C": "reluctant",
             "D": "modest"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 864
       },
@@ -3017,7 +3683,7 @@
             "C": "tended",
             "D": "captured"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 762
       },
@@ -3041,7 +3707,7 @@
             "C": "exit",
             "D": "circulation"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 625
       },
@@ -3065,7 +3731,7 @@
             "C": "primitive",
             "D": "courteous"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 887
       },
@@ -3119,7 +3785,7 @@
             "C": "forward",
             "D": "namely"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 1052
       },
@@ -3143,7 +3809,7 @@
             "C": "foundation",
             "D": "guarantee"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 649
       },
@@ -3167,7 +3833,7 @@
             "C": "effort",
             "D": "breath"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 831
       },
@@ -3191,7 +3857,7 @@
             "C": "display",
             "D": "target"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 699
       },
@@ -3215,7 +3881,7 @@
             "C": "flexible",
             "D": "numerous"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 628
       },
@@ -3239,7 +3905,7 @@
             "C": "consults",
             "D": "motivates"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 775
       },
@@ -3263,7 +3929,7 @@
             "C": "broaden",
             "D": "loosen"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 854
       },
@@ -3287,7 +3953,7 @@
             "C": "literarily",
             "D": "commercially"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 612
       },
@@ -3311,7 +3977,7 @@
             "C": "tough",
             "D": "slippery"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 370
       },
@@ -3335,7 +4001,7 @@
             "C": "wandered",
             "D": "marched"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 734
       }
@@ -3361,7 +4027,7 @@
             "C": "primitive",
             "D": "flexible"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 844
       },
@@ -3385,7 +4051,7 @@
             "C": "reward",
             "D": "neglect"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 669
       },
@@ -3409,7 +4075,7 @@
             "C": "affordable",
             "D": "expressive"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 589
       },
@@ -3433,7 +4099,7 @@
             "C": "engagements",
             "D": "accomplishments"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 542
       },
@@ -3457,7 +4123,7 @@
             "C": "tendency",
             "D": "departure"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 470
       },
@@ -3481,7 +4147,7 @@
             "C": "loosely",
             "D": "formally"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 414
       },
@@ -3505,7 +4171,7 @@
             "C": "essential",
             "D": "maximum"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 712
       },
@@ -3529,7 +4195,7 @@
             "C": "earnest",
             "D": "urgent"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 619
       },
@@ -3553,7 +4219,7 @@
             "C": "labels",
             "D": "recipes"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 457
       },
@@ -3577,7 +4243,7 @@
             "C": "obediently",
             "D": "suspiciously"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 604
       },
@@ -3601,7 +4267,7 @@
             "C": "promote",
             "D": "estimate"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 614
       },
@@ -3625,7 +4291,7 @@
             "C": "inspired",
             "D": "conveyed"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 411
       },
@@ -3649,7 +4315,7 @@
             "C": "regulation",
             "D": "distribution"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 774
       },
@@ -3673,7 +4339,7 @@
             "C": "negotiate",
             "D": "participate"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 441
       },
@@ -3697,7 +4363,7 @@
             "C": "clippings",
             "D": "blockings"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 648
       }
@@ -6702,7 +7368,7 @@
             "C": "diligent",
             "D": "routine"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 956
       },
@@ -6726,7 +7392,7 @@
             "C": "amateur",
             "D": "elementary"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 775
       },
@@ -6750,7 +7416,7 @@
             "C": "expectation",
             "D": "inspiration"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 701
       },
@@ -6774,7 +7440,7 @@
             "C": "alternatively",
             "D": "fundamentally"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 799
       },
@@ -6798,7 +7464,7 @@
             "C": "provision",
             "D": "consumption"
           },
-          "correctAnswer": null
+          "correctAnswer": "A"
         },
         "durationSeconds": 979
       },
@@ -6822,7 +7488,7 @@
             "C": "wanders",
             "D": "escapes"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 769
       },
@@ -6846,7 +7512,7 @@
             "C": "passion",
             "D": "emphasis"
           },
-          "correctAnswer": null
+          "correctAnswer": "C"
         },
         "durationSeconds": 1053
       },
@@ -6870,7 +7536,7 @@
             "C": "overturned",
             "D": "condemned"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 905
       },
@@ -6894,7 +7560,7 @@
             "C": "elbow",
             "D": "struggle"
           },
-          "correctAnswer": null
+          "correctAnswer": "B"
         },
         "durationSeconds": 762
       },
@@ -6918,7 +7584,7 @@
             "C": "harsh",
             "D": "grave"
           },
-          "correctAnswer": null
+          "correctAnswer": "D"
         },
         "durationSeconds": 1195
       }

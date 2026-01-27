@@ -1,10 +1,247 @@
 {
   "answerKeys": {
+    "93": {
+      "vocabRange": [1, 15],
+      "answers": {
+        "1": "C",
+        "2": "D",
+        "3": "B",
+        "4": "A",
+        "5": "D",
+        "6": "C",
+        "7": "B",
+        "8": "D",
+        "9": "A",
+        "10": "D",
+        "11": "B",
+        "12": "A",
+        "13": "C",
+        "14": "D",
+        "15": "C"
+      }
+    },
+    "94": {
+      "vocabRange": [1, 15],
+      "answers": {
+        "1": "A",
+        "2": "C",
+        "3": "B",
+        "4": "B",
+        "5": "A",
+        "6": "D",
+        "7": "D",
+        "8": "A",
+        "9": "C",
+        "10": "D",
+        "11": "B",
+        "12": "C",
+        "13": "D",
+        "14": "A",
+        "15": "B"
+      }
+    },
+    "95": {
+      "vocabRange": [1, 15],
+      "answers": {
+        "1": "D",
+        "2": "B",
+        "3": "A",
+        "4": "B",
+        "5": "C",
+        "6": "B",
+        "7": "A",
+        "8": "C",
+        "9": "D",
+        "10": "C",
+        "11": "A",
+        "12": "C",
+        "13": "A",
+        "14": "C",
+        "15": "A"
+      }
+    },
+    "96": {
+      "vocabRange": [1, 15],
+      "answers": {
+        "1": "A",
+        "2": "D",
+        "3": "A",
+        "4": "B",
+        "5": "C",
+        "6": "D",
+        "7": "B",
+        "8": "D",
+        "9": "C",
+        "10": "A",
+        "11": "B",
+        "12": "D",
+        "13": "C",
+        "14": "B",
+        "15": "A"
+      }
+    },
+    "97": {
+      "vocabRange": [1, 15],
+      "answers": {
+        "1": "C",
+        "2": "B",
+        "3": "D",
+        "4": "B",
+        "5": "C",
+        "6": "D",
+        "7": "A",
+        "8": "B",
+        "9": "C",
+        "10": "A",
+        "11": "B",
+        "12": "C",
+        "13": "A",
+        "14": "A",
+        "15": "B"
+      }
+    },
+    "98": {
+      "vocabRange": [1, 15],
+      "answers": {
+        "1": "B",
+        "2": "B",
+        "3": "C",
+        "4": "D",
+        "5": "D",
+        "6": "A",
+        "7": "B",
+        "8": "B",
+        "9": "C",
+        "10": "A",
+        "11": "D",
+        "12": "D",
+        "13": "C",
+        "14": "A",
+        "15": "C"
+      }
+    },
+    "99": {
+      "vocabRange": [1, 15],
+      "answers": {
+        "1": "C",
+        "2": "B",
+        "3": "D",
+        "4": "A",
+        "5": "A",
+        "6": "B",
+        "7": "C",
+        "8": "D",
+        "9": "A",
+        "10": "B",
+        "11": "B",
+        "12": "C",
+        "13": "A",
+        "14": "C",
+        "15": "D"
+      }
+    },
+    "100": {
+      "vocabRange": [1, 15],
+      "answers": {
+        "1": "A",
+        "2": "B",
+        "3": "A",
+        "4": "D",
+        "5": "D",
+        "6": "C",
+        "7": "B",
+        "8": "C",
+        "9": "A",
+        "10": "A",
+        "11": "B",
+        "12": "D",
+        "13": "B",
+        "14": "C",
+        "15": "A"
+      }
+    },
+    "101": {
+      "vocabRange": [1, 15],
+      "answers": {
+        "1": "C",
+        "2": "A",
+        "3": "B",
+        "4": "D",
+        "5": "B",
+        "6": "B",
+        "7": "D",
+        "8": "C",
+        "9": "B",
+        "10": "A",
+        "11": "C",
+        "12": "C",
+        "13": "D",
+        "14": "B",
+        "15": "A"
+      }
+    },
+    "102": {
+      "vocabRange": [1, 15],
+      "answers": {
+        "1": "B",
+        "2": "C",
+        "3": "A",
+        "4": "D",
+        "5": "C",
+        "6": "B",
+        "7": "A",
+        "8": "D",
+        "9": "B",
+        "10": "C",
+        "11": "C",
+        "12": "D",
+        "13": "A",
+        "14": "D",
+        "15": "C"
+      }
+    },
+    "103": {
+      "vocabRange": [1, 15],
+      "answers": {
+        "1": "C",
+        "2": "A",
+        "3": "A",
+        "4": "D",
+        "5": "C",
+        "6": "B",
+        "7": "C",
+        "8": "D",
+        "9": "B",
+        "10": "B",
+        "11": "C",
+        "12": "B",
+        "13": "C",
+        "14": "A",
+        "15": "C"
+      }
+    },
+    "104": {
+      "vocabRange": [1, 15],
+      "answers": {
+        "1": "D",
+        "2": "C",
+        "3": "C",
+        "4": "B",
+        "5": "D",
+        "6": "A",
+        "7": "D",
+        "8": "A",
+        "9": "C",
+        "10": "B",
+        "11": "C",
+        "12": "B",
+        "13": "C",
+        "14": "B",
+        "15": "A"
+      }
+    },
     "105": {
-      "vocabRange": [
-        1,
-        15
-      ],
+      "vocabRange": [1, 15],
       "answers": {
         "1": "C",
         "2": "D",
@@ -24,10 +261,7 @@
       }
     },
     "106": {
-      "vocabRange": [
-        1,
-        15
-      ],
+      "vocabRange": [1, 15],
       "answers": {
         "1": "B",
         "2": "A",
@@ -47,10 +281,7 @@
       }
     },
     "107": {
-      "vocabRange": [
-        1,
-        15
-      ],
+      "vocabRange": [1, 15],
       "answers": {
         "1": "C",
         "2": "A",
@@ -70,10 +301,7 @@
       }
     },
     "108": {
-      "vocabRange": [
-        1,
-        15
-      ],
+      "vocabRange": [1, 15],
       "answers": {
         "1": "C",
         "2": "C",
@@ -93,10 +321,7 @@
       }
     },
     "109": {
-      "vocabRange": [
-        1,
-        15
-      ],
+      "vocabRange": [1, 15],
       "answers": {
         "1": "B",
         "2": "B",
@@ -116,10 +341,7 @@
       }
     },
     "110": {
-      "vocabRange": [
-        1,
-        15
-      ],
+      "vocabRange": [1, 15],
       "answers": {
         "1": "C",
         "2": "C",
@@ -139,10 +361,7 @@
       }
     },
     "111": {
-      "vocabRange": [
-        1,
-        10
-      ],
+      "vocabRange": [1, 10],
       "answers": {
         "1": "B",
         "2": "A",
@@ -157,10 +376,7 @@
       }
     },
     "112": {
-      "vocabRange": [
-        1,
-        10
-      ],
+      "vocabRange": [1, 10],
       "answers": {
         "1": "A",
         "2": "C",
@@ -175,10 +391,7 @@
       }
     },
     "113": {
-      "vocabRange": [
-        1,
-        10
-      ],
+      "vocabRange": [1, 10],
       "answers": {
         "1": "B",
         "2": "A",
@@ -191,9 +404,354 @@
         "9": "A",
         "10": "B"
       }
+    },
+    "114": {
+      "vocabRange": [1, 15],
+      "answers": {
+        "1": "C",
+        "2": "A",
+        "3": "A",
+        "4": "C",
+        "5": "C",
+        "6": "D",
+        "7": "D",
+        "8": "A",
+        "9": "B",
+        "10": "A",
+        "11": "B",
+        "12": "B",
+        "13": "A",
+        "14": "C",
+        "15": "D"
+      }
+    },
+    "115": {
+      "vocabRange": [1, 10],
+      "answers": {
+        "1": "B",
+        "2": "C",
+        "3": "A",
+        "4": "D",
+        "5": "A",
+        "6": "D",
+        "7": "C",
+        "8": "B",
+        "9": "B",
+        "10": "D"
+      }
     }
   },
   "supplementaryQuestions": {
+    "93": {
+      "1": {
+        "questionText": "I called the airline to ______ my flight reservation a week before I left for Canada.",
+        "options": { "A": "expand", "B": "attach", "C": "confirm", "D": "strengthen" }
+      },
+      "2": {
+        "questionText": "In order to write a report on stars, we decided to ______ the stars in the sky every night.",
+        "options": { "A": "design", "B": "seize", "C": "quote", "D": "observe" }
+      },
+      "3": {
+        "questionText": "Julie wants to buy a ______ computer so that she can carry it around when she travels.",
+        "options": { "A": "memorable", "B": "portable", "C": "predictable", "D": "readable" }
+      },
+      "4": {
+        "questionText": "My grandmother likes to surprise people. She never calls ______ to inform us of her visits.",
+        "options": { "A": "beforehand", "B": "anyhow", "C": "originally", "D": "consequently" }
+      },
+      "5": {
+        "questionText": "As the tallest building in the world, Taipei 101 has become a new ______ of Taipei City.",
+        "options": { "A": "incident", "B": "geography", "C": "skylight", "D": "landmark" }
+      },
+      "6": {
+        "questionText": "Many scholars and experts from all over the world will be invited to attend this yearly ______ on drug control.",
+        "options": { "A": "reference", "B": "intention", "C": "conference", "D": "interaction" }
+      },
+      "7": {
+        "questionText": "John had failed to pay his phone bills for months, so his telephone was ______ last week.",
+        "options": { "A": "interrupted", "B": "disconnected", "C": "excluded", "D": "discriminated" }
+      },
+      "8": {
+        "questionText": "The organic food products are made of natural ingredients, with no ______ flavors added.",
+        "options": { "A": "accurate", "B": "regular", "C": "superficial", "D": "artificial" }
+      },
+      "9": {
+        "questionText": "Jessica is a very religious girl; she believes that she is always ______ supported by her god.",
+        "options": { "A": "spiritually", "B": "typically", "C": "historically", "D": "officially" }
+      },
+      "10": {
+        "questionText": "Jane usually buys things on ______. Her purchases seem to be driven by some sudden force or desire.",
+        "options": { "A": "accident", "B": "compliment", "C": "justification", "D": "impulse" }
+      },
+      "11": {
+        "questionText": "The week-long rainfall has ______ landslides and flooding in the mountain areas.",
+        "options": { "A": "set about", "B": "brought about", "C": "come about", "D": "put about" }
+      },
+      "12": {
+        "questionText": "In the cross-lake swimming race, a boat will be ______ in case of an emergency.",
+        "options": { "A": "standing by", "B": "turning on", "C": "getting on", "D": "running down" }
+      },
+      "13": {
+        "questionText": "The ground is slippery. Hold onto the rope and don't ______.",
+        "options": { "A": "put off", "B": "turn up", "C": "let go", "D": "take apart" }
+      },
+      "14": {
+        "questionText": "______ the weather, the athletic meetings will be held on time.",
+        "options": { "A": "Instead of", "B": "In relation to", "C": "On behalf of", "D": "Regardless of" }
+      },
+      "15": {
+        "questionText": "If people keep polluting the rivers, no fish there will survive ______.",
+        "options": { "A": "at all cost", "B": "for a long while", "C": "in the long run", "D": "by no means" }
+      }
+    },
+    "94": {
+      "1": {
+        "questionText": "As computers are getting less expensive, they are _______ used in schools and offices today.",
+        "options": { "A": "widely", "B": "expectedly", "C": "consciously", "D": "influentially" }
+      },
+      "2": {
+        "questionText": "Mr. Chang always tries to answer all questions from his students. He will not _____ any of them even if they may sound stupid.",
+        "options": { "A": "reform", "B": "depress", "C": "ignore", "D": "confirm" }
+      },
+      "3": {
+        "questionText": "Irene does not throw away used envelopes. She ______ them by using them for taking telephone messages.",
+        "options": { "A": "designs", "B": "recycles", "C": "disguises", "D": "manufactures" }
+      },
+      "4": {
+        "questionText": "Cheese, powdered milk, and yogurt are common milk ______.",
+        "options": { "A": "produces", "B": "products", "C": "productions", "D": "productivities" }
+      },
+      "5": {
+        "questionText": "Although he is a chef, Roberto _____ cooks his own meals.",
+        "options": { "A": "rarely", "B": "bitterly", "C": "naturally", "D": "skillfully" }
+      },
+      "6": {
+        "questionText": "Due to the yearly bonus system, the 100 ________ positions in this high-tech company have attracted many applicants from around the island.",
+        "options": { "A": "loyal", "B": "evident", "C": "typical", "D": "vacant" }
+      },
+      "7": {
+        "questionText": "If you want to borrow magazines, tapes, or CDs, you can visit the library. They are all ______ there.",
+        "options": { "A": "sufficient", "B": "marvelous", "C": "impressive", "D": "available" }
+      },
+      "8": {
+        "questionText": "The fire in the fireworks factory in Changhua set off a series of powerful _________ and killed four people.",
+        "options": { "A": "explosions", "B": "extensions", "C": "inspections", "D": "impressions" }
+      },
+      "9": {
+        "questionText": "A good government official has to ________ the temptation of money and make the right decision.",
+        "options": { "A": "consist", "B": "insist", "C": "resist", "D": "persist" }
+      },
+      "10": {
+        "questionText": "The drug dealer was ________ by the police while he was selling cocaine to a high school student.",
+        "options": { "A": "threatened", "B": "endangered", "C": "demonstrated", "D": "arrested" }
+      },
+      "11": {
+        "questionText": "The rise of oil prices made scientists search for new energy resources to ______ oil.",
+        "options": { "A": "apply", "B": "replace", "C": "inform", "D": "persuade" }
+      },
+      "12": {
+        "questionText": "Without much contact with the outside world for many years, John found many technological inventions _____ to him.",
+        "options": { "A": "natural", "B": "common", "C": "foreign", "D": "objective" }
+      },
+      "13": {
+        "questionText": "The medicine you take for a cold may cause _____; try not to drive after you take it.",
+        "options": { "A": "incident", "B": "violence", "C": "bacteria", "D": "drowsiness" }
+      },
+      "14": {
+        "questionText": "To gain more ______, some legislators would get into violent physical fights so that they may appear in TV news reports.",
+        "options": { "A": "publicity", "B": "reputation", "C": "significance", "D": "communication" }
+      },
+      "15": {
+        "questionText": "To live an efficient life, we have to arrange the things to do in order of _____ and start with the most important ones.",
+        "options": { "A": "authority", "B": "priority", "C": "regularity", "D": "security" }
+      }
+    },
+    "95": {
+      "1": {
+        "questionText": "If we can ______ to, we will take a vacation abroad in the summer.",
+        "options": { "A": "pay", "B": "move", "C": "expose", "D": "afford" }
+      },
+      "2": {
+        "questionText": "A ______ mistake found in parenthood is that parents often set unrealistic goals for their children.",
+        "options": { "A": "terrific", "B": "common", "C": "straight", "D": "favorable" }
+      },
+      "3": {
+        "questionText": "Some words, such as \"sandwich\" and \"hamburger,\" were ______ the names of people or even towns.",
+        "options": { "A": "originally", "B": "ideally", "C": "relatively", "D": "sincerely" }
+      },
+      "4": {
+        "questionText": "Have you ever ______ how the ancient Egyptians created such marvelous feats of engineering as the pyramids?",
+        "options": { "A": "concluded", "B": "wondered", "C": "admitted", "D": "persuaded" }
+      },
+      "5": {
+        "questionText": "Mr. Johnson was disappointed at his students for having a passive learning ______.",
+        "options": { "A": "result", "B": "progress", "C": "attitude", "D": "energy" }
+      },
+      "6": {
+        "questionText": "Anne dreaded giving a speech before three hundred people; even thinking about it made her ______.",
+        "options": { "A": "passionate", "B": "anxious", "C": "ambitious", "D": "optimistic" }
+      },
+      "7": {
+        "questionText": "I had to ______ Jack's invitation to the party because it conflicted with an important business meeting.",
+        "options": { "A": "decline", "B": "depart", "C": "devote", "D": "deserve" }
+      },
+      "8": {
+        "questionText": "Selling fried chicken at the night market doesn't seem to be a decent business, but it is actually quite ______.",
+        "options": { "A": "plentiful", "B": "precious", "C": "profitable", "D": "productive" }
+      },
+      "9": {
+        "questionText": "The passengers ______ escaped death when a bomb exploded in the subway station, killing sixty people.",
+        "options": { "A": "traditionally", "B": "valuably", "C": "loosely", "D": "narrowly" }
+      },
+      "10": {
+        "questionText": "Jerry didn't ______ his primary school classmate Mary until he listened to her self-introduction.",
+        "options": { "A": "acquaint", "B": "acquire", "C": "recognize", "D": "realize" }
+      },
+      "11": {
+        "questionText": "With the completion of several public ______ projects, such as the MRT, commuting to work has become easier for people living in the suburbs.",
+        "options": { "A": "transportation", "B": "traffic", "C": "travel", "D": "transfer" }
+      },
+      "12": {
+        "questionText": "With a good ______ of both Chinese and English, Miss Lin was assigned the task of oral interpretation for the visiting American delegation.",
+        "options": { "A": "writing", "B": "program", "C": "command", "D": "impression" }
+      },
+      "13": {
+        "questionText": "I am studying so hard for the forthcoming entrance exam that I do not have the ______ of a free weekend to rest.",
+        "options": { "A": "luxury", "B": "license", "C": "limitation", "D": "strength" }
+      },
+      "14": {
+        "questionText": "Kim was completely ______ after jogging in the hot sun all afternoon; she had little energy left.",
+        "options": { "A": "kicked out", "B": "handed out", "C": "worn out", "D": "put out" }
+      },
+      "15": {
+        "questionText": "When Jason failed to pay his bill, the network company ______ his Internet connection.",
+        "options": { "A": "cut off", "B": "cut back", "C": "cut short", "D": "cut down" }
+      }
+    },
+    "96": {
+      "1": {
+        "questionText": "The movie director adapted this year's bestseller into a hit and made a ______.",
+        "options": { "A": "fortune", "B": "request", "C": "companion", "D": "decision" }
+      },
+      "2": {
+        "questionText": "Wang Chien-ming, the Yankees' best pitcher last year, already showed his great ______ for baseball when he was still a teenager.",
+        "options": { "A": "response", "B": "reluctance", "C": "permission", "D": "potential" }
+      },
+      "3": {
+        "questionText": "Although Jeffery had to keep two part-time jobs to support his family, he never ______ his studies. In fact, he graduated with honors.",
+        "options": { "A": "neglected", "B": "segmented", "C": "financed", "D": "diminished" }
+      },
+      "4": {
+        "questionText": "If it is too cold in this room, you can ______ the air conditioner to make yourself feel comfortable.",
+        "options": { "A": "fasten", "B": "adjust", "C": "defeat", "D": "upload" }
+      },
+      "5": {
+        "questionText": "This course will provide students with a solid ______ for research. It is highly recommended for those who plan to go to graduate school.",
+        "options": { "A": "admission", "B": "circulation", "C": "foundation", "D": "extension" }
+      },
+      "6": {
+        "questionText": "Peter is now living on a ______ of NT$100 per day. He cannot afford any recreational activities.",
+        "options": { "A": "division", "B": "guidance", "C": "measure", "D": "budget" }
+      },
+      "7": {
+        "questionText": "Amy succeeded in ______ for a raise though her boss didn't agree to increase her salary at first.",
+        "options": { "A": "compensating", "B": "negotiating", "C": "substituting", "D": "advertising" }
+      },
+      "8": {
+        "questionText": "Ms. Li's business ______ very quickly. She opened her first store two years ago; now she has fifty stores all over the country.",
+        "options": { "A": "discouraged", "B": "transferred", "C": "stretched", "D": "expanded" }
+      },
+      "9": {
+        "questionText": "Ruth is a very ______ person. She cannot take any criticism and always finds excuses to justify herself.",
+        "options": { "A": "shameful", "B": "innocent", "C": "defensive", "D": "outgoing" }
+      },
+      "10": {
+        "questionText": "It's a pity that you have to leave so soon. I ______ hope that you will come back very soon.",
+        "options": { "A": "sincerely", "B": "scarcely", "C": "reliably", "D": "obviously" }
+      },
+      "11": {
+        "questionText": "We human beings may live without clothes, but food and air are ______ to our life.",
+        "options": { "A": "magnificent", "B": "essential", "C": "influential", "D": "profitable" }
+      },
+      "12": {
+        "questionText": "The manager ______ without hesitation after he had been offered a better job in another company.",
+        "options": { "A": "retreated", "B": "revived", "C": "removed", "D": "resigned" }
+      },
+      "13": {
+        "questionText": "Many important legal ______ concerning the tragic incident have now been preserved in the museum.",
+        "options": { "A": "distributions", "B": "formations", "C": "documents", "D": "constructions" }
+      },
+      "14": {
+        "questionText": "I'm not sure exactly how much scholarship you'll receive, but it will ______ cover your major expenses.",
+        "options": { "A": "recently", "B": "roughly", "C": "frankly", "D": "variously" }
+      },
+      "15": {
+        "questionText": "Tom was very ill a week ago, but now he looks healthy. We are ______ by his quick recovery.",
+        "options": { "A": "amazed", "B": "convinced", "C": "advised", "D": "confirmed" }
+      }
+    },
+    "97": {
+      "1": {
+        "questionText": "Amy did not ______ changes in the course schedule and therefore missed the class.",
+        "options": { "A": "arrest", "B": "alarm", "C": "notice", "D": "delay" }
+      },
+      "2": {
+        "questionText": "It is not easy for old people to ______ their backs, so they need help when their backs itch.",
+        "options": { "A": "label", "B": "scratch", "C": "lighten", "D": "squeeze" }
+      },
+      "3": {
+        "questionText": "Mary is suffering from a stomachache and needs to eat food which is easy to ______.",
+        "options": { "A": "launch", "B": "invade", "C": "adopt", "D": "digest" }
+      },
+      "4": {
+        "questionText": "Since our classroom is not air-conditioned, we have to ______ the heat during the hot summer days.",
+        "options": { "A": "consume", "B": "tolerate", "C": "recover", "D": "promote" }
+      },
+      "5": {
+        "questionText": "Sue is so ______ that she always breaks something when she is shopping at a store.",
+        "options": { "A": "religious", "B": "visual", "C": "clumsy", "D": "intimate" }
+      },
+      "6": {
+        "questionText": "Ann enjoyed going to the flower market. She believed that the ______ of flowers refreshed her mind.",
+        "options": { "A": "instance", "B": "dominance", "C": "appliance", "D": "fragrance" }
+      },
+      "7": {
+        "questionText": "The profits of Prince Charles's organic farm go to ______ to help the poor and the sick.",
+        "options": { "A": "charities", "B": "bulletins", "C": "harvests", "D": "rebels" }
+      },
+      "8": {
+        "questionText": "Jack was given the rare ______ of using the president's office, which made others quite jealous.",
+        "options": { "A": "mischief", "B": "privilege", "C": "involvement", "D": "occupation" }
+      },
+      "9": {
+        "questionText": "This new computer is obviously ______ to the old one because it has many new functions.",
+        "options": { "A": "technical", "B": "suitable", "C": "superior", "D": "typical" }
+      },
+      "10": {
+        "questionText": "Simon loves his work. To him, work always comes first, and family and friends are ______.",
+        "options": { "A": "secondary", "B": "temporary", "C": "sociable", "D": "capable" }
+      },
+      "11": {
+        "questionText": "Although your plans look good, you have to be ______ and consider what you can actually do.",
+        "options": { "A": "dramatic", "B": "realistic", "C": "stressful", "D": "manageable" }
+      },
+      "12": {
+        "questionText": "Built under the sea in 1994, the ______ between England and France connects the UK more closely with mainland Europe.",
+        "options": { "A": "waterfall", "B": "temple", "C": "tunnel", "D": "channel" }
+      },
+      "13": {
+        "questionText": "This tour package is very appealing, and that one looks ______ attractive. I don't know which one to choose.",
+        "options": { "A": "equally", "B": "annually", "C": "merely", "D": "gratefully" }
+      },
+      "14": {
+        "questionText": "Hseu Fang-yi, a young Taiwanese dancer, recently ______ at Lincoln Center in New York and won a great deal of praise.",
+        "options": { "A": "performed", "B": "pretended", "C": "postponed", "D": "persuaded" }
+      },
+      "15": {
+        "questionText": "The police searched the house of the suspect ______. They almost turned the whole house upside down.",
+        "options": { "A": "relatively", "B": "thoroughly", "C": "casually", "D": "permanently" }
+      }
+    },
     "106": {
       "1": {
         "questionText": "John's clock is not functioning _____. The alarm rings even when it's not set to go off.",

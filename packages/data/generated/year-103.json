@@ -21,7 +21,7 @@
           "C": "tended",
           "D": "captured"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 762
     },
@@ -45,7 +45,7 @@
           "C": "exit",
           "D": "circulation"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 625
     },
@@ -69,7 +69,7 @@
           "C": "primitive",
           "D": "courteous"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 887
     },
@@ -123,7 +123,7 @@
           "C": "forward",
           "D": "namely"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 1052
     },
@@ -147,7 +147,7 @@
           "C": "foundation",
           "D": "guarantee"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 649
     },
@@ -171,7 +171,7 @@
           "C": "effort",
           "D": "breath"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 831
     },
@@ -195,7 +195,7 @@
           "C": "display",
           "D": "target"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 699
     },
@@ -219,7 +219,7 @@
           "C": "flexible",
           "D": "numerous"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 628
     },
@@ -243,7 +243,7 @@
           "C": "consults",
           "D": "motivates"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 775
     },
@@ -267,7 +267,7 @@
           "C": "broaden",
           "D": "loosen"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 854
     },
@@ -291,7 +291,7 @@
           "C": "literarily",
           "D": "commercially"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 612
     },
@@ -315,7 +315,7 @@
           "C": "tough",
           "D": "slippery"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 370
     },
@@ -339,7 +339,7 @@
           "C": "wandered",
           "D": "marched"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 734
     }

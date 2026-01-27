@@ -13,7 +13,16 @@
       "views": 6124,
       "youtubeLink": "https://www.youtube.com/watch?v=Hh8ZhNWs1xE",
       "year": 93,
-      "question": null,
+      "question": {
+        "questionText": "I called the airline to ______ my flight reservation a week before I left for Canada.",
+        "options": {
+          "A": "expand",
+          "B": "attach",
+          "C": "confirm",
+          "D": "strengthen"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 429
     },
     {
@@ -28,7 +37,16 @@
       "views": 2280,
       "youtubeLink": "https://www.youtube.com/watch?v=9XOQ6nzRbS8",
       "year": 93,
-      "question": null,
+      "question": {
+        "questionText": "In order to write a report on stars, we decided to ______ the stars in the sky every night.",
+        "options": {
+          "A": "design",
+          "B": "seize",
+          "C": "quote",
+          "D": "observe"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 374
     },
     {
@@ -43,7 +61,16 @@
       "views": 1946,
       "youtubeLink": "https://www.youtube.com/watch?v=4EMZYl8kngw",
       "year": 93,
-      "question": null,
+      "question": {
+        "questionText": "Julie wants to buy a ______ computer so that she can carry it around when she travels.",
+        "options": {
+          "A": "memorable",
+          "B": "portable",
+          "C": "predictable",
+          "D": "readable"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 503
     },
     {
@@ -58,7 +85,16 @@
       "views": 1794,
       "youtubeLink": "https://www.youtube.com/watch?v=3CKXPZQ75z8",
       "year": 93,
-      "question": null,
+      "question": {
+        "questionText": "My grandmother likes to surprise people. She never calls ______ to inform us of her visits.",
+        "options": {
+          "A": "beforehand",
+          "B": "anyhow",
+          "C": "originally",
+          "D": "consequently"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 470
     },
     {
@@ -73,7 +109,16 @@
       "views": 1434,
       "youtubeLink": "https://www.youtube.com/watch?v=Gc6guNL6XNs",
       "year": 93,
-      "question": null,
+      "question": {
+        "questionText": "As the tallest building in the world, Taipei 101 has become a new ______ of Taipei City.",
+        "options": {
+          "A": "incident",
+          "B": "geography",
+          "C": "skylight",
+          "D": "landmark"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 502
     },
     {
@@ -88,7 +133,16 @@
       "views": 1651,
       "youtubeLink": "https://www.youtube.com/watch?v=5-wGnvWNhtk",
       "year": 93,
-      "question": null,
+      "question": {
+        "questionText": "Many scholars and experts from all over the world will be invited to attend this yearly ______ on drug control.",
+        "options": {
+          "A": "reference",
+          "B": "intention",
+          "C": "conference",
+          "D": "interaction"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 673
     },
     {
@@ -103,7 +157,16 @@
       "views": 1335,
       "youtubeLink": "https://www.youtube.com/watch?v=mtYo3MJ6QiM",
       "year": 93,
-      "question": null,
+      "question": {
+        "questionText": "John had failed to pay his phone bills for months, so his telephone was ______ last week.",
+        "options": {
+          "A": "interrupted",
+          "B": "disconnected",
+          "C": "excluded",
+          "D": "discriminated"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 740
     },
     {
@@ -118,7 +181,16 @@
       "views": 1146,
       "youtubeLink": "https://www.youtube.com/watch?v=639SX0rIfqM",
       "year": 93,
-      "question": null,
+      "question": {
+        "questionText": "The organic food products are made of natural ingredients, with no ______ flavors added.",
+        "options": {
+          "A": "accurate",
+          "B": "regular",
+          "C": "superficial",
+          "D": "artificial"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 423
     },
     {
@@ -133,7 +205,16 @@
       "views": 1042,
       "youtubeLink": "https://www.youtube.com/watch?v=Ixb6PDe5eKg",
       "year": 93,
-      "question": null,
+      "question": {
+        "questionText": "Jessica is a very religious girl; she believes that she is always ______ supported by her god.",
+        "options": {
+          "A": "spiritually",
+          "B": "typically",
+          "C": "historically",
+          "D": "officially"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 598
     },
     {
@@ -148,7 +229,16 @@
       "views": 929,
       "youtubeLink": "https://www.youtube.com/watch?v=x5ch-rUsfHM",
       "year": 93,
-      "question": null,
+      "question": {
+        "questionText": "Jane usually buys things on ______. Her purchases seem to be driven by some sudden force or desire.",
+        "options": {
+          "A": "accident",
+          "B": "compliment",
+          "C": "justification",
+          "D": "impulse"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 593
     },
     {
@@ -163,7 +253,16 @@
       "views": 916,
       "youtubeLink": "https://www.youtube.com/watch?v=HKWDXdpli0g",
       "year": 93,
-      "question": null,
+      "question": {
+        "questionText": "The week-long rainfall has ______ landslides and flooding in the mountain areas.",
+        "options": {
+          "A": "set about",
+          "B": "brought about",
+          "C": "come about",
+          "D": "put about"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 459
     },
     {
@@ -178,7 +277,16 @@
       "views": 761,
       "youtubeLink": "https://www.youtube.com/watch?v=ec_3WC7dogM",
       "year": 93,
-      "question": null,
+      "question": {
+        "questionText": "In the cross-lake swimming race, a boat will be ______ in case of an emergency.",
+        "options": {
+          "A": "standing by",
+          "B": "turning on",
+          "C": "getting on",
+          "D": "running down"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 250
     },
     {
@@ -193,7 +301,16 @@
       "views": 782,
       "youtubeLink": "https://www.youtube.com/watch?v=ohGiP8vQBMI",
       "year": 93,
-      "question": null,
+      "question": {
+        "questionText": "The ground is slippery. Hold onto the rope and don't ______.",
+        "options": {
+          "A": "put off",
+          "B": "turn up",
+          "C": "let go",
+          "D": "take apart"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 289
     },
     {
@@ -208,7 +325,16 @@
       "views": 814,
       "youtubeLink": "https://www.youtube.com/watch?v=6ywN2SG6ijs",
       "year": 93,
-      "question": null,
+      "question": {
+        "questionText": "______ the weather, the athletic meetings will be held on time.",
+        "options": {
+          "A": "Instead of",
+          "B": "In relation to",
+          "C": "On behalf of",
+          "D": "Regardless of"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 243
     },
     {
@@ -223,7 +349,16 @@
       "views": 894,
       "youtubeLink": "https://www.youtube.com/watch?v=J0_O8diRF50",
       "year": 93,
-      "question": null,
+      "question": {
+        "questionText": "If people keep polluting the rivers, no fish there will survive ______.",
+        "options": {
+          "A": "at all cost",
+          "B": "for a long while",
+          "C": "in the long run",
+          "D": "by no means"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 317
     }
   ]

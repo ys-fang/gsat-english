@@ -13,7 +13,16 @@
       "views": 2449,
       "youtubeLink": "https://www.youtube.com/watch?v=QXkeik4mTuQ",
       "year": 95,
-      "question": null,
+      "question": {
+        "questionText": "If we can ______ to, we will take a vacation abroad in the summer.",
+        "options": {
+          "A": "pay",
+          "B": "move",
+          "C": "expose",
+          "D": "afford"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 406
     },
     {
@@ -28,7 +37,16 @@
       "views": 1592,
       "youtubeLink": "https://www.youtube.com/watch?v=u9annS9_PR8",
       "year": 95,
-      "question": null,
+      "question": {
+        "questionText": "A ______ mistake found in parenthood is that parents often set unrealistic goals for their children.",
+        "options": {
+          "A": "terrific",
+          "B": "common",
+          "C": "straight",
+          "D": "favorable"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 457
     },
     {
@@ -43,7 +61,16 @@
       "views": 1191,
       "youtubeLink": "https://www.youtube.com/watch?v=JU2JfCAm2f4",
       "year": 95,
-      "question": null,
+      "question": {
+        "questionText": "Some words, such as \"sandwich\" and \"hamburger,\" were ______ the names of people or even towns.",
+        "options": {
+          "A": "originally",
+          "B": "ideally",
+          "C": "relatively",
+          "D": "sincerely"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 459
     },
     {
@@ -58,7 +85,16 @@
       "views": 1175,
       "youtubeLink": "https://www.youtube.com/watch?v=aVa0nL__MRw",
       "year": 95,
-      "question": null,
+      "question": {
+        "questionText": "Have you ever ______ how the ancient Egyptians created such marvelous feats of engineering as the pyramids?",
+        "options": {
+          "A": "concluded",
+          "B": "wondered",
+          "C": "admitted",
+          "D": "persuaded"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 710
     },
     {
@@ -73,7 +109,16 @@
       "views": 1004,
       "youtubeLink": "https://www.youtube.com/watch?v=yk9ANg2d1B8",
       "year": 95,
-      "question": null,
+      "question": {
+        "questionText": "Mr. Johnson was disappointed at his students for having a passive learning ______.",
+        "options": {
+          "A": "result",
+          "B": "progress",
+          "C": "attitude",
+          "D": "energy"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 516
     },
     {
@@ -88,7 +133,16 @@
       "views": 1038,
       "youtubeLink": "https://www.youtube.com/watch?v=TVbafR70ReA",
       "year": 95,
-      "question": null,
+      "question": {
+        "questionText": "Anne dreaded giving a speech before three hundred people; even thinking about it made her ______.",
+        "options": {
+          "A": "passionate",
+          "B": "anxious",
+          "C": "ambitious",
+          "D": "optimistic"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 354
     },
     {
@@ -103,7 +157,16 @@
       "views": 1045,
       "youtubeLink": "https://www.youtube.com/watch?v=MxKhMxx7JqQ",
       "year": 95,
-      "question": null,
+      "question": {
+        "questionText": "I had to ______ Jack's invitation to the party because it conflicted with an important business meeting.",
+        "options": {
+          "A": "decline",
+          "B": "depart",
+          "C": "devote",
+          "D": "deserve"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 577
     },
     {
@@ -118,7 +181,16 @@
       "views": 952,
       "youtubeLink": "https://www.youtube.com/watch?v=aa4yxSbyoS0",
       "year": 95,
-      "question": null,
+      "question": {
+        "questionText": "Selling fried chicken at the night market doesn't seem to be a decent business, but it is actually quite ______.",
+        "options": {
+          "A": "plentiful",
+          "B": "precious",
+          "C": "profitable",
+          "D": "productive"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 482
     },
     {
@@ -133,7 +205,16 @@
       "views": 1013,
       "youtubeLink": "https://www.youtube.com/watch?v=8BZfJXCq_0U",
       "year": 95,
-      "question": null,
+      "question": {
+        "questionText": "The passengers ______ escaped death when a bomb exploded in the subway station, killing sixty people.",
+        "options": {
+          "A": "traditionally",
+          "B": "valuably",
+          "C": "loosely",
+          "D": "narrowly"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 705
     },
     {
@@ -148,7 +229,16 @@
       "views": 864,
       "youtubeLink": "https://www.youtube.com/watch?v=90HYZUHk9FQ",
       "year": 95,
-      "question": null,
+      "question": {
+        "questionText": "Jerry didn't ______ his primary school classmate Mary until he listened to her self-introduction.",
+        "options": {
+          "A": "acquaint",
+          "B": "acquire",
+          "C": "recognize",
+          "D": "realize"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 338
     },
     {
@@ -163,7 +253,16 @@
       "views": 1036,
       "youtubeLink": "https://www.youtube.com/watch?v=kqN2s4qNTso",
       "year": 95,
-      "question": null,
+      "question": {
+        "questionText": "With the completion of several public ______ projects, such as the MRT, commuting to work has become easier for people living in the suburbs.",
+        "options": {
+          "A": "transportation",
+          "B": "traffic",
+          "C": "travel",
+          "D": "transfer"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 538
     },
     {
@@ -178,7 +277,16 @@
       "views": 915,
       "youtubeLink": "https://www.youtube.com/watch?v=wbLIaaeBpaI",
       "year": 95,
-      "question": null,
+      "question": {
+        "questionText": "With a good ______ of both Chinese and English, Miss Lin was assigned the task of oral interpretation for the visiting American delegation.",
+        "options": {
+          "A": "writing",
+          "B": "program",
+          "C": "command",
+          "D": "impression"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 505
     },
     {
@@ -193,7 +301,16 @@
       "views": 767,
       "youtubeLink": "https://www.youtube.com/watch?v=FVVvablcHl4",
       "year": 95,
-      "question": null,
+      "question": {
+        "questionText": "I am studying so hard for the forthcoming entrance exam that I do not have the ______ of a free weekend to rest.",
+        "options": {
+          "A": "luxury",
+          "B": "license",
+          "C": "limitation",
+          "D": "strength"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 531
     },
     {
@@ -208,7 +325,16 @@
       "views": 681,
       "youtubeLink": "https://www.youtube.com/watch?v=q69iI5CclxE",
       "year": 95,
-      "question": null,
+      "question": {
+        "questionText": "Kim was completely ______ after jogging in the hot sun all afternoon; she had little energy left.",
+        "options": {
+          "A": "kicked out",
+          "B": "handed out",
+          "C": "worn out",
+          "D": "put out"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 279
     },
     {
@@ -223,7 +349,16 @@
       "views": 845,
       "youtubeLink": "https://www.youtube.com/watch?v=5aykEdCPDtQ",
       "year": 95,
-      "question": null,
+      "question": {
+        "questionText": "When Jason failed to pay his bill, the network company ______ his Internet connection.",
+        "options": {
+          "A": "cut off",
+          "B": "cut back",
+          "C": "cut short",
+          "D": "cut down"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 196
     }
   ]

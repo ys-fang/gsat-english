@@ -21,7 +21,7 @@
           "C": "preferably",
           "D": "considerably"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 705
     },
@@ -45,7 +45,7 @@
           "C": "discounted",
           "D": "frustrated"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 855
     },
@@ -189,7 +189,7 @@
           "C": "reluctant",
           "D": "modest"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 864
     },

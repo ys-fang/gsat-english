@@ -13,7 +13,16 @@
       "views": 3911,
       "youtubeLink": "https://www.youtube.com/watch?v=x5eKZiXl4ZU",
       "year": 94,
-      "question": null,
+      "question": {
+        "questionText": "As computers are getting less expensive, they are _______ used in schools and offices today.",
+        "options": {
+          "A": "widely",
+          "B": "expectedly",
+          "C": "consciously",
+          "D": "influentially"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 911
     },
     {
@@ -28,7 +37,16 @@
       "views": 1523,
       "youtubeLink": "https://www.youtube.com/watch?v=J4Ti_iMCEEA",
       "year": 94,
-      "question": null,
+      "question": {
+        "questionText": "Mr. Chang always tries to answer all questions from his students. He will not _____ any of them even if they may sound stupid.",
+        "options": {
+          "A": "reform",
+          "B": "depress",
+          "C": "ignore",
+          "D": "confirm"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 383
     },
     {
@@ -43,7 +61,16 @@
       "views": 693,
       "youtubeLink": "https://www.youtube.com/watch?v=dNeralQsR50",
       "year": 94,
-      "question": null,
+      "question": {
+        "questionText": "Irene does not throw away used envelopes. She ______ them by using them for taking telephone messages.",
+        "options": {
+          "A": "designs",
+          "B": "recycles",
+          "C": "disguises",
+          "D": "manufactures"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 214
     },
     {
@@ -58,7 +85,16 @@
       "views": 1320,
       "youtubeLink": "https://www.youtube.com/watch?v=1LLXBsicewQ",
       "year": 94,
-      "question": null,
+      "question": {
+        "questionText": "Cheese, powdered milk, and yogurt are common milk ______.",
+        "options": {
+          "A": "produces",
+          "B": "products",
+          "C": "productions",
+          "D": "productivities"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 260
     },
     {
@@ -73,7 +109,16 @@
       "views": 1145,
       "youtubeLink": "https://www.youtube.com/watch?v=jGAN8PMSbu8",
       "year": 94,
-      "question": null,
+      "question": {
+        "questionText": "Although he is a chef, Roberto _____ cooks his own meals.",
+        "options": {
+          "A": "rarely",
+          "B": "bitterly",
+          "C": "naturally",
+          "D": "skillfully"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 416
     },
     {
@@ -88,7 +133,16 @@
       "views": 1021,
       "youtubeLink": "https://www.youtube.com/watch?v=VYURiIxITi0",
       "year": 94,
-      "question": null,
+      "question": {
+        "questionText": "Due to the yearly bonus system, the 100 ________ positions in this high-tech company have attracted many applicants from around the island.",
+        "options": {
+          "A": "loyal",
+          "B": "evident",
+          "C": "typical",
+          "D": "vacant"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 343
     },
     {
@@ -103,7 +157,16 @@
       "views": 1018,
       "youtubeLink": "https://www.youtube.com/watch?v=ofdz1QTprnk",
       "year": 94,
-      "question": null,
+      "question": {
+        "questionText": "If you want to borrow magazines, tapes, or CDs, you can visit the library. They are all ______ there.",
+        "options": {
+          "A": "sufficient",
+          "B": "marvelous",
+          "C": "impressive",
+          "D": "available"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 355
     },
     {
@@ -118,7 +181,16 @@
       "views": 1146,
       "youtubeLink": "https://www.youtube.com/watch?v=LHbjUlm0UpI",
       "year": 94,
-      "question": null,
+      "question": {
+        "questionText": "The fire in the fireworks factory in Changhua set off a series of powerful _________ and killed four people.",
+        "options": {
+          "A": "explosions",
+          "B": "extensions",
+          "C": "inspections",
+          "D": "impressions"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 374
     },
     {
@@ -133,7 +205,16 @@
       "views": 847,
       "youtubeLink": "https://www.youtube.com/watch?v=CGWCUn1SJZY",
       "year": 94,
-      "question": null,
+      "question": {
+        "questionText": "A good government official has to ________ the temptation of money and make the right decision.",
+        "options": {
+          "A": "consist",
+          "B": "insist",
+          "C": "resist",
+          "D": "persist"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 484
     },
     {
@@ -148,7 +229,16 @@
       "views": 911,
       "youtubeLink": "https://www.youtube.com/watch?v=7OCTfRlVWyc",
       "year": 94,
-      "question": null,
+      "question": {
+        "questionText": "The drug dealer was ________ by the police while he was selling cocaine to a high school student.",
+        "options": {
+          "A": "threatened",
+          "B": "endangered",
+          "C": "demonstrated",
+          "D": "arrested"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 494
     },
     {
@@ -163,7 +253,16 @@
       "views": 811,
       "youtubeLink": "https://www.youtube.com/watch?v=RhxedB05H8Y",
       "year": 94,
-      "question": null,
+      "question": {
+        "questionText": "The rise of oil prices made scientists search for new energy resources to ______ oil.",
+        "options": {
+          "A": "apply",
+          "B": "replace",
+          "C": "inform",
+          "D": "persuade"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 324
     },
     {
@@ -178,7 +277,16 @@
       "views": 749,
       "youtubeLink": "https://www.youtube.com/watch?v=mHD7Cmh2MQY",
       "year": 94,
-      "question": null,
+      "question": {
+        "questionText": "Without much contact with the outside world for many years, John found many technological inventions _____ to him.",
+        "options": {
+          "A": "natural",
+          "B": "common",
+          "C": "foreign",
+          "D": "objective"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 326
     },
     {
@@ -193,7 +301,16 @@
       "views": 956,
       "youtubeLink": "https://www.youtube.com/watch?v=gdp7_BlHr7I",
       "year": 94,
-      "question": null,
+      "question": {
+        "questionText": "The medicine you take for a cold may cause _____; try not to drive after you take it.",
+        "options": {
+          "A": "incident",
+          "B": "violence",
+          "C": "bacteria",
+          "D": "drowsiness"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 391
     },
     {
@@ -208,7 +325,16 @@
       "views": 834,
       "youtubeLink": "https://www.youtube.com/watch?v=294CKsA_dM4",
       "year": 94,
-      "question": null,
+      "question": {
+        "questionText": "To gain more ______, some legislators would get into violent physical fights so that they may appear in TV news reports.",
+        "options": {
+          "A": "publicity",
+          "B": "reputation",
+          "C": "significance",
+          "D": "communication"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 405
     }
   ]

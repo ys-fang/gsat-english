@@ -21,7 +21,7 @@
           "C": "diligent",
           "D": "routine"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 956
     },
@@ -45,7 +45,7 @@
           "C": "amateur",
           "D": "elementary"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 775
     },
@@ -69,7 +69,7 @@
           "C": "expectation",
           "D": "inspiration"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 701
     },
@@ -93,7 +93,7 @@
           "C": "alternatively",
           "D": "fundamentally"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 799
     },
@@ -117,7 +117,7 @@
           "C": "provision",
           "D": "consumption"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 979
     },
@@ -141,7 +141,7 @@
           "C": "wanders",
           "D": "escapes"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 769
     },
@@ -165,7 +165,7 @@
           "C": "passion",
           "D": "emphasis"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 1053
     },
@@ -189,7 +189,7 @@
           "C": "overturned",
           "D": "condemned"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 905
     },
@@ -213,7 +213,7 @@
           "C": "elbow",
           "D": "struggle"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 762
     },
@@ -237,7 +237,7 @@
           "C": "harsh",
           "D": "grave"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 1195
     }

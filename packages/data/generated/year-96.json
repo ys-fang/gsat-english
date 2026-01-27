@@ -13,7 +13,16 @@
       "views": 3065,
       "youtubeLink": "https://www.youtube.com/watch?v=Y5jCAecMcQg",
       "year": 96,
-      "question": null,
+      "question": {
+        "questionText": "The movie director adapted this year's bestseller into a hit and made a ______.",
+        "options": {
+          "A": "fortune",
+          "B": "request",
+          "C": "companion",
+          "D": "decision"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 638
     },
     {
@@ -28,7 +37,16 @@
       "views": 1331,
       "youtubeLink": "https://www.youtube.com/watch?v=PpJct9to-yY",
       "year": 96,
-      "question": null,
+      "question": {
+        "questionText": "Wang Chien-ming, the Yankees' best pitcher last year, already showed his great ______ for baseball when he was still a teenager.",
+        "options": {
+          "A": "response",
+          "B": "reluctance",
+          "C": "permission",
+          "D": "potential"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 388
     },
     {
@@ -43,7 +61,16 @@
       "views": 1092,
       "youtubeLink": "https://www.youtube.com/watch?v=16UNAiqQ8BI",
       "year": 96,
-      "question": null,
+      "question": {
+        "questionText": "Although Jeffery had to keep two part-time jobs to support his family, he never ______ his studies. In fact, he graduated with honors.",
+        "options": {
+          "A": "neglected",
+          "B": "segmented",
+          "C": "financed",
+          "D": "diminished"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 379
     },
     {
@@ -58,7 +85,16 @@
       "views": 982,
       "youtubeLink": "https://www.youtube.com/watch?v=z-Ifb19tcoE",
       "year": 96,
-      "question": null,
+      "question": {
+        "questionText": "If it is too cold in this room, you can ______ the air conditioner to make yourself feel comfortable.",
+        "options": {
+          "A": "fasten",
+          "B": "adjust",
+          "C": "defeat",
+          "D": "upload"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 227
     },
     {
@@ -73,7 +109,16 @@
       "views": 1120,
       "youtubeLink": "https://www.youtube.com/watch?v=sJTUJdg-Deg",
       "year": 96,
-      "question": null,
+      "question": {
+        "questionText": "This course will provide students with a solid ______ for research. It is highly recommended for those who plan to go to graduate school.",
+        "options": {
+          "A": "admission",
+          "B": "circulation",
+          "C": "foundation",
+          "D": "extension"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 602
     },
     {
@@ -88,7 +133,16 @@
       "views": 916,
       "youtubeLink": "https://www.youtube.com/watch?v=qBv4H0TM9go",
       "year": 96,
-      "question": null,
+      "question": {
+        "questionText": "Peter is now living on a ______ of NT$100 per day. He cannot afford any recreational activities.",
+        "options": {
+          "A": "division",
+          "B": "guidance",
+          "C": "measure",
+          "D": "budget"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 294
     },
     {
@@ -103,7 +157,16 @@
       "views": 943,
       "youtubeLink": "https://www.youtube.com/watch?v=HMj8RydVu-E",
       "year": 96,
-      "question": null,
+      "question": {
+        "questionText": "Amy succeeded in ______ for a raise though her boss didn't agree to increase her salary at first.",
+        "options": {
+          "A": "compensating",
+          "B": "negotiating",
+          "C": "substituting",
+          "D": "advertising"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 400
     },
     {
@@ -118,7 +181,16 @@
       "views": 868,
       "youtubeLink": "https://www.youtube.com/watch?v=t8e0vhULCw8",
       "year": 96,
-      "question": null,
+      "question": {
+        "questionText": "Ms. Li's business ______ very quickly. She opened her first store two years ago; now she has fifty stores all over the country.",
+        "options": {
+          "A": "discouraged",
+          "B": "transferred",
+          "C": "stretched",
+          "D": "expanded"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 309
     },
     {
@@ -133,7 +205,16 @@
       "views": 866,
       "youtubeLink": "https://www.youtube.com/watch?v=7227bMYe0hY",
       "year": 96,
-      "question": null,
+      "question": {
+        "questionText": "Ruth is a very ______ person. She cannot take any criticism and always finds excuses to justify herself.",
+        "options": {
+          "A": "shameful",
+          "B": "innocent",
+          "C": "defensive",
+          "D": "outgoing"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 277
     },
     {
@@ -148,7 +229,16 @@
       "views": 794,
       "youtubeLink": "https://www.youtube.com/watch?v=wOTFQwlG8T0",
       "year": 96,
-      "question": null,
+      "question": {
+        "questionText": "It's a pity that you have to leave so soon. I ______ hope that you will come back very soon.",
+        "options": {
+          "A": "sincerely",
+          "B": "scarcely",
+          "C": "reliably",
+          "D": "obviously"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 306
     },
     {
@@ -163,7 +253,16 @@
       "views": 931,
       "youtubeLink": "https://www.youtube.com/watch?v=DhbiNMQGa0s",
       "year": 96,
-      "question": null,
+      "question": {
+        "questionText": "We human beings may live without clothes, but food and air are ______ to our life.",
+        "options": {
+          "A": "magnificent",
+          "B": "essential",
+          "C": "influential",
+          "D": "profitable"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 536
     },
     {
@@ -178,7 +277,16 @@
       "views": 800,
       "youtubeLink": "https://www.youtube.com/watch?v=B5RfahR6AlM",
       "year": 96,
-      "question": null,
+      "question": {
+        "questionText": "The manager ______ without hesitation after he had been offered a better job in another company.",
+        "options": {
+          "A": "retreated",
+          "B": "revived",
+          "C": "removed",
+          "D": "resigned"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 546
     },
     {
@@ -193,7 +301,16 @@
       "views": 751,
       "youtubeLink": "https://www.youtube.com/watch?v=0FpfGgfSG54",
       "year": 96,
-      "question": null,
+      "question": {
+        "questionText": "Many important legal ______ concerning the tragic incident have now been preserved in the museum.",
+        "options": {
+          "A": "distributions",
+          "B": "formations",
+          "C": "documents",
+          "D": "constructions"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 535
     },
     {
@@ -208,7 +325,16 @@
       "views": 719,
       "youtubeLink": "https://www.youtube.com/watch?v=L5HiCIorUnY",
       "year": 96,
-      "question": null,
+      "question": {
+        "questionText": "I'm not sure exactly how much scholarship you'll receive, but it will ______ cover your major expenses.",
+        "options": {
+          "A": "recently",
+          "B": "roughly",
+          "C": "frankly",
+          "D": "variously"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 519
     },
     {
@@ -223,7 +349,16 @@
       "views": 780,
       "youtubeLink": "https://www.youtube.com/watch?v=EW1X036pqHk",
       "year": 96,
-      "question": null,
+      "question": {
+        "questionText": "Tom was very ill a week ago, but now he looks healthy. We are ______ by his quick recovery.",
+        "options": {
+          "A": "amazed",
+          "B": "convinced",
+          "C": "advised",
+          "D": "confirmed"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 453
     }
   ]

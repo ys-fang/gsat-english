@@ -13,7 +13,16 @@
       "views": 6273,
       "youtubeLink": "https://www.youtube.com/watch?v=OLJahTt7aJo",
       "year": 97,
-      "question": null,
+      "question": {
+        "questionText": "Amy did not ______ changes in the course schedule and therefore missed the class.",
+        "options": {
+          "A": "arrest",
+          "B": "alarm",
+          "C": "notice",
+          "D": "delay"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 332
     },
     {
@@ -28,7 +37,16 @@
       "views": 3914,
       "youtubeLink": "https://www.youtube.com/watch?v=sFXAwtCbKMY",
       "year": 97,
-      "question": null,
+      "question": {
+        "questionText": "It is not easy for old people to ______ their backs, so they need help when their backs itch.",
+        "options": {
+          "A": "label",
+          "B": "scratch",
+          "C": "lighten",
+          "D": "squeeze"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 300
     },
     {
@@ -43,7 +61,16 @@
       "views": 2273,
       "youtubeLink": "https://www.youtube.com/watch?v=h3U1uFpO2fA",
       "year": 97,
-      "question": null,
+      "question": {
+        "questionText": "Mary is suffering from a stomachache and needs to eat food which is easy to ______.",
+        "options": {
+          "A": "launch",
+          "B": "invade",
+          "C": "adopt",
+          "D": "digest"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 398
     },
     {
@@ -58,7 +85,16 @@
       "views": 1927,
       "youtubeLink": "https://www.youtube.com/watch?v=AnaB1aSBlAU",
       "year": 97,
-      "question": null,
+      "question": {
+        "questionText": "Since our classroom is not air-conditioned, we have to ______ the heat during the hot summer days.",
+        "options": {
+          "A": "consume",
+          "B": "tolerate",
+          "C": "recover",
+          "D": "promote"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 389
     },
     {
@@ -73,7 +109,16 @@
       "views": 1786,
       "youtubeLink": "https://www.youtube.com/watch?v=XxzMPsPOUGs",
       "year": 97,
-      "question": null,
+      "question": {
+        "questionText": "Sue is so ______ that she always breaks something when she is shopping at a store.",
+        "options": {
+          "A": "religious",
+          "B": "visual",
+          "C": "clumsy",
+          "D": "intimate"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 351
     },
     {
@@ -88,7 +133,16 @@
       "views": 3063,
       "youtubeLink": "https://www.youtube.com/watch?v=NlPUXxnByEo",
       "year": 97,
-      "question": null,
+      "question": {
+        "questionText": "Ann enjoyed going to the flower market. She believed that the ______ of flowers refreshed her mind.",
+        "options": {
+          "A": "instance",
+          "B": "dominance",
+          "C": "appliance",
+          "D": "fragrance"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 453
     },
     {
@@ -103,7 +157,16 @@
       "views": 1493,
       "youtubeLink": "https://www.youtube.com/watch?v=_bDDfiVkdeM",
       "year": 97,
-      "question": null,
+      "question": {
+        "questionText": "The profits of Prince Charles's organic farm go to ______ to help the poor and the sick.",
+        "options": {
+          "A": "charities",
+          "B": "bulletins",
+          "C": "harvests",
+          "D": "rebels"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 470
     },
     {
@@ -118,7 +181,16 @@
       "views": 1482,
       "youtubeLink": "https://www.youtube.com/watch?v=7aDjDrLl_uA",
       "year": 97,
-      "question": null,
+      "question": {
+        "questionText": "Jack was given the rare ______ of using the president's office, which made others quite jealous.",
+        "options": {
+          "A": "mischief",
+          "B": "privilege",
+          "C": "involvement",
+          "D": "occupation"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 480
     },
     {
@@ -133,7 +205,16 @@
       "views": 1369,
       "youtubeLink": "https://www.youtube.com/watch?v=G-wrVu_W5_c",
       "year": 97,
-      "question": null,
+      "question": {
+        "questionText": "This new computer is obviously ______ to the old one because it has many new functions.",
+        "options": {
+          "A": "technical",
+          "B": "suitable",
+          "C": "superior",
+          "D": "typical"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 491
     },
     {
@@ -148,7 +229,16 @@
       "views": 1291,
       "youtubeLink": "https://www.youtube.com/watch?v=R3xN9CgO8Z4",
       "year": 97,
-      "question": null,
+      "question": {
+        "questionText": "Simon loves his work. To him, work always comes first, and family and friends are ______.",
+        "options": {
+          "A": "secondary",
+          "B": "temporary",
+          "C": "sociable",
+          "D": "capable"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 427
     },
     {
@@ -163,7 +253,16 @@
       "views": 1245,
       "youtubeLink": "https://www.youtube.com/watch?v=k-b1uXPZdEw",
       "year": 97,
-      "question": null,
+      "question": {
+        "questionText": "Although your plans look good, you have to be ______ and consider what you can actually do.",
+        "options": {
+          "A": "dramatic",
+          "B": "realistic",
+          "C": "stressful",
+          "D": "manageable"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 461
     },
     {
@@ -178,7 +277,16 @@
       "views": 952,
       "youtubeLink": "https://www.youtube.com/watch?v=tRXHZjP2CVQ",
       "year": 97,
-      "question": null,
+      "question": {
+        "questionText": "Built under the sea in 1994, the ______ between England and France connects the UK more closely with mainland Europe.",
+        "options": {
+          "A": "waterfall",
+          "B": "temple",
+          "C": "tunnel",
+          "D": "channel"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 337
     },
     {
@@ -193,7 +301,16 @@
       "views": 1066,
       "youtubeLink": "https://www.youtube.com/watch?v=VUhtFdmXa5g",
       "year": 97,
-      "question": null,
+      "question": {
+        "questionText": "This tour package is very appealing, and that one looks ______ attractive. I don't know which one to choose.",
+        "options": {
+          "A": "equally",
+          "B": "annually",
+          "C": "merely",
+          "D": "gratefully"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 358
     },
     {
@@ -208,7 +325,16 @@
       "views": 1246,
       "youtubeLink": "https://www.youtube.com/watch?v=lVBwu7x4FMQ",
       "year": 97,
-      "question": null,
+      "question": {
+        "questionText": "Hseu Fang-yi, a young Taiwanese dancer, recently ______ at Lincoln Center in New York and won a great deal of praise.",
+        "options": {
+          "A": "performed",
+          "B": "pretended",
+          "C": "postponed",
+          "D": "persuaded"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 463
     },
     {
@@ -223,7 +349,16 @@
       "views": 2938,
       "youtubeLink": "https://www.youtube.com/watch?v=HD9xtJoWaD8",
       "year": 97,
-      "question": null,
+      "question": {
+        "questionText": "The police searched the house of the suspect ______. They almost turned the whole house upside down.",
+        "options": {
+          "A": "relatively",
+          "B": "thoroughly",
+          "C": "casually",
+          "D": "permanently"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 385
     }
   ]

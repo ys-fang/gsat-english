@@ -21,7 +21,7 @@
           "C": "handily",
           "D": "scarcely"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 819
     },
@@ -45,7 +45,7 @@
           "C": "witness",
           "D": "client"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 587
     },
@@ -69,7 +69,7 @@
           "C": "anxiety",
           "D": "collapse"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 758
     },
@@ -93,7 +93,7 @@
           "C": "severe",
           "D": "mutual"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 1005
     },
@@ -117,7 +117,7 @@
           "C": "Immediately",
           "D": "Originally"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 530
     },
@@ -141,7 +141,7 @@
           "C": "approaches",
           "D": "incidents"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 715
     },
@@ -165,7 +165,7 @@
           "C": "sorrowful",
           "D": "realistic"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 756
     },
@@ -189,7 +189,7 @@
           "C": "routines",
           "D": "contests"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 647
     },
@@ -213,7 +213,7 @@
           "C": "tight",
           "D": "current"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 692
     },
@@ -237,7 +237,7 @@
           "C": "obtain",
           "D": "contain"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 544
     },
@@ -261,7 +261,7 @@
           "C": "hesitate",
           "D": "overthrow"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 876
     },
@@ -285,7 +285,7 @@
           "C": "objection",
           "D": "condition"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 951
     },
@@ -309,7 +309,7 @@
           "C": "accurate",
           "D": "awake"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 463
     },
@@ -333,7 +333,7 @@
           "C": "switch",
           "D": "maintain"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 935
     },
@@ -357,7 +357,7 @@
           "C": "productive",
           "D": "reluctant"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 606
     }

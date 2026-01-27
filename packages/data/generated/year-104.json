@@ -21,7 +21,7 @@
           "C": "primitive",
           "D": "flexible"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 844
     },
@@ -45,7 +45,7 @@
           "C": "reward",
           "D": "neglect"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 669
     },
@@ -69,7 +69,7 @@
           "C": "affordable",
           "D": "expressive"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 589
     },
@@ -93,7 +93,7 @@
           "C": "engagements",
           "D": "accomplishments"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 542
     },
@@ -117,7 +117,7 @@
           "C": "tendency",
           "D": "departure"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 470
     },
@@ -141,7 +141,7 @@
           "C": "loosely",
           "D": "formally"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 414
     },
@@ -165,7 +165,7 @@
           "C": "essential",
           "D": "maximum"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 712
     },
@@ -189,7 +189,7 @@
           "C": "earnest",
           "D": "urgent"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 619
     },
@@ -213,7 +213,7 @@
           "C": "labels",
           "D": "recipes"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 457
     },
@@ -237,7 +237,7 @@
           "C": "obediently",
           "D": "suspiciously"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 604
     },
@@ -261,7 +261,7 @@
           "C": "promote",
           "D": "estimate"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 614
     },
@@ -285,7 +285,7 @@
           "C": "inspired",
           "D": "conveyed"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 411
     },
@@ -309,7 +309,7 @@
           "C": "regulation",
           "D": "distribution"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 774
     },
@@ -333,7 +333,7 @@
           "C": "negotiate",
           "D": "participate"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 441
     },
@@ -357,7 +357,7 @@
           "C": "clippings",
           "D": "blockings"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 648
     }

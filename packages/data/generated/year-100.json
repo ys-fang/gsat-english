@@ -21,7 +21,7 @@
           "C": "gradually",
           "D": "obviously"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 553
     },
@@ -45,7 +45,7 @@
           "C": "loosened",
           "D": "divided"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 727
     },
@@ -69,7 +69,7 @@
           "C": "frequent",
           "D": "hostile"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 885
     },
@@ -93,7 +93,7 @@
           "C": "totally",
           "D": "directly"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 601
     },
@@ -117,7 +117,7 @@
           "C": "propose",
           "D": "cancel"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 478
     },
@@ -141,7 +141,7 @@
           "C": "candidates",
           "D": "containers"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 1002
     },
@@ -165,7 +165,7 @@
           "C": "attack",
           "D": "invade"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 417
     },
@@ -189,7 +189,7 @@
           "C": "process",
           "D": "display"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 631
     },
@@ -213,7 +213,7 @@
           "C": "solution",
           "D": "influence"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 1202
     },
@@ -237,7 +237,7 @@
           "C": "divisions",
           "D": "measures"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 692
     },
@@ -261,7 +261,7 @@
           "C": "freeze",
           "D": "cease"
         },
-        "correctAnswer": null
+        "correctAnswer": "B"
       },
       "durationSeconds": 925
     },
@@ -285,7 +285,7 @@
           "C": "modest",
           "D": "dominant"
         },
-        "correctAnswer": null
+        "correctAnswer": "D"
       },
       "durationSeconds": 860
     },
@@ -324,7 +324,7 @@
           "C": "delighted",
           "D": "intense"
         },
-        "correctAnswer": null
+        "correctAnswer": "C"
       },
       "durationSeconds": 681
     },
@@ -348,7 +348,7 @@
           "C": "promising",
           "D": "enjoyable"
         },
-        "correctAnswer": null
+        "correctAnswer": "A"
       },
       "durationSeconds": 813
     }
