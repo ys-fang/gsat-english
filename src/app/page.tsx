@@ -62,7 +62,7 @@ const learningModes = [
     title: '完整複習',
     description: '依年度順序，建立完整單字庫',
     icon: BookOpen,
-    href: '/learn/98',
+    href: `/learn/${Math.min(...summaryData.meta.years)}`,
   },
   {
     id: 'random',
@@ -100,7 +100,7 @@ export default function HomePage() {
             <span>・</span>
             <span>{meta.totalYears} 個學年度</span>
             <span>・</span>
-            <span>98-115 學年度</span>
+            <span>{meta.years[meta.years.length - 1]}-{meta.years[0]} 學年度</span>
           </div>
         </div>
       </section>
@@ -160,7 +160,7 @@ export default function HomePage() {
       {/* Footer */}
       <footer className="px-4 py-8 text-center">
         <p className="text-sm text-zinc-400 dark:text-zinc-500">
-          資料來源：臺南市立大灣高中影音教學頻道
+          資料來源：<a href="https://www.youtube.com/@dwhsvideo" target="_blank" rel="noopener noreferrer" className="underline hover:text-zinc-600 dark:hover:text-zinc-300">臺南市立大灣高中影音教學頻道</a>
         </p>
       </footer>
     </div>

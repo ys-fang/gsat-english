@@ -55,14 +55,14 @@
       "videoIndex": 3,
       "youtubeId": "8e4asUkELMA",
       "videoTitle": "113 大學學測 - 文意字彙 03",
-      "description": "Do you know what time the next bus is ______? I’ve been waiting here for more than 30 minutes. (A) apt (B) due (C) bound (D) docked",
+      "description": "Do you know what time the next bus is ______? I've been waiting here for more than 30 minutes. (A) apt (B) due (C) bound (D) docked",
       "duration": "5:05",
       "createdAt": "2025-09-21T09:09:38Z",
       "views": 187,
       "youtubeLink": "https://www.youtube.com/watch?v=8e4asUkELMA",
       "year": 113,
       "question": {
-        "questionText": "Do you know what time the next bus is ______? I’ve been waiting here for more than 30 minutes.",
+        "questionText": "Do you know what time the next bus is ______? I've been waiting here for more than 30 minutes.",
         "options": {
           "A": "apt",
           "B": "due",
