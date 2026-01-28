@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Image from 'next/image'
 import fs from 'fs'
 import path from 'path'
 import { BookOpen, Target, Shuffle, Zap } from 'lucide-react'
@@ -87,20 +88,32 @@ export default function HomePage() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-zinc-50 to-white dark:from-zinc-950 dark:to-zinc-900">
       {/* Hero Section */}
-      <section className="px-4 pt-12 pb-8 sm:pt-20 sm:pb-12">
+      <section className="px-4 pt-10 pb-8 sm:pt-16 sm:pb-12">
         <div className="mx-auto max-w-2xl text-center">
+          <div className="mb-4 flex items-center justify-center gap-2">
+            <Image
+              src="/images/jutor-logo.png"
+              alt="Jutor"
+              width={32}
+              height={32}
+              className="rounded"
+            />
+            <span className="text-sm font-medium text-zinc-400 dark:text-zinc-500">
+              Jutor
+            </span>
+          </div>
           <h1 className="text-3xl font-bold tracking-tight text-zinc-900 dark:text-white sm:text-4xl">
-            LearnGASAT
+            學測英文・沈浸式練習
           </h1>
-          <p className="mt-2 text-lg text-zinc-600 dark:text-zinc-400">
-            學測英文文意字彙・沈浸式學習
+          <p className="mt-3 text-base text-zinc-500 dark:text-zinc-400 sm:text-lg">
+            看影片、學單字、練文意選填，一站搞定歷屆題目
           </p>
-          <div className="mt-6 flex justify-center gap-4 text-sm text-zinc-500 dark:text-zinc-400">
+          <div className="mt-5 flex justify-center gap-3 text-sm text-zinc-400 dark:text-zinc-500">
             <span>{meta.totalVideos} 部影片</span>
-            <span>・</span>
-            <span>{meta.totalYears} 個學年度</span>
-            <span>・</span>
-            <span>{meta.years[meta.years.length - 1]}-{meta.years[0]} 學年度</span>
+            <span className="text-zinc-300 dark:text-zinc-600">|</span>
+            <span>{meta.totalYears} 個年度</span>
+            <span className="text-zinc-300 dark:text-zinc-600">|</span>
+            <span>{meta.years[meta.years.length - 1]}–{meta.years[0]} 學年度</span>
           </div>
         </div>
       </section>

@@ -9,9 +9,9 @@ const notoSansTC = Noto_Sans_TC({
 });
 
 export const metadata: Metadata = {
-  title: "LearnGASAT - 學測英文沈浸式學習",
-  description: "臺南市立大灣高中影音教學頻道 - 學測英文文意字彙沈浸式學習平台",
-  keywords: ["學測", "英文", "文意字彙", "大灣高中", "學習"],
+  title: "Jutor 學測英文・沈浸式練習",
+  description: "看影片、學單字、練文意選填，一站搞定歷屆學測英文題目",
+  keywords: ["學測", "英文", "文意字彙", "沈浸式學習", "Jutor"],
 };
 
 export const viewport: Viewport = {
