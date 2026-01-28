@@ -13,7 +13,16 @@
       "views": 470,
       "youtubeLink": "https://www.youtube.com/watch?v=xdfBX1bYSUY",
       "year": 113,
-      "question": null,
+      "question": {
+        "questionText": "People who desire a ______ figure should exercise regularly and maintain healthy eating habits.",
+        "options": {
+          "A": "spicy",
+          "B": "slender",
+          "C": "slight",
+          "D": "slippery"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 487
     },
     {

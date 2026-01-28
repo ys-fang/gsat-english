@@ -45,7 +45,7 @@
           "C": "strike",
           "D": "quest"
         },
-        "correctAnswer": "A"
+        "correctAnswer": "D"
       },
       "durationSeconds": 495
     },
@@ -69,7 +69,7 @@
           "C": "promising",
           "D": "eventual"
         },
-        "correctAnswer": "C"
+        "correctAnswer": "D"
       },
       "durationSeconds": 379
     },
@@ -93,7 +93,7 @@
           "C": "available",
           "D": "remarkable"
         },
-        "correctAnswer": "A"
+        "correctAnswer": "B"
       },
       "durationSeconds": 1008
     },
@@ -117,7 +117,7 @@
           "C": "agreeable",
           "D": "ultimate"
         },
-        "correctAnswer": "A"
+        "correctAnswer": "C"
       },
       "durationSeconds": 539
     },
@@ -141,7 +141,7 @@
           "C": "Rolling",
           "D": "Snapping"
         },
-        "correctAnswer": "C"
+        "correctAnswer": "A"
       },
       "durationSeconds": 662
     },
@@ -165,7 +165,7 @@
           "C": "ambiguously",
           "D": "optionally"
         },
-        "correctAnswer": "B"
+        "correctAnswer": "A"
       },
       "durationSeconds": 537
     },
@@ -189,7 +189,7 @@
           "C": "puppet",
           "D": "variety"
         },
-        "correctAnswer": "D"
+        "correctAnswer": "C"
       },
       "durationSeconds": 625
     },
@@ -213,7 +213,7 @@
           "C": "contribution",
           "D": "politician"
         },
-        "correctAnswer": "D"
+        "correctAnswer": "A"
       },
       "durationSeconds": 753
     },

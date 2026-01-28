@@ -21,7 +21,7 @@
           "C": "transported",
           "D": "corresponded"
         },
-        "correctAnswer": "C"
+        "correctAnswer": "B"
       },
       "durationSeconds": 642
     },
@@ -117,7 +117,7 @@
           "C": "circulating",
           "D": "exceeding"
         },
-        "correctAnswer": "D"
+        "correctAnswer": "B"
       },
       "durationSeconds": 1064
     },
@@ -141,7 +141,7 @@
           "C": "jointly",
           "D": "naturally"
         },
-        "correctAnswer": "D"
+        "correctAnswer": "C"
       },
       "durationSeconds": 543
     },
@@ -165,7 +165,7 @@
           "C": "zones",
           "D": "proofs"
         },
-        "correctAnswer": "B"
+        "correctAnswer": "A"
       },
       "durationSeconds": 986
     },
@@ -213,7 +213,7 @@
           "C": "adjustment",
           "D": "explanation"
         },
-        "correctAnswer": "A"
+        "correctAnswer": "B"
       },
       "durationSeconds": 828
     },
@@ -237,7 +237,7 @@
           "C": "conventional",
           "D": "revolutionary"
         },
-        "correctAnswer": "C"
+        "correctAnswer": "D"
       },
       "durationSeconds": 888
     },
@@ -261,7 +261,7 @@
           "C": "segment",
           "D": "parachute"
         },
-        "correctAnswer": "B"
+        "correctAnswer": "D"
       },
       "durationSeconds": 636
     },
@@ -285,7 +285,7 @@
           "C": "tease",
           "D": "oppose"
         },
-        "correctAnswer": "A"
+        "correctAnswer": "C"
       },
       "durationSeconds": 548
     },
@@ -333,7 +333,7 @@
           "C": "logically",
           "D": "thoroughly"
         },
-        "correctAnswer": "C"
+        "correctAnswer": "A"
       },
       "durationSeconds": 504
     },
@@ -357,7 +357,7 @@
           "C": "escalator",
           "D": "instrument"
         },
-        "correctAnswer": "B"
+        "correctAnswer": "C"
       },
       "durationSeconds": 709
     }

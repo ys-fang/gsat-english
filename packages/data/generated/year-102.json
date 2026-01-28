@@ -21,7 +21,7 @@
           "C": "preferably",
           "D": "considerably"
         },
-        "correctAnswer": "B"
+        "correctAnswer": "C"
       },
       "durationSeconds": 705
     },
@@ -45,7 +45,7 @@
           "C": "discounted",
           "D": "frustrated"
         },
-        "correctAnswer": "C"
+        "correctAnswer": "D"
       },
       "durationSeconds": 855
     },
@@ -61,7 +61,16 @@
       "views": 60,
       "youtubeLink": "https://www.youtube.com/watch?v=nbPdVZY6Y4I",
       "year": 102,
-      "question": null,
+      "question": {
+        "questionText": "The kingdom began to ______ after the death of its ruler, and was soon taken over by a neighboring country.",
+        "options": {
+          "A": "collapse",
+          "B": "dismiss",
+          "C": "rebel",
+          "D": "withdraw"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 861
     },
     {
@@ -76,7 +85,16 @@
       "views": 35,
       "youtubeLink": "https://www.youtube.com/watch?v=wrLqB5Wvnmw",
       "year": 102,
-      "question": null,
+      "question": {
+        "questionText": "Getting a flu shot before the start of flu season gives our body a chance to build up protection against the ______ that could make us sick.",
+        "options": {
+          "A": "poison",
+          "B": "misery",
+          "C": "leak",
+          "D": "virus"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 621
     },
     {
@@ -91,7 +109,16 @@
       "views": 45,
       "youtubeLink": "https://www.youtube.com/watch?v=gxYYv3QXCOk",
       "year": 102,
-      "question": null,
+      "question": {
+        "questionText": "After working in front of my computer for the entire day, my neck and shoulders got so ______ that I couldn't even turn my head.",
+        "options": {
+          "A": "dense",
+          "B": "harsh",
+          "C": "stiff",
+          "D": "concrete"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 466
     },
     {
@@ -106,7 +133,16 @@
       "views": 38,
       "youtubeLink": "https://www.youtube.com/watch?v=72xqsPU5igc",
       "year": 102,
-      "question": null,
+      "question": {
+        "questionText": "The book is not only informative but also ______, making me laugh and feel relaxed while reading it.",
+        "options": {
+          "A": "understanding",
+          "B": "entertaining",
+          "C": "infecting",
+          "D": "annoying"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 744
     },
     {
@@ -121,7 +157,16 @@
       "views": 75,
       "youtubeLink": "https://www.youtube.com/watch?v=HGBqMIWIPYk",
       "year": 102,
-      "question": null,
+      "question": {
+        "questionText": "Women's fashions are ______ changing: One season they may favor pantsuits, but the next season they may prefer miniskirts.",
+        "options": {
+          "A": "lately",
+          "B": "shortly",
+          "C": "relatively",
+          "D": "constantly"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 869
     },
     {
@@ -136,7 +181,16 @@
       "views": 21,
       "youtubeLink": "https://www.youtube.com/watch?v=dhW7E0sx4hI",
       "year": 102,
-      "question": null,
+      "question": {
+        "questionText": "Standing on the seashore, we saw a ______ of seagulls flying over the ocean before they glided down and settled on the water.",
+        "options": {
+          "A": "pack",
+          "B": "flock",
+          "C": "herd",
+          "D": "school"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 535
     },
     {
@@ -151,7 +205,16 @@
       "views": 33,
       "youtubeLink": "https://www.youtube.com/watch?v=zHy6TRbynjI",
       "year": 102,
-      "question": null,
+      "question": {
+        "questionText": "John's part-time experience at the cafeteria is good ______ for running his own restaurant.",
+        "options": {
+          "A": "preparation",
+          "B": "recognition",
+          "C": "formation",
+          "D": "calculation"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 892
     },
     {
@@ -166,7 +229,16 @@
       "views": 37,
       "youtubeLink": "https://www.youtube.com/watch?v=pkDzBoA0XdQ",
       "year": 102,
-      "question": null,
+      "question": {
+        "questionText": "The bank tries its best to attract more customers. Its staff members are always available to provide ______ service.",
+        "options": {
+          "A": "singular",
+          "B": "prompt",
+          "C": "expensive",
+          "D": "probable"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 1020
     },
     {
@@ -205,7 +277,16 @@
       "views": 52,
       "youtubeLink": "https://www.youtube.com/watch?v=E2yH4nub-x8",
       "year": 102,
-      "question": null,
+      "question": {
+        "questionText": "Since I do not fully understand your proposal, I am not in the position to make any ______ on it.",
+        "options": {
+          "A": "difference",
+          "B": "solution",
+          "C": "demand",
+          "D": "comment"
+        },
+        "correctAnswer": "D"
+      },
       "durationSeconds": 851
     },
     {
@@ -220,7 +301,16 @@
       "views": 75,
       "youtubeLink": "https://www.youtube.com/watch?v=H7DGxstlSew",
       "year": 102,
-      "question": null,
+      "question": {
+        "questionText": "Having saved enough money, Joy ______ two trips for this summer vacation, one to France and the other to Australia.",
+        "options": {
+          "A": "booked",
+          "B": "observed",
+          "C": "enclosed",
+          "D": "deposited"
+        },
+        "correctAnswer": "A"
+      },
       "durationSeconds": 900
     },
     {
@@ -235,7 +325,16 @@
       "views": 109,
       "youtubeLink": "https://www.youtube.com/watch?v=g1VufzxQzEU",
       "year": 102,
-      "question": null,
+      "question": {
+        "questionText": "It rained so hard yesterday that the baseball game had to be ______ until next Saturday.",
+        "options": {
+          "A": "surrendered",
+          "B": "postponed",
+          "C": "abandoned",
+          "D": "opposed"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 705
     },
     {
@@ -250,7 +349,16 @@
       "views": 71,
       "youtubeLink": "https://www.youtube.com/watch?v=Ta7wplu4W4k",
       "year": 102,
-      "question": null,
+      "question": {
+        "questionText": "As more people rely on the Internet for information, it has ______ newspapers as the most important source of news.",
+        "options": {
+          "A": "distributed",
+          "B": "subtracted",
+          "C": "replaced",
+          "D": "transferred"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 966
     }
   ]

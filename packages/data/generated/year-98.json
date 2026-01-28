@@ -349,7 +349,16 @@
       "views": 67,
       "youtubeLink": "https://www.youtube.com/watch?v=13b_6_daGT0",
       "year": 98,
-      "question": null,
+      "question": {
+        "questionText": "Besides lung cancer, another ______ of smoking is wrinkles, a premature sign of aging.",
+        "options": {
+          "A": "blessing",
+          "B": "campaign",
+          "C": "consequence",
+          "D": "breakthrough"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 958
     }
   ]

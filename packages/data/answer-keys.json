@@ -406,7 +406,7 @@
       }
     },
     "114": {
-      "vocabRange": [1, 15],
+      "vocabRange": [1, 10],
       "answers": {
         "1": "C",
         "2": "A",
@@ -417,12 +417,7 @@
         "7": "D",
         "8": "A",
         "9": "B",
-        "10": "A",
-        "11": "B",
-        "12": "B",
-        "13": "A",
-        "14": "C",
-        "15": "D"
+        "10": "A"
       }
     },
     "115": {
@@ -1223,6 +1218,138 @@
           "C": "circular",
           "D": "magnificent"
         }
+      }
+    },
+    "98": {
+      "15": {
+        "questionText": "Besides lung cancer, another ______ of smoking is wrinkles, a premature sign of aging.",
+        "options": { "A": "blessing", "B": "campaign", "C": "consequence", "D": "breakthrough" }
+      }
+    },
+    "100": {
+      "13": {
+        "questionText": "When I open a book, I look first at the table of ______ to get a general idea of the book and to see which chapters I might be interested in reading.",
+        "options": { "A": "contracts", "B": "contents", "C": "contests", "D": "contacts" }
+      }
+    },
+    "102": {
+      "1": {
+        "questionText": "It rained so hard yesterday that the baseball game had to be ______ until next Saturday.",
+        "options": { "A": "surrendered", "B": "postponed", "C": "abandoned", "D": "opposed" }
+      },
+      "2": {
+        "questionText": "As more people rely on the Internet for information, it has ______ newspapers as the most important source of news.",
+        "options": { "A": "distributed", "B": "subtracted", "C": "replaced", "D": "transferred" }
+      },
+      "3": {
+        "questionText": "Having saved enough money, Joy ______ two trips for this summer vacation, one to France and the other to Australia.",
+        "options": { "A": "booked", "B": "observed", "C": "enclosed", "D": "deposited" }
+      },
+      "4": {
+        "questionText": "Since I do not fully understand your proposal, I am not in the position to make any ______ on it.",
+        "options": { "A": "difference", "B": "solution", "C": "demand", "D": "comment" }
+      },
+      "5": {
+        "questionText": "Betty was ______ to accept her friend's suggestion because she thought she could come up with a better idea herself.",
+        "options": { "A": "tolerable", "B": "sensitive", "C": "reluctant", "D": "modest" }
+      },
+      "6": {
+        "questionText": "The bank tries its best to attract more customers. Its staff members are always available to provide ______ service.",
+        "options": { "A": "singular", "B": "prompt", "C": "expensive", "D": "probable" }
+      },
+      "7": {
+        "questionText": "John's part-time experience at the cafeteria is good ______ for running his own restaurant.",
+        "options": { "A": "preparation", "B": "recognition", "C": "formation", "D": "calculation" }
+      },
+      "8": {
+        "questionText": "Women's fashions are ______ changing: One season they may favor pantsuits, but the next season they may prefer miniskirts.",
+        "options": { "A": "lately", "B": "shortly", "C": "relatively", "D": "constantly" }
+      },
+      "9": {
+        "questionText": "Standing on the seashore, we saw a ______ of seagulls flying over the ocean before they glided down and settled on the water.",
+        "options": { "A": "pack", "B": "flock", "C": "herd", "D": "school" }
+      },
+      "10": {
+        "questionText": "The book is not only informative but also ______, making me laugh and feel relaxed while reading it.",
+        "options": { "A": "understanding", "B": "entertaining", "C": "infecting", "D": "annoying" }
+      },
+      "11": {
+        "questionText": "After working in front of my computer for the entire day, my neck and shoulders got so ______ that I couldn't even turn my head.",
+        "options": { "A": "dense", "B": "harsh", "C": "stiff", "D": "concrete" }
+      },
+      "12": {
+        "questionText": "Getting a flu shot before the start of flu season gives our body a chance to build up protection against the ______ that could make us sick.",
+        "options": { "A": "poison", "B": "misery", "C": "leak", "D": "virus" }
+      },
+      "13": {
+        "questionText": "The kingdom began to ______ after the death of its ruler, and was soon taken over by a neighboring country.",
+        "options": { "A": "collapse", "B": "dismiss", "C": "rebel", "D": "withdraw" }
+      },
+      "14": {
+        "questionText": "Though Kevin failed in last year's singing contest, he did not feel ______. This year he practiced day and night and finally won first place in the competition.",
+        "options": { "A": "relieved", "B": "suspected", "C": "discounted", "D": "frustrated" }
+      },
+      "15": {
+        "questionText": "Emma and Joe are looking for a live-in babysitter for their three-year-old twins, ______ one who knows how to cook.",
+        "options": { "A": "initially", "B": "apparently", "C": "preferably", "D": "considerably" }
+      }
+    },
+    "103": {
+      "11": {
+        "questionText": "Kevin had been standing on a ladder trying to reach for a book on the top shelf when he lost his ______ and fell to the ground.",
+        "options": { "A": "volume", "B": "weight", "C": "balance", "D": "direction" }
+      },
+      "12": {
+        "questionText": "If student enrollment continues to drop, some programs at the university may be ______ to reduce the operation costs.",
+        "options": { "A": "relieved", "B": "eliminated", "C": "projected", "D": "accounted" }
+      }
+    },
+    "113": {
+      "1": {
+        "questionText": "People who desire a ______ figure should exercise regularly and maintain healthy eating habits.",
+        "options": { "A": "spicy", "B": "slender", "C": "slight", "D": "slippery" }
+      }
+    },
+    "114": {
+      "1": {
+        "questionText": "If you put a ______ under a leaking faucet, you will be surprised at the amount of water collected in 24 hours.",
+        "options": { "A": "border", "B": "timer", "C": "container", "D": "marker" }
+      },
+      "2": {
+        "questionText": "The local farmers' market is popular as it offers a variety of fresh seasonal ______ to people in the community.",
+        "options": { "A": "produce", "B": "fashion", "C": "brand", "D": "trend" }
+      },
+      "3": {
+        "questionText": "As the years have passed by, many of my childhood memories are already ______; I can no longer recall clearly what happened back then.",
+        "options": { "A": "blurring", "B": "trimming", "C": "draining", "D": "glaring" }
+      },
+      "4": {
+        "questionText": "Racist remarks are by nature ______ and hurtful, and should be avoided on all occasions.",
+        "options": { "A": "excessive", "B": "furious", "C": "offensive", "D": "stubborn" }
+      },
+      "5": {
+        "questionText": "Not satisfied with the first ______ of her essay, Mary revised it several times before turning it in to the teacher.",
+        "options": { "A": "text", "B": "brush", "C": "draft", "D": "plot" }
+      },
+      "6": {
+        "questionText": "Left ______ for years, the deserted house was filled with a thick coating of dust and a smell of old damp wood.",
+        "options": { "A": "casual", "B": "fragile", "C": "remote", "D": "vacant" }
+      },
+      "7": {
+        "questionText": "The high school student showed ______ courage when she helped the old man escape from the fire.",
+        "options": { "A": "gigantic", "B": "exclusive", "C": "multiple", "D": "enormous" }
+      },
+      "8": {
+        "questionText": "Publicly financed projects are often ______ or delayed during tough economic times due to a lack of resources.",
+        "options": { "A": "halted", "B": "hatched", "C": "possessed", "D": "reinforced" }
+      },
+      "9": {
+        "questionText": "Despite his busy schedule, the President ______ the school's graduation ceremony with his presence and a heartwarming speech.",
+        "options": { "A": "praised", "B": "graced", "C": "addressed", "D": "credited" }
+      },
+      "10": {
+        "questionText": "The manager of the company was sued for ______ abusing his colleagues, calling them \"hopeless losers.\"",
+        "options": { "A": "verbally", "B": "dominantly", "C": "legitimately", "D": "relevantly" }
       }
     }
   }

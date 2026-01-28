@@ -69,7 +69,7 @@
           "C": "primitive",
           "D": "courteous"
         },
-        "correctAnswer": "A"
+        "correctAnswer": "C"
       },
       "durationSeconds": 887
     },
@@ -85,7 +85,16 @@
       "views": 54,
       "youtubeLink": "https://www.youtube.com/watch?v=aPcE_v8yQvA",
       "year": 103,
-      "question": null,
+      "question": {
+        "questionText": "If student enrollment continues to drop, some programs at the university may be ______ to reduce the operation costs.",
+        "options": {
+          "A": "relieved",
+          "B": "eliminated",
+          "C": "projected",
+          "D": "accounted"
+        },
+        "correctAnswer": "B"
+      },
       "durationSeconds": 1241
     },
     {
@@ -100,7 +109,16 @@
       "views": 45,
       "youtubeLink": "https://www.youtube.com/watch?v=05_w5CI4dvo",
       "year": 103,
-      "question": null,
+      "question": {
+        "questionText": "Kevin had been standing on a ladder trying to reach for a book on the top shelf when he lost his ______ and fell to the ground.",
+        "options": {
+          "A": "volume",
+          "B": "weight",
+          "C": "balance",
+          "D": "direction"
+        },
+        "correctAnswer": "C"
+      },
       "durationSeconds": 903
     },
     {
@@ -147,7 +165,7 @@
           "C": "foundation",
           "D": "guarantee"
         },
-        "correctAnswer": "C"
+        "correctAnswer": "B"
       },
       "durationSeconds": 649
     },
@@ -195,7 +213,7 @@
           "C": "display",
           "D": "target"
         },
-        "correctAnswer": "B"
+        "correctAnswer": "C"
       },
       "durationSeconds": 699
     },
@@ -267,7 +285,7 @@
           "C": "broaden",
           "D": "loosen"
         },
-        "correctAnswer": "B"
+        "correctAnswer": "D"
       },
       "durationSeconds": 854
     },
@@ -291,7 +309,7 @@
           "C": "literarily",
           "D": "commercially"
         },
-        "correctAnswer": "C"
+        "correctAnswer": "A"
       },
       "durationSeconds": 612
     },

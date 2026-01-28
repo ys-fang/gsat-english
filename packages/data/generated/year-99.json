@@ -21,7 +21,7 @@
           "C": "handily",
           "D": "scarcely"
         },
-        "correctAnswer": "C"
+        "correctAnswer": "D"
       },
       "durationSeconds": 819
     },
@@ -45,7 +45,7 @@
           "C": "witness",
           "D": "client"
         },
-        "correctAnswer": "B"
+        "correctAnswer": "C"
       },
       "durationSeconds": 587
     },
@@ -69,7 +69,7 @@
           "C": "anxiety",
           "D": "collapse"
         },
-        "correctAnswer": "D"
+        "correctAnswer": "A"
       },
       "durationSeconds": 758
     },
@@ -93,7 +93,7 @@
           "C": "severe",
           "D": "mutual"
         },
-        "correctAnswer": "A"
+        "correctAnswer": "C"
       },
       "durationSeconds": 1005
     },
@@ -117,7 +117,7 @@
           "C": "Immediately",
           "D": "Originally"
         },
-        "correctAnswer": "A"
+        "correctAnswer": "B"
       },
       "durationSeconds": 530
     },
@@ -165,7 +165,7 @@
           "C": "sorrowful",
           "D": "realistic"
         },
-        "correctAnswer": "C"
+        "correctAnswer": "A"
       },
       "durationSeconds": 756
     },
@@ -213,7 +213,7 @@
           "C": "tight",
           "D": "current"
         },
-        "correctAnswer": "A"
+        "correctAnswer": "C"
       },
       "durationSeconds": 692
     },
@@ -261,7 +261,7 @@
           "C": "hesitate",
           "D": "overthrow"
         },
-        "correctAnswer": "B"
+        "correctAnswer": "A"
       },
       "durationSeconds": 876
     },
@@ -285,7 +285,7 @@
           "C": "objection",
           "D": "condition"
         },
-        "correctAnswer": "C"
+        "correctAnswer": "A"
       },
       "durationSeconds": 951
     },
@@ -309,7 +309,7 @@
           "C": "accurate",
           "D": "awake"
         },
-        "correctAnswer": "A"
+        "correctAnswer": "D"
       },
       "durationSeconds": 463
     },
@@ -333,7 +333,7 @@
           "C": "switch",
           "D": "maintain"
         },
-        "correctAnswer": "C"
+        "correctAnswer": "B"
       },
       "durationSeconds": 935
     },
@@ -357,7 +357,7 @@
           "C": "productive",
           "D": "reluctant"
         },
-        "correctAnswer": "D"
+        "correctAnswer": "C"
       },
       "durationSeconds": 606
     }

@@ -200,8 +200,11 @@ function injectAnswerKeys(
       // 只處理「文意字彙」播放清單（跳過「文意選填」）
       if (video.playlistTitle.includes('文意選填')) continue
 
-      // videoIndex = exam question number for vocab playlists
-      const qNum = String(video.videoIndex)
+      // 從影片描述或標題提取實際題號（videoIndex 不一定等於題號）
+      const descMatch = video.description.match(/^(\d+)\./)
+      const titleMatch = video.videoTitle.match(/(?:字彙|選擇)\s*(\d+)/)
+      const rawQNum = descMatch?.[1] ?? titleMatch?.[1] ?? String(video.videoIndex)
+      const qNum = String(Number(rawQNum)) // 去除前導零，例如 "01" → "1"
       const correctAnswer = answerKey.answers[qNum]
 
       if (!correctAnswer) continue
