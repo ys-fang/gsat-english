@@ -34,6 +34,8 @@ jobs:
 
       - name: Build
         run: pnpm build
+        env:
+          GITHUB_PAGES: "true"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
