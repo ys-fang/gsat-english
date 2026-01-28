@@ -1,10 +1,11 @@
 {
   "meta": {
-    "generatedAt": "2026-01-28T03:44:24.862Z",
-    "totalVideos": 315,
-    "totalYears": 22,
+    "generatedAt": "2026-01-28T04:06:44.942Z",
+    "totalVideos": 325,
+    "totalYears": 23,
     "years": [
       115,
+      114,
       113,
       112,
       111,
@@ -35,6 +36,13 @@
       "year": 115,
       "videoCount": 10,
       "totalDuration": 8894
+    },
+    {
+      "id": "PLghphBwmB_45FBI83_AT_xhjxoACXVQQM",
+      "title": "114 學年度大學學測 - 英文文意字彙",
+      "year": 114,
+      "videoCount": 10,
+      "totalDuration": 7017
     },
     {
       "id": "PL9EijNLnb2m7A9OH0MaAGWrg5EZjLC97Y",
