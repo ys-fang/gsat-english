@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generatedAt": "2026-01-28T04:06:44.942Z",
-    "totalVideos": 325,
+    "generatedAt": "2026-01-28T04:10:48.894Z",
+    "totalVideos": 319,
     "totalYears": 23,
     "years": [
       115,
@@ -83,15 +83,8 @@
       "id": "PL9EijNLnb2m45zc_g8Hsym97u2am0evny",
       "title": "108 大學學測文意字彙講解",
       "year": 108,
-      "videoCount": 16,
-      "totalDuration": 5806
-    },
-    {
-      "id": "PL9EijNLnb2m5Dzo_qUtnOEHC_-db0M4j9",
-      "title": "107 大學學測文意選填",
-      "year": 107,
-      "videoCount": 5,
-      "totalDuration": 3234
+      "videoCount": 15,
+      "totalDuration": 4800
     },
     {
       "id": "PL9EijNLnb2m61cqojUSIYAqDoJew-PS5b",
