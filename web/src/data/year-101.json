@@ -1,0 +1,365 @@
+{
+  "year": 101,
+  "videos": [
+    {
+      "playlistId": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "playlistTitle": "101 學年度大學學測 - 英文文意字彙",
+      "videoIndex": 1,
+      "youtubeId": "dai8jwgEyOE",
+      "videoTitle": "101 學年度大學學測 - 文意字彙 01",
+      "description": "1. The ending of the movie did not come as a _____ to John because he had already read the novel that the movie was based on. (A) vision (B) focus (C) surprise (D) conclusion",
+      "duration": "14:26",
+      "createdAt": "2025-12-24T09:34:41Z",
+      "views": 85,
+      "youtubeLink": "https://www.youtube.com/watch?v=dai8jwgEyOE",
+      "year": 101,
+      "question": {
+        "questionText": "The ending of the movie did not come as a _____ to John because he had already read the novel that the movie was based on.",
+        "options": {
+          "A": "vision",
+          "B": "focus",
+          "C": "surprise",
+          "D": "conclusion"
+        },
+        "correctAnswer": "C"
+      },
+      "durationSeconds": 866
+    },
+    {
+      "playlistId": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "playlistTitle": "101 學年度大學學測 - 英文文意字彙",
+      "videoIndex": 2,
+      "youtubeId": "kL794oO5rjM",
+      "videoTitle": "101 學年度大學學測 - 文意字彙 02",
+      "description": "2. In order to stay healthy and fit, John exercises _____. He works out twice a week in a gym. (A) regularly (B) directly (C) hardly (D) gradually",
+      "duration": "14:10",
+      "createdAt": "2025-12-24T09:35:44Z",
+      "views": 108,
+      "youtubeLink": "https://www.youtube.com/watch?v=kL794oO5rjM",
+      "year": 101,
+      "question": {
+        "questionText": "In order to stay healthy and fit, John exercises _____. He works out twice a week in a gym.",
+        "options": {
+          "A": "regularly",
+          "B": "directly",
+          "C": "hardly",
+          "D": "gradually"
+        },
+        "correctAnswer": "A"
+      },
+      "durationSeconds": 850
+    },
+    {
+      "playlistId": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "playlistTitle": "101 學年度大學學測 - 英文文意字彙",
+      "videoIndex": 3,
+      "youtubeId": "UQwEdeHWGUE",
+      "videoTitle": "101 學年度大學學測 - 文意字彙 03",
+      "description": "3. Traveling is a good way for us to _____ different cultures and broaden our horizons. (A) assume  (B) explore (C) occupy (D) inspire",
+      "duration": "12:55",
+      "createdAt": "2025-12-24T09:38:48Z",
+      "views": 146,
+      "youtubeLink": "https://www.youtube.com/watch?v=UQwEdeHWGUE",
+      "year": 101,
+      "question": {
+        "questionText": "Traveling is a good way for us to _____ different cultures and broaden our horizons.",
+        "options": {
+          "A": "assume",
+          "B": "explore",
+          "C": "occupy",
+          "D": "inspire"
+        },
+        "correctAnswer": "B"
+      },
+      "durationSeconds": 775
+    },
+    {
+      "playlistId": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "playlistTitle": "101 學年度大學學測 - 英文文意字彙",
+      "videoIndex": 4,
+      "youtubeId": "tVmmcR9bFGg",
+      "videoTitle": "101 學年度大學學測 - 文意字彙 04",
+      "description": "4. The story about Hou-I shooting down nine suns is a well-known Chinese _____, but it may not be a true historical event. (A) figure (B) rumor (C) miracle (D) legend",
+      "duration": "16:43",
+      "createdAt": "2025-12-29T13:14:52Z",
+      "views": 60,
+      "youtubeLink": "https://www.youtube.com/watch?v=tVmmcR9bFGg",
+      "year": 101,
+      "question": {
+        "questionText": "The story about Hou-I shooting down nine suns is a well-known Chinese _____, but it may not be a true historical event.",
+        "options": {
+          "A": "figure",
+          "B": "rumor",
+          "C": "miracle",
+          "D": "legend"
+        },
+        "correctAnswer": "D"
+      },
+      "durationSeconds": 1003
+    },
+    {
+      "playlistId": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "playlistTitle": "101 學年度大學學測 - 英文文意字彙",
+      "videoIndex": 5,
+      "youtubeId": "nbgDaHhRqUU",
+      "videoTitle": "101 學年度大學學測 - 文意字彙 05",
+      "description": "5. According to recent research, children under the age of 12 are generally not _____ enough to recognize risk and deal with dangerous situations.  (A) diligent (B) mature (C) familiar (D) sincere",
+      "duration": "15:37",
+      "createdAt": "2025-12-29T13:15:15Z",
+      "views": 43,
+      "youtubeLink": "https://www.youtube.com/watch?v=nbgDaHhRqUU",
+      "year": 101,
+      "question": {
+        "questionText": "According to recent research, children under the age of 12 are generally not _____ enough to recognize risk and deal with dangerous situations.",
+        "options": {
+          "A": "diligent",
+          "B": "mature",
+          "C": "familiar",
+          "D": "sincere"
+        },
+        "correctAnswer": "B"
+      },
+      "durationSeconds": 937
+    },
+    {
+      "playlistId": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "playlistTitle": "101 學年度大學學測 - 英文文意字彙",
+      "videoIndex": 6,
+      "youtubeId": "jGHj7dgTlHQ",
+      "videoTitle": "101 學年度大學學測 - 文意字彙 06",
+      "description": "6. Helen let out a sigh of ______ after hearing that her brother was not injured in the accident. (A) hesitation (B) relief (C) sorrow (D) triumph",
+      "duration": "14:10",
+      "createdAt": "2025-12-29T15:17:26Z",
+      "views": 33,
+      "youtubeLink": "https://www.youtube.com/watch?v=jGHj7dgTlHQ",
+      "year": 101,
+      "question": {
+        "questionText": "Helen let out a sigh of ______ after hearing that her brother was not injured in the accident.",
+        "options": {
+          "A": "hesitation",
+          "B": "relief",
+          "C": "sorrow",
+          "D": "triumph"
+        },
+        "correctAnswer": "B"
+      },
+      "durationSeconds": 850
+    },
+    {
+      "playlistId": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "playlistTitle": "101 學年度大學學測 - 英文文意字彙",
+      "videoIndex": 7,
+      "youtubeId": "aa9AIx8kG-o",
+      "videoTitle": "101 學年度大學學測 - 文意字彙 07",
+      "description": "7. Research suggests that people with outgoing personalities tend to be more _____, often expecting that good things will happen. (A) efficient (B) practical (C) changeable (D) optimistic",
+      "duration": "16:41",
+      "createdAt": "2025-12-29T15:17:49Z",
+      "views": 32,
+      "youtubeLink": "https://www.youtube.com/watch?v=aa9AIx8kG-o",
+      "year": 101,
+      "question": {
+        "questionText": "Research suggests that people with outgoing personalities tend to be more _____, often expecting that good things will happen.",
+        "options": {
+          "A": "efficient",
+          "B": "practical",
+          "C": "changeable",
+          "D": "optimistic"
+        },
+        "correctAnswer": "D"
+      },
+      "durationSeconds": 1001
+    },
+    {
+      "playlistId": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "playlistTitle": "101 學年度大學學測 - 英文文意字彙",
+      "videoIndex": 8,
+      "youtubeId": "HFWoV-uSAwY",
+      "videoTitle": "101 學年度大學學測 - 文意字彙 08",
+      "description": "8. No one could beat Paul at running. He has won the running championship _____ for three years. (A) rapidly (B) urgently (C) continuously (D) temporarily",
+      "duration": "11:38",
+      "createdAt": "2025-12-29T15:18:10Z",
+      "views": 38,
+      "youtubeLink": "https://www.youtube.com/watch?v=HFWoV-uSAwY",
+      "year": 101,
+      "question": {
+        "questionText": "No one could beat Paul at running. He has won the running championship _____ for three years.",
+        "options": {
+          "A": "rapidly",
+          "B": "urgently",
+          "C": "continuously",
+          "D": "temporarily"
+        },
+        "correctAnswer": "C"
+      },
+      "durationSeconds": 698
+    },
+    {
+      "playlistId": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "playlistTitle": "101 學年度大學學測 - 英文文意字彙",
+      "videoIndex": 9,
+      "youtubeId": "65qf4K7FmCE",
+      "videoTitle": "101 學年度大學學測 - 文意字彙 09",
+      "description": "9. If you fly from Taipei to Tokyo, you'll be taking an international, rather than a _____ flight. (A) liberal (B) domestic (C) connected (D) universal",
+      "duration": "12:42",
+      "createdAt": "2025-12-30T07:10:20Z",
+      "views": 34,
+      "youtubeLink": "https://www.youtube.com/watch?v=65qf4K7FmCE",
+      "year": 101,
+      "question": {
+        "questionText": "If you fly from Taipei to Tokyo, you'll be taking an international, rather than a _____ flight.",
+        "options": {
+          "A": "liberal",
+          "B": "domestic",
+          "C": "connected",
+          "D": "universal"
+        },
+        "correctAnswer": "B"
+      },
+      "durationSeconds": 762
+    },
+    {
+      "playlistId": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "playlistTitle": "101 學年度大學學測 - 英文文意字彙",
+      "videoIndex": 10,
+      "youtubeId": "MOMPsY7N4i8",
+      "videoTitle": "101 學年度大學學測 - 文意字彙 10",
+      "description": "10. Jack is very proud of his fancy new motorcycle. He has been _____ to all his friends about how cool it looks and how fast it runs. (A) boasting (B) proposing (C) gossiping   (D) confessing",
+      "duration": "10:27",
+      "createdAt": "2025-12-30T07:10:55Z",
+      "views": 14,
+      "youtubeLink": "https://www.youtube.com/watch?v=MOMPsY7N4i8",
+      "year": 101,
+      "question": {
+        "questionText": "Jack is very proud of his fancy new motorcycle. He has been _____ to all his friends about how cool it looks and how fast it runs.",
+        "options": {
+          "A": "boasting",
+          "B": "proposing",
+          "C": "gossiping",
+          "D": "confessing"
+        },
+        "correctAnswer": "A"
+      },
+      "durationSeconds": 627
+    },
+    {
+      "playlistId": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "playlistTitle": "101 學年度大學學測 - 英文文意字彙",
+      "videoIndex": 11,
+      "youtubeId": "D0PEc00So6A",
+      "videoTitle": "101 學年度大學學測 - 文意字彙 11",
+      "description": "11. The ideas about family have changed _____ in the past twenty years. For example, my grandfather was one of ten children in his family, but I am the only child. (A) mutually (B) narrowly (C) considerably (D) scarcely",
+      "duration": "8:33",
+      "createdAt": "2025-12-30T07:11:38Z",
+      "views": 23,
+      "youtubeLink": "https://www.youtube.com/watch?v=D0PEc00So6A",
+      "year": 101,
+      "question": {
+        "questionText": "The ideas about family have changed _____ in the past twenty years. For example, my grandfather was one of ten children in his family, but I am the only child.",
+        "options": {
+          "A": "mutually",
+          "B": "narrowly",
+          "C": "considerably",
+          "D": "scarcely"
+        },
+        "correctAnswer": "C"
+      },
+      "durationSeconds": 513
+    },
+    {
+      "playlistId": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "playlistTitle": "101 學年度大學學測 - 英文文意字彙",
+      "videoIndex": 12,
+      "youtubeId": "8zHhd7R-cTk",
+      "videoTitle": "101 學年度大學學測 - 文意字彙 12",
+      "description": "12. The chairperson of the meeting asked everyone to speak up instead of _____ their opinions among themselves. (A) reciting (B) giggling (C) murmuring (D) whistling",
+      "duration": "11:34",
+      "createdAt": "2025-12-30T08:40:14Z",
+      "views": 58,
+      "youtubeLink": "https://www.youtube.com/watch?v=8zHhd7R-cTk",
+      "year": 101,
+      "question": {
+        "questionText": "The chairperson of the meeting asked everyone to speak up instead of _____ their opinions among themselves.",
+        "options": {
+          "A": "reciting",
+          "B": "giggling",
+          "C": "murmuring",
+          "D": "whistling"
+        },
+        "correctAnswer": "C"
+      },
+      "durationSeconds": 694
+    },
+    {
+      "playlistId": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "playlistTitle": "101 學年度大學學測 - 英文文意字彙",
+      "videoIndex": 13,
+      "youtubeId": "iiviJclPECI",
+      "videoTitle": "101 學年度大學學測 - 文意字彙 13",
+      "description": "13. Although Mr. Chen is rich, he is a very _____ person and is never willing to spend any money to help those who are in need.  (A) absolute (B) precise (C) economic (D) stingy",
+      "duration": "8:43",
+      "createdAt": "2025-12-30T08:40:42Z",
+      "views": 33,
+      "youtubeLink": "https://www.youtube.com/watch?v=iiviJclPECI",
+      "year": 101,
+      "question": {
+        "questionText": "Although Mr. Chen is rich, he is a very _____ person and is never willing to spend any money to help those who are in need.",
+        "options": {
+          "A": "absolute",
+          "B": "precise",
+          "C": "economic",
+          "D": "stingy"
+        },
+        "correctAnswer": "D"
+      },
+      "durationSeconds": 523
+    },
+    {
+      "playlistId": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "playlistTitle": "101 學年度大學學測 - 英文文意字彙",
+      "videoIndex": 14,
+      "youtubeId": "fE5yas_J7uE",
+      "videoTitle": "101 學年度大學學測 - 文意字彙 14",
+      "description": "14. If you want to know what your dreams mean, now there are websites you can visit to help you _____ them. (A) overcome (B) interpret (C) transfer (D) revise",
+      "duration": "7:48",
+      "createdAt": "2025-12-30T08:46:31Z",
+      "views": 42,
+      "youtubeLink": "https://www.youtube.com/watch?v=fE5yas_J7uE",
+      "year": 101,
+      "question": {
+        "questionText": "If you want to know what your dreams mean, now there are websites you can visit to help you _____ them.",
+        "options": {
+          "A": "overcome",
+          "B": "interpret",
+          "C": "transfer",
+          "D": "revise"
+        },
+        "correctAnswer": "B"
+      },
+      "durationSeconds": 468
+    },
+    {
+      "playlistId": "PL9EijNLnb2m5GTSQn1CDBNRvVsOuxuRxh",
+      "playlistTitle": "101 學年度大學學測 - 英文文意字彙",
+      "videoIndex": 15,
+      "youtubeId": "lO7Q_y_R_cE",
+      "videoTitle": "101 學年度大學學測 - 文意字彙 15",
+      "description": "15. The memory _____ of the new computer has been increased so that more information can be stored. (A) capacity (B) occupation (C) attachment (D) machinery",
+      "duration": "13:07",
+      "createdAt": "2025-12-30T08:46:55Z",
+      "views": 64,
+      "youtubeLink": "https://www.youtube.com/watch?v=lO7Q_y_R_cE",
+      "year": 101,
+      "question": {
+        "questionText": "The memory _____ of the new computer has been increased so that more information can be stored.",
+        "options": {
+          "A": "capacity",
+          "B": "occupation",
+          "C": "attachment",
+          "D": "machinery"
+        },
+        "correctAnswer": "A"
+      },
+      "durationSeconds": 787
+    }
+  ]
+}
